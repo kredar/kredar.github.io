@@ -62,9 +62,9 @@ author:
   avatar : "/assets/images/bio-photo-new.jpg"
   bio    : "Product Managemet, Machine Learning, Converational AI"
   links:
-    - label: "Toronto, Canada"
-        icon: "fas fa-fw fa-map-pin"
-        url: "https://www.linkedin.com/in/kreimer/"
+#    - label: "Toronto, Canada"
+#        icon: "fas fa-fw fa-map-pin"
+#        url: "https://www.linkedin.com/in/kreimer/"
     - label: "LinkedIn"
         icon: "fab fa-fw fa-linkedin"
         url: "https://www.linkedin.com/in/kreimer/"
