@@ -14,7 +14,7 @@ classes: wide
 ---
 
 
-{% include figure image_path="/assets/images/rework.png" alt="Rework" caption="Rework by Jason Fried and David Heinemeier Hansson" %}
+[comment]: <> ({% include figure image_path="/assets/images/rework.png" alt="Rework" caption="Rework by Jason Fried and David Heinemeier Hansson" %})
 
 
 "Rework" by Jason Fried and David Heinemeier Hansson is not your typical business book. It's a quick read - a collection of small ideas/tips on **Entrepreneurship**, **Productivity**, **Management**, **Marketing**, **Hiring**, **Business Culture**, and more. 
