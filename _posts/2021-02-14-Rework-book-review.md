@@ -10,6 +10,7 @@ tags:
 header:
   image: /assets/images/rework.png
   image_description: "Rework by Jason Fried and David Heinemeier Hansson"
+classes: wide
 ---
 
 
