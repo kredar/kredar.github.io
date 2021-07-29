@@ -39,7 +39,7 @@ Here are just a small portion of the ideas that got me to pause and think:
 
 > "[focus] means saying no to the hundred other good ideas that there are. You have to pick carefully. I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying 'no' to 1,000 things."
 
-[comment]: <> (> <cite><a href="http://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite>)
+[comment]: <> "> <cite><a href="http://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite>"
 
 **Hire great writers** - Clear communication is one of the most critical skills for any position. And it's a must-have skill for Product Managers.
 
