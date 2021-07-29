@@ -7,6 +7,9 @@ tags:
   - books
   - Entrepreneurship
   - Productivity
+header:
+  image: /assets/images/rework.png
+  image_description: "Rework by Jason Fried and David Heinemeier Hansson"
 ---
 
 

@@ -13,6 +13,8 @@ header:
   actions:
     - label: "More Info"
       url: "https://unsplash.com"
+show_date: true 
+classes: wide
 ---
 
 A notice displays information that explains nearby content. Often used to call attention to a particular detail.
