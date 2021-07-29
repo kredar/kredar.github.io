@@ -1,10 +1,10 @@
 ---
-title: "Rework"
+title: "\"Rework\" by Jason Fried and David Heinemeier Hansson"
 date: 2021-02-14T15:34:30-04:00
 categories:
-  - book reviews
+  - Book Review
 tags:
-  - books
+  - Books
   - Entrepreneurship
   - Productivity
 header:
@@ -13,8 +13,6 @@ header:
 classes: wide
 ---
 
-
-[comment]: <> ({% include figure image_path="/assets/images/rework.png" alt="Rework" caption="Rework by Jason Fried and David Heinemeier Hansson" %})
 
 
 "Rework" by Jason Fried and David Heinemeier Hansson is not your typical business book. It's a quick read - a collection of small ideas/tips on **Entrepreneurship**, **Productivity**, **Management**, **Marketing**, **Hiring**, **Business Culture**, and more. 
@@ -48,3 +46,4 @@ Here are just a small portion of the ideas that got me to pause and think:
 **Hire great writers** - Clear communication is one of the most critical skills for any position. And it's a must-have skill for Product Managers.
 
 **"Rework"** is a provocative collection of tips and ideas that worked for the founders of Basecamp. Not all of them would work for you. Still, the book forces you to challenge your beliefs in almost all business and product management aspects. If you haven't read it, read it - challenge your assumptions.
+

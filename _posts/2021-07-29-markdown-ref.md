@@ -1,10 +1,5 @@
 ---
 title: "Reference to markdown functions"
-categories:
-  - Blog
-tags:
-  - Post Formats
-  - notice
 excerpt: "This post should [...]"
 header:
   overlay_image: /assets/images/unsplash-image-1.jpg
