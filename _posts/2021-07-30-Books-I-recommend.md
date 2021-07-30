@@ -24,7 +24,7 @@ I have divided this books list into three categories:
 
 **Leadership/Management** are books on the art of leading people & teams and managing projects.
 
-**History** books- This is knowing your past kind of books. As [Carl Sagan](https://www.goodreads.com/quotes/194992-you-have-to-know-the-past-to-understand-the-present,) famously said, "You have to know the past to understand the present." I would add to it, "You have to know the past to understand the present and build a better future." 
+**Know the past** - These are history books. As [Carl Sagan](https://www.goodreads.com/quotes/194992-you-have-to-know-the-past-to-understand-the-present,) famously said, "You have to know the past to understand the present." I would add to it, "You have to know the past to understand the present and build a better future." 
 
 ## **Leadership/Management**
 
@@ -100,7 +100,7 @@ I have divided this books list into three categories:
 
 
 
-## Better know your past
+## Know the past
 
 - [Sapiens: A Brief History of Humankind](https://www.amazon.ca/Sapiens-Humankind-Yuval-Noah-Harari/dp/0771038518/ref=sr_1_1?crid=1SQUHAY7LP7UU&dchild=1&keywords=sapiens&qid=1627681863&sprefix=sapiens%2Caps%2C202&sr=8-1) by Yuval Noah Harari 
 
