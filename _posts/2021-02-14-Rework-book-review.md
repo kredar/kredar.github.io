@@ -7,13 +7,12 @@ tags:
   - Books
   - Entrepreneurship
   - Productivity
+layout: splash
 header:
   image: /assets/images/rework.png
   image_description: "Rework by Jason Fried and David Heinemeier Hansson"
 classes: wide
 ---
-
-
 
 "Rework" by Jason Fried and David Heinemeier Hansson is not your typical business book. It's a quick read - a collection of small ideas/tips on **Entrepreneurship**, **Productivity**, **Management**, **Marketing**, **Hiring**, **Business Culture**, and more. 
 
