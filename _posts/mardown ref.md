@@ -5,9 +5,6 @@ header:
   overlay_image: /assets/images/shane-rounce.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Photo credit: [**Shane Rounce**](https://unsplash.com/@shanerounce?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com/s/photos/artificial-intelligence?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
-  actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
 show_date: true 
 classes: wide
 ---
