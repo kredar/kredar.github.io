@@ -52,9 +52,8 @@ I have divided this books list into three categories:
 
   A lot of controversial thoughts and bits of advice in this book. You can read more about it in this [post]({% post_url 2021-02-14-Rework-book-review %})
 
-- [Good to Great](https://www.amazon.ca/Good-Great-Some-Companies-Others/dp/0066620996/ref=sr_1_1?crid=TKBOSJ9K5Y35&dchild=1&keywords=good+to+great&qid=1627682140&sprefix=good+to+great%2Caps%2C177&sr=8-1) 
-
-- 
+[comment]: <> (- [Good to Great]&#40;https://www.amazon.ca/Good-Great-Some-Companies-Others/dp/0066620996/ref=sr_1_1?crid=TKBOSJ9K5Y35&dchild=1&keywords=good+to+great&qid=1627682140&sprefix=good+to+great%2Caps%2C177&sr=8-1&#41; )
+ 
 
 ## Inspirational/Self motivation 
 
@@ -104,7 +103,8 @@ I have divided this books list into three categories:
 
 - [Sapiens: A Brief History of Humankind](https://www.amazon.ca/Sapiens-Humankind-Yuval-Noah-Harari/dp/0771038518/ref=sr_1_1?crid=1SQUHAY7LP7UU&dchild=1&keywords=sapiens&qid=1627681863&sprefix=sapiens%2Caps%2C202&sr=8-1) by Yuval Noah Harari 
 
-  How Homo Sapiens became the most dominant species on the planet Earth? What happened to other human species that lived on planet Earth alongside Home Sapiens? Why do we live in the most peaceful time of human history? Yuval Noah Harari masterfully covers these and other questions about the history of humankind in his book. If you like Sapiens, I would suggest checking his other book, "[Home Deus](https://www.amazon.ca/Homo-Deus-Brief-History-Tomorrow/dp/0771038704/ref=sr_1_1?crid=3GU6DG985YR2C&dchild=1&keywords=homo+deus&qid=1627681880&sprefix=homo+%2Caps%2C203&sr=8-1)," where he predicts how humans would evolve and what the future holds for us. 
+  ![](https://images-na.ssl-images-amazon.com/images/I/41ZhK-cIjmL._SY264_BO1,204,203,200_QL40_ML2_.jpg)
+How Homo Sapiens became the most dominant species on the planet Earth? What happened to other human species that lived on planet Earth alongside Home Sapiens? Why do we live in the most peaceful time of human history? Yuval Noah Harari masterfully covers these and other questions about the history of humankind in his book. If you like Sapiens, I would suggest checking his other book, "[Home Deus](https://www.amazon.ca/Homo-Deus-Brief-History-Tomorrow/dp/0771038704/ref=sr_1_1?crid=3GU6DG985YR2C&dchild=1&keywords=homo+deus&qid=1627681880&sprefix=homo+%2Caps%2C203&sr=8-1)," where he predicts how humans would evolve and what the future holds for us. 
 
 - [The Tipping Point](https://www.amazon.ca/Tipping-Point-Little-Things-Difference/dp/0316346624/ref=sr_1_1?dchild=1&keywords=tipping+point&qid=1627681906&sr=8-1) by Malcolm Gladwell
 

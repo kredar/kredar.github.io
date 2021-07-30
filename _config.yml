@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "👋, I'm Artiom"
   avatar : "/assets/images/bio-photo-new.jpg"
-  bio    : "I am a technical PM writing about Product Management, Leadership, Machine Learning, Conversational AI, and Life in general"
+  bio    : "I am a PM writing about Leadership, Productivity, Product Management, Machine Learning, Conversational AI, and Life in general"
   location : "Toronto, Canada"
   links:
     - label: "LinkedIn"
