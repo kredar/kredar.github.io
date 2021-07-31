@@ -48,6 +48,9 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+kramdown:
+  hard_wrap: true
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
