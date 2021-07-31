@@ -27,42 +27,53 @@ I have divided this list into three categories:
 **Know the past** - These are history books. As [Carl Sagan](https://www.goodreads.com/quotes/194992-you-have-to-know-the-past-to-understand-the-present,) famously said, "You have to know the past to understand the present." I would add to it, "You have to know the past to understand the present and build a better future." 
 
 ## Leadership/Management
+<div>
 
 ### [High Output Management](https://www.amazon.ca/High-Output-Management-Andrew-Grove/dp/0679762884/ref=sr_1_1?crid=137EWJSQBHXZZ&dchild=1&keywords=high+output+management&qid=1627681414&sprefix=high+outpu%2Caps%2C172&sr=8-1) by Andy Grove
 
 ![High Output Management](https://images-na.ssl-images-amazon.com/images/I/41pXzmjz9KL._SX322_BO1,204,203,200_.jpg){: .align-left} Andy Grove was one of the greatest CEOs of our time, and his management approach is a foundation of famous OKRs (Objective Key Results). A must-read book for any manager. 
 {:style="clear: left"}
+</div>
 
----
+<div>
+
 ### [The Hard Thing About Hard Things](https://www.amazon.ca/Hard-Thing-About-Things-Building/dp/0062273205/ref=sr_1_1?crid=39TD4QUJOA6LV&dchild=1&keywords=hard+things+about+hard+things&qid=1627681454&sprefix=hard+things+%2Caps%2C185&sr=8-1) by Ben Horowitz
 
 ![The Hard Thing About Hard Things](https://images-na.ssl-images-amazon.com/images/I/51NCFyHpkxL._SY264_BO1,204,203,200_QL40_ML2_.jpg){: .align-left}  Ben Horowitz has co-founded Andreessen Horowitz - one of the most prominent Silicon Valley investment firms. His book contains lessons learned from founding, running, and selling a company for $1.6B. It covers all the hards things about running the company, including leading and firing people, building the right culture, and the difference between Peacetime and Wartime CEOs. Running a company is a very tough, stressful job but can be extremely rewarding, and it's something you can learn. 
 {:style="clear: left"}
+</div>
 
----
+<div>
+
 ### [Trillion Dollar Coach](https://www.amazon.ca/Trillion-Dollar-Coach-Leadership-Playbook/dp/0062839268/ref=sr_1_1?crid=18Q9Y4Q5VVNXW&dchild=1&keywords=trillion+dollar+coach&qid=1627681480&sprefix=trillion+do%2Caps%2C179&sr=8-1) by Eric Schmidt, Jonathan Rosenberg, Alan Eagle
 
  ![Trillion Dollar Coach](https://images-na.ssl-images-amazon.com/images/I/41vgassjrKL._SY264_BO1,204,203,200_QL40_ML2_.jpg){: .align-left} Coaching is a must-have skill for any manager, and Bill Campbell was probably one of the best business coaches. He coached leaders from Google, Apple, Intuit, and many other companies. He was a great coach, community builder, and just a great human being, and we all can learn from his legacy. If you aspire to become a great leader, you should read this book.
 {:style="clear: left"}
+</div>
 
----
+<div>
+
 ### [Never Split the Difference](https://www.amazon.ca/Never-Split-Difference-Negotiating-Depended/dp/1847941494/ref=sr_1_1?crid=2OVHNXSFLDV5J&dchild=1&keywords=never+split+the+difference&qid=1627681538&sprefix=never+sp%2Caps%2C181&sr=8-1) by Chris Voss and Tahl Raz
 
 ![Never Split the Difference](https://images-na.ssl-images-amazon.com/images/I/51scWnDay7S._SY264_BO1,204,203,200_QL40_ML2_.jpg){: .align-left} We have to constantly negotiate something, be it in the office or at home. In his book, Chris Voss, a former FBI hostage negotiator, provides insights and clear guidance everyone can apply to everyday negotiations. I am not going to say that after reading this book, I can win at every negotiation, but I am working on it 😆
 {:style="clear: left"}
+</div>
 
----
+<div>
+
 ### [Measure What Matters](https://www.amazon.ca/Measure-What-Matters-Google-Foundation/dp/0525536221/ref=sr_1_1?crid=38B44P9BPJVDN&dchild=1&keywords=measure+what+matters&qid=1627681583&sprefix=measure+what+%2Caps%2C173&sr=8-1) by John Doerr 
 
 ![Measure What Matters](https://images-na.ssl-images-amazon.com/images/I/51G-XiecxvL._SX329_BO1,204,203,200_.jpg){: .align-left} Objectives and Key Results is a different approach to goal-setting used by hundreds of successful companies worldwide. The most famous of them is Google. John Doerr introduced OKRs to Google founders back in 1999, and OKRs are an integral part of Google's success. If you want your organization to excel, aim high, and move fast, you have to read about OKRs. 
 {:style="clear: left"}
+</div>
 
----
+<div>
+
 ### [Rework](https://www.amazon.ca/Rework-Jason-Fried/dp/0307463745/ref=sr_1_1?dchild=1&keywords=rework&qid=1627681603&sr=8-1) by Jason Fried and David Heinemeier Hansson
 
 ![Rework](https://images-na.ssl-images-amazon.com/images/I/41woojfwaaL._SX329_BO1,204,203,200_.jpg){: .align-left} A lot of controversial thoughts and bits of advice in this book. You can read more about it in this [post]({% post_url 2021-02-14-Rework-book-review %})
 {:style="clear: left"}
-
+</div>
 
 [comment]: <> "- [Good to Great]&#40;https://www.amazon.ca/Good-Great-Some-Companies-Others/dp/0066620996/ref=sr_1_1?crid=TKBOSJ9K5Y35&dchild=1&keywords=good+to+great&qid=1627682140&sprefix=good+to+great%2Caps%2C177&sr=8-1&#41; "
 
