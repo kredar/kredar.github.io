@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "👋, I'm Artiom"
+  name   : "👋, I'm Artiom Kreimer"
   avatar : "/assets/images/bio-photo-new.jpg"
-  bio    : "I am a PM writing about Leadership, Productivity, Product Management, Machine Learning, Conversational AI, and Life in general"
+  bio    : "PM writing about Leadership, Productivity, Product Management, Machine Learning, Conversational AI, and Life in general."
   location : "Toronto, Canada"
   links:
     - label: "LinkedIn"
