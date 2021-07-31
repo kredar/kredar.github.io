@@ -101,11 +101,12 @@ I have divided this books list into three categories:
 
 ## Know the past
 
-- [Sapiens: A Brief History of Humankind](https://www.amazon.ca/Sapiens-Humankind-Yuval-Noah-Harari/dp/0771038518/ref=sr_1_1?crid=1SQUHAY7LP7UU&dchild=1&keywords=sapiens&qid=1627681863&sprefix=sapiens%2Caps%2C202&sr=8-1) by Yuval Noah Harari
+### [Sapiens: A Brief History of Humankind](https://www.amazon.ca/Sapiens-Humankind-Yuval-Noah-Harari/dp/0771038518/ref=sr_1_1?crid=1SQUHAY7LP7UU&dchild=1&keywords=sapiens&qid=1627681863&sprefix=sapiens%2Caps%2C202&sr=8-1) by Yuval Noah Harari
   
 ![](https://images-na.ssl-images-amazon.com/images/I/41ZhK-cIjmL._SY264_BO1,204,203,200_QL40_ML2_.jpg){: .align-left} How Homo Sapiens became the most dominant species on the planet Earth? What happened to other human species that lived on planet Earth alongside Home Sapiens? Why do we live in the most peaceful time of human history? Yuval Noah Harari masterfully covers these and other questions about the history of humankind in his book. If you like Sapiens, I would suggest checking his other book, "[Home Deus](https://www.amazon.ca/Homo-Deus-Brief-History-Tomorrow/dp/0771038704/ref=sr_1_1?crid=3GU6DG985YR2C&dchild=1&keywords=homo+deus&qid=1627681880&sprefix=homo+%2Caps%2C203&sr=8-1)," where he predicts how humans would evolve and what the future holds for us. 
 
-- [The Tipping Point](https://www.amazon.ca/Tipping-Point-Little-Things-Difference/dp/0316346624/ref=sr_1_1?dchild=1&keywords=tipping+point&qid=1627681906&sr=8-1) by Malcolm Gladwell
+
+### [The Tipping Point](https://www.amazon.ca/Tipping-Point-Little-Things-Difference/dp/0316346624/ref=sr_1_1?dchild=1&keywords=tipping+point&qid=1627681906&sr=8-1) by Malcolm Gladwell
 
   ![](https://images-na.ssl-images-amazon.com/images/I/31R-U1dkyKL._SY264_BO1,204,203,200_QL40_ML2_.jpg){: .align-left} The tipping point is that magic moment when an idea, or social behaviour crosses a threshold, tips, and spreads like wildfire. Why do ideas spread like epidemics and what part does the Tipping Point play? What sort of people have the most influence on the spread of ideas? Which of the factors play a part in the spread of ideas? Answers to this and other questions will be covered in Malcolm Gladwell's book.  
 
