@@ -32,20 +32,18 @@ I have divided this list into three categories:
     
 ## Leadership/Management
 
-### [High Output Management](https://www.amazon.ca/High-Output-Management-Andrew-Grove/dp/0679762884/ref=sr_1_1?crid=137EWJSQBHXZZ&dchild=1&keywords=high+output+management&qid=1627681414&sprefix=high+outpu%2Caps%2C172&sr=8-1) by Andy Grove
-
-![High Output Management](/assets/images/high_output.jpg){: .align-left} Andy Grove was one of the greatest CEOs of our time, and his management approach is a foundation of famous OKRs (Objective Key Results). A must-read book for any manager.   
+![High Output Management](/assets/images/high_output.jpg){: .align-left} ### [High Output Management](https://www.amazon.ca/High-Output-Management-Andrew-Grove/dp/0679762884/ref=sr_1_1?crid=137EWJSQBHXZZ&dchild=1&keywords=high+output+management&qid=1627681414&sprefix=high+outpu%2Caps%2C172&sr=8-1) by Andy Grove
+Andy Grove was one of the greatest CEOs of our time, and his management approach is a foundation of famous OKRs (Objective Key Results). A must-read book for any manager.   
 
 
 {:style="clear: left"}
 
 
 
-### [The Hard Thing About Hard Things](https://www.amazon.ca/Hard-Thing-About-Things-Building/dp/0062273205/ref=sr_1_1?crid=39TD4QUJOA6LV&dchild=1&keywords=hard+things+about+hard+things&qid=1627681454&sprefix=hard+things+%2Caps%2C185&sr=8-1) by Ben Horowitz
 
-{% include figure image_path="/assets/images/the_hard_thing.jpg" alt="alt" caption="The Hard Thing About Hard Things" %}
 
-![The Hard Thing About Hard Things](/assets/images/the_hard_thing.jpg){: .align-left}  Ben Horowitz has co-founded Andreessen Horowitz - one of the most prominent Silicon Valley investment firms. His book contains lessons learned from founding, running, and selling a company for $1.6B. It covers all the hards things about running the company, including leading and firing people, building the right culture, and the difference between Peacetime and Wartime CEOs. Running a company is a very tough, stressful job but can be extremely rewarding, and it's something you can learn.   
+![The Hard Thing About Hard Things](/assets/images/the_hard_thing.jpg){: .align-left}  ### [The Hard Thing About Hard Things](https://www.amazon.ca/Hard-Thing-About-Things-Building/dp/0062273205/ref=sr_1_1?crid=39TD4QUJOA6LV&dchild=1&keywords=hard+things+about+hard+things&qid=1627681454&sprefix=hard+things+%2Caps%2C185&sr=8-1) by Ben Horowitz
+Ben Horowitz has co-founded Andreessen Horowitz - one of the most prominent Silicon Valley investment firms. His book contains lessons learned from founding, running, and selling a company for $1.6B. It covers all the hards things about running the company, including leading and firing people, building the right culture, and the difference between Peacetime and Wartime CEOs. Running a company is a very tough, stressful job but can be extremely rewarding, and it's something you can learn.   
 
 {:style="clear: left"}
 
