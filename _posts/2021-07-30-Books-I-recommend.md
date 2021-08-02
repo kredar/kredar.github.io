@@ -6,17 +6,15 @@ tags:
   - Recommendations
 excerpt: "List of books I recommend everyone to read"
 header:
-  overlay_image: /assets/images/janko-ferlic-sfL_QOnmy00-unsplash.jpg
+  overlay_image: /assets/images/susan-q-yin-2JIvboGLeho-unsplash.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo by: [**🇸🇮 Janko Ferlič**](https://unsplash.com/@itfeelslikefilm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com/s/photos/books?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
+  caption: "Photo by: [**Susan Q Yin**](https://unsplash.com/@syinq?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com/s/photos/books?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 show_date: true 
 classes: wide
 author_profile: true
 ---
 
-
-
-I love to read, and I read a lot. When I was younger, I was mostly reading fantasy and sci-fi books. But about ten years ago, it all changed when I read my first nonfiction book. I don't remember why but I read "The Power of Habit" by Charles Duhigg, and I loved it. It was easy to read, had great true-life stories, and I saw that it could change my own life. I couldn't stop talking about it; I talked about it with my family, friends, and coworkers. I have to admit - it didn't change my life but definitely affected it and got me thinking about good and bad habits in my life and how to control them. Later I read several of Malcolm Gladwell's books and liked them. Nowadays, I mostly read nonfiction books and mostly around product management ( I am going to write a separate post on books for PMs), leadership, management, and psychology. 
+I love to read, and I read a lot. When I was younger, I was mostly reading fantasy and sci-fi books. But about ten years ago, it all changed when I read my first nonfiction book. I don't remember why, but I read "The Power of Habit" by Charles Duhigg, and I loved it. It was easy to read, had great true-life stories, and I saw that it could change my own life. I couldn't stop talking about it; I talked about it with my family, friends, and coworkers. I have to admit - it didn't change my life but definitely affected it and got me thinking about good and bad habits in my life and how to control them. Later I read several of Malcolm Gladwell's books and liked them. Nowadays, I mostly read nonfiction books and mostly around product management ( I am going to write a separate post on books for PMs), leadership, management, and psychology. 
 
 I have divided this list into three categories: 
 
@@ -54,7 +52,7 @@ Ben Horowitz has co-founded Andreessen Horowitz - one of the most prominent Sili
 {:style="clear: left"}
 
 
-### [Trillion Dollar Coach](https://www.amazon.ca/Trillion-Dollar-Coach-Leadership-Playbook/dp/0062839268/ref=sr_1_1?crid=18Q9Y4Q5VVNXW&dchild=1&keywords=trillion+dollar+coach&qid=1627681480&sprefix=trillion+do%2Caps%2C179&sr=8-1) by Eric Schmidt, Jonathan Rosenberg, Alan Eagle  
+### [Trillion Dollar Coach](https://www.amazon.ca/Trillion-Dollar-Coach-Leadership-Playbook/dp/0062839268/ref=sr_1_1?crid=18Q9Y4Q5VVNXW&dchild=1&keywords=trillion+dollar+coach&qid=1627681480&sprefix=trillion+do%2Caps%2C179&sr=8-1) by Eric Schmidt, Jonathan Rosenberg, Alan Eagle     
 
 
  ![Trillion Dollar Coach](/assets/images/trillion_dollar.jpg){: .align-left} Coaching is a must-have skill for any manager, and Bill Campbell was probably one of the best business coaches. He coached leaders from Google, Apple, Intuit, and many other companies. He was a great coach, community builder, and just a great human being, and we all can learn from his legacy. If you aspire to become a great leader, you should read this book.   
@@ -62,7 +60,7 @@ Ben Horowitz has co-founded Andreessen Horowitz - one of the most prominent Sili
 {:style="clear: left"}
 
 
-### [Never Split the Difference](https://www.amazon.ca/Never-Split-Difference-Negotiating-Depended/dp/1847941494/ref=sr_1_1?crid=2OVHNXSFLDV5J&dchild=1&keywords=never+split+the+difference&qid=1627681538&sprefix=never+sp%2Caps%2C181&sr=8-1) by Chris Voss and Tahl Raz  
+### [Never Split the Difference](https://www.amazon.ca/Never-Split-Difference-Negotiating-Depended/dp/1847941494/ref=sr_1_1?crid=2OVHNXSFLDV5J&dchild=1&keywords=never+split+the+difference&qid=1627681538&sprefix=never+sp%2Caps%2C181&sr=8-1) by Chris Voss and Tahl Raz    
 
 
 ![Never Split the Difference](/assets/images/never_split_the_diff.jpg){: .align-left} We have to constantly negotiate something, be it in the office or at home. In his book, Chris Voss, a former FBI hostage negotiator, provides insights and clear guidance everyone can apply to everyday negotiations. I am not going to say that after reading this book, I can win at every negotiation, but I am working on it 😆   
@@ -93,8 +91,8 @@ Ben Horowitz has co-founded Andreessen Horowitz - one of the most prominent Sili
 
 [comment]: <> "- [Good to Great]&#40;https://www.amazon.ca/Good-Great-Some-Companies-Others/dp/0066620996/ref=sr_1_1?crid=TKBOSJ9K5Y35&dchild=1&keywords=good+to+great&qid=1627682140&sprefix=good+to+great%2Caps%2C177&sr=8-1&#41; "
 
-## Inspirational/Self motivation   
 
+## Inspirational/Self motivation   
 
 
 ### [Steve Jobs](https://www.amazon.ca/Steve-Jobs-Walter-Isaacson/dp/1501127624/ref=sr_1_1?dchild=1&keywords=steve+jobs&qid=1627681628&sr=8-1) by Walter Isaacson  
@@ -170,6 +168,10 @@ Ben Horowitz has co-founded Andreessen Horowitz - one of the most prominent Sili
 
 {:style="clear: left"}    
 
+
+​        
+​          
+​          
 ## Know the past   
 
 
