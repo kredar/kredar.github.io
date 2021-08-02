@@ -57,7 +57,8 @@ Ben Horowitz has co-founded Andreessen Horowitz - one of the most prominent Sili
 
  ![Trillion Dollar Coach](/assets/images/trillion_dollar.jpg){: .align-left} Coaching is a must-have skill for any manager, and Bill Campbell was probably one of the best business coaches. He coached leaders from Google, Apple, Intuit, and many other companies. He was a great coach, community builder, and just a great human being, and we all can learn from his legacy. If you aspire to become a great leader, you should read this book.   
 
-{:style="clear: left"}
+{:style="clear: left"}   
+
 
 
 ### [Never Split the Difference](https://www.amazon.ca/Never-Split-Difference-Negotiating-Depended/dp/1847941494/ref=sr_1_1?crid=2OVHNXSFLDV5J&dchild=1&keywords=never+split+the+difference&qid=1627681538&sprefix=never+sp%2Caps%2C181&sr=8-1) by Chris Voss and Tahl Raz    
@@ -87,7 +88,13 @@ Ben Horowitz has co-founded Andreessen Horowitz - one of the most prominent Sili
     
 
 {:style="clear: left"}
-
+   
+ ​    
+ ​    
+ ​    
+      
+       
+       
 
 [comment]: <> "- [Good to Great]&#40;https://www.amazon.ca/Good-Great-Some-Companies-Others/dp/0066620996/ref=sr_1_1?crid=TKBOSJ9K5Y35&dchild=1&keywords=good+to+great&qid=1627682140&sprefix=good+to+great%2Caps%2C177&sr=8-1&#41; "
 
