@@ -4,14 +4,15 @@ categories:
   - Conversational AI
 tags:
   - Virtual Assistant
-excerpt: "test"
+excerpt: "So you built a bot for your website, and customers love it. Later on, you discover that your support team is getting too many customer inquiries from Facebook, so you decide to add a bot to your Facebook page as well. The bot platform you are using supports Facebook, so all you need to do is enable Facebook integration, and instantly your web chatbot serves customers on your Facebook page. "
 header:
   overlay_image: /assets/images/freestocks-GxM9gkLJbwY-unsplash.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo credit: [**freestocks**]("https://unsplash.com/@freestocks?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText") on [Unsplash]("https://unsplash.com/s/photos/phone-conversation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyTex")"
+  caption: "Photo credit: [**freestocks**](https://unsplash.com/@freestocks?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/phone-conversation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyTex)"
 show_date: true 
 classes: wide
-author_profile: false
+author_profile: false 
+published: true
 ---
 
 So you built a bot for your website, and customers love it. Later on, you discover that your support team is getting too many customer inquiries from Facebook, so you decide to add a bot to your Facebook page as well. The bot platform you are using supports Facebook, so all you need to do is enable Facebook integration, and instantly your web chatbot serves customers on your Facebook page. 
