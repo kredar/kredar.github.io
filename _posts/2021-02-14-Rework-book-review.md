@@ -14,7 +14,7 @@ header:
 classes: wide
 ---
 
-"Rework" by Jason Fried and David Heinemeier Hansson is not your typical business book. It's a quick read - a collection of small ideas/tips on **Entrepreneurship**, **Productivity**, **Management**, **Marketing**, **Hiring**, **Business Culture**, and more. 
+"Rework" is not your typical business book. It's a quick read - a collection of small ideas/tips on **Entrepreneurship**, **Productivity**, **Management**, **Marketing**, **Hiring**, **Business Culture**, and more. 
 
 Some of the book's ideas wouldn't work for large companies; others are controversial and go against all standard business practices and beliefs. But some are just great. The beauty of "Rework" is that it forces you to rethink what you thought you knew about productivity, management, and marketing.  
 

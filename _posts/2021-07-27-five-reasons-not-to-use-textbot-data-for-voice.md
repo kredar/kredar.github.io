@@ -49,4 +49,8 @@ When people type messages, they can review and edit them before sending them. Th
 
 No two customers are the same, and as a result, accents and different pronunciations require consideration. Ensure that you test your voice bot and tweak your STT model to recognize various accents. This problem does not exist in text-based bots.
 
+   
+
+
+
 To summarize, voice bots and chatbots are two different beasts, and you need to use different approaches when you design, train, and optimize them. You simply cannot use the same bot implementation in both channels. 
