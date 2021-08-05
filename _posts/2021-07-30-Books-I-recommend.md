@@ -11,7 +11,7 @@ header:
   caption: "Photo by: [**Susan Q Yin**](https://unsplash.com/@syinq?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com/s/photos/books?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 show_date: true 
 classes: wide
-author_profile: true
+author_profile: false
 ---
 
 I love to read. When I was younger, I was mostly reading fantasy and sci-fi books. It all changed when I read my first nonfiction book. I don't remember why, but I read "The Power of Habit" by Charles Duhigg, and I loved it. It was easy to read, had great true-life stories, and I saw that it could change my own life. I couldn't stop talking about it; I talked about it with my family, friends, and coworkers. I have to admit - it didn't change my life but definitely affected it and got me thinking about good and bad habits in my life and how to control them. Later I read several of Malcolm Gladwell's books and liked them. Nowadays, I mostly read nonfiction books and mostly around product management ( I am going to write a separate post on books for PMs), leadership, management, and psychology. 
@@ -33,21 +33,12 @@ I have divided this list into three categories:
 
 
 ### [High Output Management](https://www.amazon.ca/High-Output-Management-Andrew-Grove/dp/0679762884/ref=sr_1_1?crid=137EWJSQBHXZZ&dchild=1&keywords=high+output+management&qid=1627681414&sprefix=high+outpu%2Caps%2C172&sr=8-1) by Andy Grove   
-
-
-![High Output Management](/assets/images/high_output.jpg){: .align-left} 
-Andy Grove was one of the greatest CEOs of our time, and his management approach is a foundation of famous OKRs (Objective Key Results). A must-read book for any manager.   
+![High Output Management](/assets/images/high_output.jpg){: .align-left} Andy Grove was one of the greatest CEOs of our time, and his management approach is a foundation of famous OKRs (Objective Key Results). A must-read book for any manager.   
 
 
 {:style="clear: left"}
-
-
-
 ### [The Hard Thing About Hard Things](https://www.amazon.ca/Hard-Thing-About-Things-Building/dp/0062273205/ref=sr_1_1?crid=39TD4QUJOA6LV&dchild=1&keywords=hard+things+about+hard+things&qid=1627681454&sprefix=hard+things+%2Caps%2C185&sr=8-1) by Ben Horowitz  
-
-
-![The Hard Thing About Hard Things](/assets/images/the_hard_thing.jpg){: .align-left} 
-Ben Horowitz has co-founded Andreessen Horowitz - one of the most prominent Silicon Valley investment firms. His book contains lessons learned from founding, running, and selling a company for $1.6B. It covers all the hards things about running the company, including leading and firing people, building the right culture, and the difference between Peacetime and Wartime CEOs. Running a company is a very tough, stressful job but can be extremely rewarding, and it's something you can learn.   
+![The Hard Thing About Hard Things](/assets/images/the_hard_thing.jpg){: .align-left} Ben Horowitz has co-founded Andreessen Horowitz - one of the most prominent Silicon Valley investment firms. His book contains lessons learned from founding, running, and selling a company for $1.6B. It covers all the hards things about running the company, including leading and firing people, building the right culture, and the difference between Peacetime and Wartime CEOs. Running a company is a very tough, stressful job but can be extremely rewarding, and it's something you can learn.   
 
 {:style="clear: left"}
 
@@ -88,7 +79,7 @@ Ben Horowitz has co-founded Andreessen Horowitz - one of the most prominent Sili
     
 
 {:style="clear: left"}
-   
+
  ​    
  ​    
  ​    
