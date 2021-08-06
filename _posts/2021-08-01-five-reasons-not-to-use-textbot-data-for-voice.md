@@ -12,7 +12,7 @@ header:
 show_date: true 
 classes: wide
 author_profile: false 
-published: false
+published: true
 ---
 
 So you built a bot for your website, and customers love it. Later on, you discover that your support team is getting too many customer inquiries from Facebook, so you decide to add a bot to your Facebook page as well. The bot platform you are using supports Facebook, so all you need to do is enable Facebook integration, and instantly your web chatbot serves customers on your Facebook page. 
