@@ -8,11 +8,10 @@ tags:
   - Entrepreneurship
   - Productivity
 layout: splash
-header:
-  image: /assets/images/rework.png
-  image_description: "Rework by Jason Fried and David Heinemeier Hansson"
 classes: wide
 ---
+  
+{% include figure image_path="/assets/images/rework.png" alt="Rework by Jason Fried and David Heinemeier Hansson" caption="Rework by Jason Fried and David Heinemeier Hansson" %}
 
 "Rework" is not your typical business book. It's a quick read - a collection of small ideas/tips on **Entrepreneurship**, **Productivity**, **Management**, **Marketing**, **Hiring**, **Business Culture**, and more. 
 
