@@ -1,10 +1,10 @@
 ---
-title: "Book Recommendations"
+title: "Recommended Reading List"
 categories:
   - Books
 tags:
   - Recommendations
-excerpt: "List of books I recommend everyone to read"
+excerpt: "Books I would recommend everyone to read"
 header:
   overlay_image: /assets/images/susan-q-yin-2JIvboGLeho-unsplash.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -80,11 +80,7 @@ I have divided this list into three categories:
 
 {:style="clear: left"}
 
- ​    
- ​    
- ​    
-      
-       
+ ​   
        
 
 [comment]: <> "- [Good to Great]&#40;https://www.amazon.ca/Good-Great-Some-Companies-Others/dp/0066620996/ref=sr_1_1?crid=TKBOSJ9K5Y35&dchild=1&keywords=good+to+great&qid=1627682140&sprefix=good+to+great%2Caps%2C177&sr=8-1&#41; "

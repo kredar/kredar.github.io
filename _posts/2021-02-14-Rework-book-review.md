@@ -42,5 +42,5 @@ Here are just a small portion of the ideas that got me to pause and think:
 
 **Hire great writers** - Clear communication is one of the most critical skills for any position. And it's a must-have skill for Product Managers.
 
-**"Rework"** is a provocative collection of tips and ideas that worked for the founders of Basecamp. Not all of them would work for you. Still, the book forces you to challenge your beliefs in almost all business and product management aspects. If you haven't read it, read it - challenge your assumptions.
+**"Rework"** is a provocative collection of tips and ideas and not all of them would work for you. And still, the book forces you to challenge your beliefs in almost all business and product management aspects. If you haven't read it, read it - challenge your assumptions.
 
