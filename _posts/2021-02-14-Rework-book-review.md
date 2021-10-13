@@ -8,7 +8,6 @@ tags:
   - Entrepreneurship
   - Productivity
 layout: splash
-classes: wide
 ---
   
 {% include figure image_path="/assets/images/rework.png" alt="Rework by Jason Fried and David Heinemeier Hansson" caption="Rework by Jason Fried and David Heinemeier Hansson" %}
