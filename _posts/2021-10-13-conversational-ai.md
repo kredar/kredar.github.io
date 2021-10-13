@@ -1,24 +1,18 @@
 ---
-title: "5 Reasons You Can’t Use the Same Virtual Agent Design for Text and Voice Bots"
+title: "Conversational AI"
 categories:
   - Conversational AI
 tags:
   - Virtual Assistant
-excerpt: "What you should focus on when designing conversational bots for text and voice"
+excerpt: "What is conversational AI and how it would evolve"
 header:
   overlay_image: /assets/images/freestocks-GxM9gkLJbwY-unsplash.jpg
   overlay_filter: 0.7 # same as adding an opacity of 0.7 to a black background
   caption: "Photo credit: [**freestocks**](https://unsplash.com/@freestocks?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/phone-conversation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyTex)"
 show_date: true
-author_profile: false 
+author_profile: false
+classes: wide
 published: true
----
-
-
-
----
-date updated: '2021-09-19T15:58:33-04:00'
-
 ---
 
 # The Future of Conversational AI
@@ -26,10 +20,10 @@ date updated: '2021-09-19T15:58:33-04:00'
 I recently discussed the current state of Conversational AI and its future. It was a great discussion, and I thought to share some of it here. But first, let's talk about what is Conversational AI? 
 
 **Conversational AI** is a combination of various tools, frameworks, and machine learning models that allow humans to interact with the technology using natural language. It could be a chatbot on a website or social messaging app, a smart speaker like Amazon Echo, or Conversational IVR in the telephony system. In other words, Conversational AI can communicate like a human by recognizing speech or text, understanding human's intent,  and responding in a way that mimics human conversation.
-The best Conversational AI offers an experience that is indistinguishable from a conversation with a human. Only several chatbot implementations claimed that they passed the Turing Test[^2], but none are Enterprise implementation and more of a Smalltalk, ie, chitchat bots. 
+
+The best Conversational AI offers an experience that is indistinguishable from a conversation with a human. Only several chatbot implementations claimed that they passed the Turing Test[^2], but they are more of a Smalltalk, ie, chitchat bots. 
 
 Conversational AI or chatbots is not something new. The first chatbot, [ELIZA](https://en.wikipedia.org/wiki/ELIZA), was created back in 1966. But only in the last decade we saw a massive investments, advancements as well as interest in Conversational AI and its applications in enterprise organizations.  
-
 
 ## Conversational AI use cases
 
@@ -53,9 +47,7 @@ Companies can also use it internally to improve their employees' experience:
 4. Workflow automation
 5. Customer Support Agent assistance and coaching
 
-Like with any product you are building, focus on customer experience. Make sure to define customer-centric KPIs to guide you during the platform selection, UX design and solution architecture. 
-
-So why we don't see a chatbot on every enterprise website? The answer is simple - Conversational AI is complex and requires substantial investment to implement it properly - from choosing the right conversational AI platform to getting the right talent to implement, and monitor and optimize the experience. Let's start with the high level architecture. 
+Like with any product you are building, focus on customer experience. Make sure you define customer-centric KPIs to guide you during the platform selection, UX design and solution architecture. 
 
 ## Conversational AI architecture
 
@@ -71,7 +63,7 @@ Enterprise Conversational AI implementation would include multiple components, M
 - Business logic automation and/or RPA[^rpa]
 
 And high-level architecture would look like this:
-![[Pasted image 20211013135258.png]]
+![Conversational AI Architecture](/assets/images/conv_ai_architecture.png)
 
 
 
@@ -89,7 +81,8 @@ Building the whole conversational AI stack would be a huge project, and I wouldn
 
 To complicate things even more, there are so many Conversational AI platforms available on the market. And each one of them has their pros and cons. Here are some of the most popular platforms:  
 
-![[Pasted image 20211013122728.png]]
+![Conversational AI Platforms](/assets/images/conv_ai_platforms.png)
+
 
 ### Talent
 
@@ -102,6 +95,7 @@ Deciding on a platform is not enough; without people to design, implement and ma
 - Software developers
 - Machine Learning developers
 
+So why we don't see a chatbot on every enterprise website? The answer is simple - Conversational AI is complex and requires substantial investment to implement it properly - from choosing the right conversational AI platform to getting the right talent to implement, and monitor and optimize the experience. 
 
 To summarize, implementing Conversational AI is not an easy task and implementing great conversational UX is even more complicated. Lack of talent is a major reason why many of the enterprise companies don't have conversational AI implementations. There some courses and Many companies are working on training conversational ux designers, bot developers 
 
