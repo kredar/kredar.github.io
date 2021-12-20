@@ -12,6 +12,7 @@ header:
 show_date: true
 author_profile: false
 classes: wide
+layout: splash
 published: true
 ---
 
@@ -25,7 +26,7 @@ Conversational AI or chatbots is not something new. The first chatbot, [ELIZA](h
 
 ## Conversational AI use cases
 
-There are many reasons why companies want to add a conversational AI interface to their products, from providing better 24/7 customer support to replacing old [IVR](https://en.wikipedia.org/wiki/Interactive_voice_response) systems with a smart IVR. Any interface where customers can interact with a brand can be enhanced or even transformed with Conversational AI. Companies can add Conversational capabilities to the website, mobile app, social pages, and phone systems. Some would argue that Conversational AI is a table stake[^tablestake].
+There are many reasons why companies want to add a conversational AI interface to their products, from providing better 24/7 customer support to replacing old [IVR](https://en.wikipedia.org/wiki/Interactive_voice_response) systems with a Conversational IVR. Any interface where customers can interact with a brand can be enhanced or even transformed with Conversational AI. Companies can add Conversational capabilities to the website, mobile app, social pages, and phone systems. Some would argue that Conversational AI is a table stake[^tablestake].
 
 Here are some of the more obvious use cases for conversational AI:
 
@@ -35,7 +36,7 @@ Here are some of the more obvious use cases for conversational AI:
 4. General inquiries
 5. Info collection
 6. Product Education and On-boarding 
-7. Personal Financial Management
+7. Personal Finance Management
 
 Companies can also use it internally to improve their employees' experience:
 
@@ -58,7 +59,8 @@ Enterprise Conversational AI implementation would include multiple components, M
 - Conversation Dialog management 
 - Telephony System
 - Live Chat platform
-- Business logic automation and/or RPA
+- Business logic automation
+- Robotic Process Automation (RPA)
 
 And high-level architecture would look like this:
 ![Conversational AI Architecture](/assets/images/conv_ai_architecture.png)
@@ -87,15 +89,10 @@ There are many Conversational AI platforms available on the market. Every big cl
 Once you decided on the platform you need talent to design, implement and maintain your Conversational experience. Without proper talent your project will fail. At the very least, you would need the following experts in various capacities throughout the project:
 
 - Conversational UX designers
-
 - Conversational AI developers
-
 - NLP trainers
-
 - Data Analysts and Data Scientists
-
 - Software developers
-
 - Machine Learning developers
 
 As you can see, Conversational AI is complex and requires substantial investments to create a great customer experience. This is why not many enterprises have conversational AI implementations. Still, I am sure most of them are working on one or planning to implement it soon. 
