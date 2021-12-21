@@ -10,7 +10,7 @@ header:
   overlay_filter: 0.7 # same as adding an opacity of 0.7 to a black background
   caption: "Photo credit: [**freestocks**](https://unsplash.com/@freestocks?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/phone-conversation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyTex)"
 show_date: true
-author_profile: false
+author_profile: true
 classes: wide
 layout: splash
 published: true
