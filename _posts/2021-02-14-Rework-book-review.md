@@ -7,7 +7,8 @@ tags:
   - Books
   - Entrepreneurship
   - Productivity
-layout: splash
+#layout: splash
+show_date: true
 author_profile: true
 ---
   

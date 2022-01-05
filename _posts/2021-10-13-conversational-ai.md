@@ -11,8 +11,8 @@ header:
   caption: "Photo credit: [**freestocks**](https://unsplash.com/@freestocks?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/phone-conversation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyTex)"
 show_date: true
 author_profile: true
-classes: wide
-layout: splash
+#classes: wide
+#layout: splash
 published: true
 ---
 

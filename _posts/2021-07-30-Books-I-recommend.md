@@ -12,6 +12,7 @@ header:
 show_date: true
 classes: wide
 author_profile: true
+published: true
 ---
 
 I love to read. When I was younger, I was mostly reading fantasy and sci-fi books. It all changed when I read my first nonfiction book. I don't remember why, but I read "The Power of Habit" by Charles Duhigg, and I loved it. It was easy to read, had great true-life stories, and I saw that it could change my own life. I couldn't stop talking about it; I talked about it with my family, friends, and coworkers. I have to admit - it didn't change my life but definitely affected it and got me thinking about good and bad habits in my life and how to control them. Later I read several of Malcolm Gladwell's books and liked them. Nowadays, I mostly read nonfiction books and mostly around product management ( I am going to write a separate post on books for PMs), leadership, management, and psychology. 
