@@ -23,7 +23,7 @@ Art is a technical product leader with more than ten years of experience leading
 
 Art is currently Principal PM at Scotiabank and prior to that he led the product development of Conversational AI and Chatbot Analytics platforms at Wysdom.AI. He is passionate about Data Analytics, Machine Learning, and Conversational AI, but most of all, he is passionate about solving customers' problems using these technologies. 
 
-Art lives in Aurora with his wife, two daughters and a Hungarian Vizsla. He loves spending his spare time with his family, hiking in the woods, running, reading and learning something new. 
+<!-- Art lives in Aurora with his wife, two daughters and a Hungarian Vizsla. He loves spending his spare time with his family, hiking in the woods, running, reading and learning something new.  -->
 
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger-cx/bootstrap.js?v=1"></script>
 <df-messenger

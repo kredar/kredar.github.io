@@ -11,7 +11,7 @@ header:
   caption: "Photo by: [**Susan Q Yin**](https://unsplash.com/@syinq?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com/s/photos/books?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 show_date: true
 classes: wide
-author_profile: true
+author_profile: false
 published: true
 ---
 
