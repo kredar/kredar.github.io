@@ -16,7 +16,7 @@ last_modified_at: 2022-02-05T10:23:16-04:00
 toc: false
 ---
 
-{% include figure image_path="/assets/images/art_picture_1.jpj" alt="Beautiful British Columbia" caption="Beautiful British Columbia" %}
+{% include figure image_path="/assets/images/art_picture_1.jpg" alt="Beautiful British Columbia" caption="Beautiful British Columbia" %}
 
 
 Art is a technical product leader with more than ten years of experience leading cross-functional teams to create and ship digital products. He has a Bachelor's degree in communication systems engineering and worked across various industries and products, including ASIC, consumer electronics, telecom, web and mobile apps, machine learning and conversational AI products.
