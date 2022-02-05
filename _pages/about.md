@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Art (Artiom) Kreimer"
 excerpt: "About Art (Artiom) Kreimer"
 # layouts_gallery:
 #   - url: /assets/images/mm-layout-splash.png
@@ -16,7 +16,9 @@ last_modified_at: 2022-02-05T10:23:16-04:00
 toc: false
 ---
 
-{% include figure image_path="/assets/images/art_picture_1.jpg" alt="Beautiful British Columbia" caption="Beautiful British Columbia" %}
+
+
+{% include figure image_path="/assets/images/art_picture_1.jpg" alt="Beautiful British Columbia" caption="Beautiful British Columbia" width="200" %}
 
 
 Art is a technical product leader with more than ten years of experience leading cross-functional teams to create and ship digital products. He has a Bachelor's degree in communication systems engineering and worked across various industries and products, including ASIC, consumer electronics, telecom, web and mobile apps, machine learning and conversational AI products.
@@ -31,5 +33,6 @@ Art is currently Principal PM at Scotiabank and prior to that he led the product
   location="northamerica-northeast1"
   chat-title="Interview DF CX"
   agent-id="3913f6ea-18a2-4879-a0bd-1cec796b9623"
+  intent="Default Welcome Intent"
   language-code="en"
 ></df-messenger>
