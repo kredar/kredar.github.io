@@ -8,6 +8,9 @@ tags:
 #layout: splash
 show_date: true
 author_profile: false
+header:
+  overlay_image: /assets/images/alphacode.jpg
+  overlay_filter: 0.7 # same as adding an opacity of 0.7 to a black background
 ---
 
 
