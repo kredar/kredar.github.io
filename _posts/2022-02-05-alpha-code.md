@@ -20,7 +20,7 @@ Like the OpenAI's Codex model, AlphaCode uses transformer-based language models 
 
 Codding competitions require not only good coding skills but also creativity. And no, I didn't participate in any of the programming competitions - my programming skills are not that good, and I don't consider myself a software developer, but I wrote some code before. Moreover, I did the Foobar challenge - a secret tool Google uses to recruit Software developers. It happened in 202 when I decided to brush up on my programming skills. I began to go over some basic algorithms and solve problems on [Leetcode](https://leetcode.com/). I had to brush up on data structures, design patterns, programming technics, etc. One day I was searching for some kind of python function, and suddenly Google search page transformed, and I got a message **"You're speaking our language. Up for a challenge?"**. 
 
-{% include figure image_path="/assets/images/foobar_challenge.png" alt="Foobar Challenge" caption="Foobar Challenge" width="200" %}
+{% include figure image_path="/assets/images/foobar-challenge.png" alt="Foobar Challenge" caption="Foobar Challenge" %}
 
 My first thought was - "Am I hacked or something?" I did quick research, and it was legit - a foobar challenge - a secret tool Google uses to find Software Developers. So I clicked "I want to play." You get timebox questions to solve - one question on the first level, two on the second, three on the third, etc. After I finished the third level, I got an email from a Google recruiter asking if I would like to chat about opportunities at Google. And so we connected and had a great conversation. Unfortunately, she was recruiting for SDR positions only. 
 
