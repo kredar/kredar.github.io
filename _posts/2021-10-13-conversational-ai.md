@@ -6,9 +6,9 @@ tags:
   - Virtual Assistant
 excerpt: "What is conversational AI and how it would evolve"
 header:
-  overlay_image: /assets/images/freestocks-GxM9gkLJbwY-unsplash.jpg
+  overlay_image: /assets/images/chatbot-image.jpeg
   overlay_filter: 0.7 # same as adding an opacity of 0.7 to a black background
-  caption: "Photo credit: [**freestocks**](https://unsplash.com/@freestocks?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/phone-conversation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyTex)"
+  # caption: "Photo credit: [**freestocks**](https://unsplash.com/@freestocks?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/phone-conversation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyTex)"
 show_date: true
 author_profile: false
 #classes: wide

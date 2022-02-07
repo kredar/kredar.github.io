@@ -35,8 +35,8 @@ Art lives in Aurora, Ontario with his wife, two daughters and a Hungarian Vizsla
 <df-messenger
   df-cx="true"
   location="northamerica-northeast1"
-  chat-title="Interview DF CX"
+  chat-title="Art's virtual assistant"
   agent-id="3913f6ea-18a2-4879-a0bd-1cec796b9623"
-  intent="Default Welcome Intent"
+  intent="WELCOME"
   language-code="en"
 ></df-messenger>
