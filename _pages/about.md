@@ -19,11 +19,8 @@ toc: false
 
 
 <!-- {% include figure image_path="/assets/images/art_picture_1.jpg" alt="Beautiful British Columbia" caption="Beautiful British Columbia" width="350" %} -->
+![image-center](/assets/images/art_picture_1.jpg){: .align-center}
 
-<figure>
-  <img src="/assets/images/art_picture_1.jpg" alt="Beautiful British Columbia" width="350">
-  <figcaption>Beautiful British Columbia</figcaption>
-</figure>
 
 Art is a technical product leader with more than ten years of experience leading cross-functional teams to create and ship digital products. He has a Bachelor's degree in communication systems engineering and worked across various industries and products, including ASIC, consumer electronics, telecom, web and mobile apps, machine learning and conversational AI products.
 
@@ -40,3 +37,8 @@ Art lives in Aurora, Ontario with his wife, two daughters and a Hungarian Vizsla
   intent="WELCOME"
   language-code="en"
 ></df-messenger>
+
+
+<!-- This site is converting visitors into subscribers and customers with https://respond.io -->
+<script id="respondio__widget" src="https://cdn.respond.io/webchat/widget/widget.js?cId=97842a20b8123716121a6fcb9d9ee02be6ee54abda03d7b74ceb878cccf0fd75"></script>
+<!-- https://respond.io -->
