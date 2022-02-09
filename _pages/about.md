@@ -1,7 +1,7 @@
 ---
 permalink: /about/
-title: "About Art (Artiom) Kreimer"
-excerpt: "About Art (Artiom) Kreimer"
+title: "About Art Kreimer"
+excerpt: "About Art Kreimer"
 # layouts_gallery:
 #   - url: /assets/images/mm-layout-splash.png
 #     image_path: /assets/images/mm-layout-splash.png
@@ -28,7 +28,7 @@ Art is currently Principal PM at Scotiabank and prior to that he led the product
 
 Art lives in Aurora, Ontario with his wife, two daughters and a Hungarian Vizsla. He loves spending his spare time with his family, hiking in the woods, running, reading and learning something new. 
 
-<script src="https://www.gstatic.com/dialogflow-console/fast/messenger-cx/bootstrap.js?v=1"></script>
+<!-- <script src="https://www.gstatic.com/dialogflow-console/fast/messenger-cx/bootstrap.js?v=1"></script>
 <df-messenger
   df-cx="true"
   location="northamerica-northeast1"
@@ -36,9 +36,9 @@ Art lives in Aurora, Ontario with his wife, two daughters and a Hungarian Vizsla
   agent-id="3913f6ea-18a2-4879-a0bd-1cec796b9623"
   intent="WELCOME"
   language-code="en"
-></df-messenger>
+></df-messenger> -->
 
 
 <!-- This site is converting visitors into subscribers and customers with https://respond.io -->
-<script id="respondio__widget" src="https://cdn.respond.io/webchat/widget/widget.js?cId=97842a20b8123716121a6fcb9d9ee02be6ee54abda03d7b74ceb878cccf0fd75"></script>
+<!-- <script id="respondio__widget" src="https://cdn.respond.io/webchat/widget/widget.js?cId=97842a20b8123716121a6fcb9d9ee02be6ee54abda03d7b74ceb878cccf0fd75"></script> -->
 <!-- https://respond.io -->
