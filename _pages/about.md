@@ -22,11 +22,11 @@ toc: false
 ![image-center](/assets/images/art_picture_1.jpg){: .align-center}
 
 
-Art is a technical product leader with more than ten years of experience leading cross-functional teams to create and ship digital products. He has a Bachelor's degree in Communication Systems Engineering and worked across various industries and products, including ASIC, consumer electronics, telecom, web and mobile apps, machine learning and conversational AI products.
+Art is a technical product leader with more than ten years of experience leading cross-functional teams to create and ship digital products. He has a Bachelor's degree in Communication Systems Engineering and worked across various industries and products, including ASIC, Consumer Electronics, Telecom, web and mobile apps, Machine Learning and Conversational AI products.
 
-Art is currently Principal PM at Scotiabank. Before that he led the product development of Conversational AI and Chatbot Analytics platforms at Wysdom.AI. He is passionate about Data Analytics, Machine Learning, and Conversational AI, but most of all, he is passionate about solving customers' problems using these technologies. 
+Art is currently Principal PM at Scotiabank. Before that, he led the product development of Conversational AI and Chatbot Analytics platforms at Wysdom.AI. He is passionate about Data Analytics, Machine Learning, and Conversational AI, but most of all, he is passionate about solving customers' problems using these technologies. 
 
-Art lives in Aurora, Ontario with his wife, two daughters and a Hungarian Vizsla. He loves spending his spare time with his family, hiking in the woods, running, reading and learning something new. 
+Art lives in Aurora, Ontario, with his wife, two daughters and a Hungarian Vizsla. He loves spending his spare time with his family, hiking in the woods, running, reading and learning something new. 
 
 <!-- <script src="https://www.gstatic.com/dialogflow-console/fast/messenger-cx/bootstrap.js?v=1"></script>
 <df-messenger
