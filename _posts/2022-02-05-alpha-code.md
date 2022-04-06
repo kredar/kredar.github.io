@@ -15,7 +15,7 @@ header:
 
 
 
-Earlier this week, Deepmind, **a Google-owned artificial-intelligence company**, announced [AlphaCode](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode), an AI system that can write computer programs at a competitive level. 
+Earlier this week, **Deepmind**, a Google-owned artificial-intelligence company, announced [AlphaCode](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode), an AI system that can write computer programs at a competitive level. 
 
 Like the OpenAI's Codex model, AlphaCode uses transformer-based language models to understand the written in plain text problems and generate a computer code. To validate the performance of the AlphaCode model, the Deepmind team tested it on previous competitions hosted by [Codeforces](https://codeforces.com/), a popular platform for programming competitions. And results are impressive. 
 
