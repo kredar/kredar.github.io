@@ -17,12 +17,10 @@ published: true
 
 I like to read, and I'm often asked for Product Management book recommendations. There are a lot of great books to read out there ( check out my post on must-read books), but what are the must-reads for any PM. 
 
-Recently I have found this great visual guide on Delibr. I think it's a great step-by-step visual into PM books.  
-
-
+Recently I have found this great post with a visual guide on [Delibr](https://www.delibr.com/post/visual-guide-to-the-best-books-on-product-management). I think it's a great step-by-step visual into PM books. But I think it doesn't cover all books.  
 
 {% include figure image_path="/assets/images/Best Product Management Books Guide.png" alt="Best Books for PMs by Delibr" caption="Best Books for PMs by Delibr" %}
-[Delibr](https://www.delibr.com/post/visual-guide-to-the-best-books-on-product-management)
+
 
 But here is my list of 25 essential books for any PM:
 
