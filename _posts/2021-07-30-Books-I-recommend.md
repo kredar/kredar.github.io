@@ -60,7 +60,10 @@ I have divided this list into three categories:
 ![Never Split the Difference](/assets/images/never_split_the_diff.jpg){: .align-left} We have to constantly negotiate something, be it in the office or at home. In his book, Chris Voss, a former FBI hostage negotiator, provides insights and clear guidance everyone can apply to everyday negotiations. I am not going to say that after reading this book, I can win at every negotiation, but I am working on it 😆  
 
 {:style="clear: left"}   
-----   
+
+
+-------   
+     
 
 ### [Measure What Matters](https://amzn.to/3EGylgn) by John Doerr   
 
@@ -79,6 +82,8 @@ I have divided this list into three categories:
 [comment]: <> "- [Good to Great]&#40;https://www.amazon.ca/Good-Great-Some-Companies-Others/dp/0066620996/ref=sr_1_1?crid=TKBOSJ9K5Y35&dchild=1&keywords=good+to+great&qid=1627682140&sprefix=good+to+great%2Caps%2C177&sr=8-1&#41; "
 
 
+------  
+  
 
 ## Inspirational/Self motivation   
 
