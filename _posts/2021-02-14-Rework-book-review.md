@@ -10,6 +10,7 @@ tags:
 #layout: splash
 show_date: true
 author_profile: false
+classes: wide
 ---
   
 {% include figure image_path="/assets/images/rework.png" alt="Rework by Jason Fried and David Heinemeier Hansson" caption="Rework by Jason Fried and David Heinemeier Hansson" %}

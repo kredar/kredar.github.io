@@ -14,6 +14,12 @@ author_profile: false
 classes: wide
 #layout: splash
 published: true
+comments:
+  provider: "utterances"
+  utterances:
+    theme: "github-light" # "github-dark"
+    issue_term: "pathname"
+    label: "comment" # Optional - must be existing label.
 ---
 Let’s start with a definition of a Product. 
 

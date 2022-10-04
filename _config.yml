@@ -28,6 +28,9 @@ github_username: kredar
 minimal_mistakes_skin: mint
 search: true
 
+# Adding comments to posts
+repository: "kredar/kredar.github.io"
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes

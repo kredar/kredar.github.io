@@ -8,6 +8,8 @@ tags:
 #layout: splash
 show_date: true
 author_profile: false
+classes: wide
+published: true
 header:
   overlay_image: /assets/images/alphacode.jpg
   overlay_filter: 0.7 # same as adding an opacity of 0.7 to a black background
@@ -21,7 +23,7 @@ Like the OpenAI's Codex model, AlphaCode uses transformer-based language models 
 
 > AlphaCode achieved an estimated rank within the top 54% of participants in programming competitions by solving new problems that require a combination of critical thinking, logic, algorithms, coding, and natural language understanding.
 
-Codding competitions require not only good coding skills but also creativity. And no, I didn't participate in any of the programming competitions - my programming skills are not that good, and I don't consider myself a software developer, but I wrote some code before. Moreover, I did the Foobar challenge - a secret tool Google uses to recruit Software developers. It happened in 202 when I decided to brush up on my programming skills. I began to go over some basic algorithms and solve problems on [Leetcode](https://leetcode.com/). I had to brush up on data structures, design patterns, programming technics, etc. One day I was searching for some kind of python function, and suddenly Google search page transformed, and I got a message **"You're speaking our language. Up for a challenge?"**. 
+Codding competitions require not only good coding skills but also creativity. And no, I didn't participate in any of the programming competitions - my programming skills are not that good, and I don't consider myself a software developer, but I wrote some code before. Moreover, I did the Foobar challenge - a secret tool Google uses to recruit Software developers. It happened in 2020 when I decided to brush up on my programming skills. I began to go over some basic algorithms and solve problems on [Leetcode](https://leetcode.com/). I had to brush up on data structures, design patterns, programming technics, etc. One day I was searching for some kind of python function, and suddenly Google search page transformed, and I got a message **"You're speaking our language. Up for a challenge?"**. 
 
 {% include figure image_path="/assets/images/foobar-challenge.png" alt="Foobar Challenge" caption="Foobar Challenge" %}
 
