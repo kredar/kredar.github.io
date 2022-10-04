@@ -14,6 +14,7 @@ author_profile: false
 classes: wide
 #layout: splash
 published: true
+comments: true
 comments:
   provider: "utterances"
   utterances:
