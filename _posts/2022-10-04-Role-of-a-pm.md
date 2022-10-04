@@ -4,31 +4,23 @@ categories:
   - Product Management
 tags:
   - Product Management
-excerpt: "What is Product Management and What is the Role of a Product Manager"
+excerpt: "What is Product Management and what does a Product Manager do?"
 header:
   overlay_image: /assets/images/campaign-creators-gMsnXqILjp4-unsplash.jpeg
   overlay_filter: 0.7 # same as adding an opacity of 0.7 to a black background
   caption: "Photo credit: [**Campaign Creators**](https://unsplash.com/@campaign_creators?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/product-management?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 show_date: true
 author_profile: false
-#classes: wide
+classes: wide
 #layout: splash
 published: true
 ---
-<!--
-
-
-  -->
-
-
 Let’s start with a definition of a Product. 
 
-> [!Definition]
 > A product is any good or service a company offers or sells to serve customer needs and wants. Products can be physical or virtual and users of the product can be internal company users or external users. 
 
 Now let's define the Product Management function. Here is the definition from [Wikipedia](https://en.wikipedia.org/wiki/Product_management):
 
-> [!Definition]
 > Product management is the business process of planning, developing, launching, and managing a product or service. It includes the entire lifecycle of a product, from ideation to development to go to market. Product managers are responsible for ensuring that a product meets the needs of its target market and contributes to the business strategy, while managing a product or products at all stages of the product lifecycle. Software product management adapts the fundamentals of product management for digital products.
 
 In a nutshell, Product Management is a business function responsible for delivering products that make customers happy and drive business growth. It's a role at the very heart of an organization that must balance the need to deliver value to the company (usually profit) with what customers want and what's technically and operationally possible.
@@ -47,7 +39,6 @@ Now that we discussed the Product Management process and activities, let’s tal
 
 First thing first - Product managers are NOT people managers [^1]. Starting from Lead PMs and/or Group PMs they would start managing other PMs, but in a nutshell, Product Managers manage `Products` and not `People`. They don't have direct reports, and they don't have authority over other product team members [^2]. They are also not "CEOs" of the product, but they are fully responsible for the success or failure of the product they are managing [^3], and paraphrasing [Andy Grove](https://en.wikipedia.org/wiki/Andrew_Grove#Writing_and_teaching), a product manager's output is the output of their team.
 
-> [!quote]
 > "Good product managers take full responsibility and measure themselves in terms of the success of the product."
 
 A Product Manager is a bridge, a connecting tissue between business, design and technology. They crisply define the target, the "**what**" and "**why**" and work with their product team to determine the "**how**." PMs are also the voice of the customer, truly understanding the customer's wants, needs, and pains. They use this knowledge to drive product decisions maximizing the value to their customers and their company. 
@@ -67,7 +58,6 @@ Great PMs are top-class communicators with high emotional intelligence, influenc
 Great PMs are experts in their domain, market and their product. They understand where the industry is headed and where they should invest their time to maximize the value of their product. When new to a domain, great PMs bootstrap this process by seeking the counsel of existing worldwide experts.
 Strong PMs don't just ship features, they deliver valuable outcomes for their users, teams and company. They are ruthlessly prioritizing to maximize the value their product delivers to their users and their company. As Steve Jobs famously said:  
 
-> [!Quote]
 >  "People think focus means saying yes to the thing you've got to focus on. It means saying no to the hundred other good ideas that there are. You have to pick carefully."  
 
 Good PMs make metrics-driven product decisions and expertly blend quantitative and qualitative data insights as warranted by each individual situation.  
