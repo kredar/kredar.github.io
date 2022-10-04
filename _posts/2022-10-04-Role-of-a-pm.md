@@ -8,7 +8,7 @@ excerpt: "What is Product Management and What is the Role of a Product Manager"
 header:
   overlay_image: /assets/images/campaign-creators-gMsnXqILjp4-unsplash.jpeg
   overlay_filter: 0.7 # same as adding an opacity of 0.7 to a black background
-  caption: "Photo by <a href="https://unsplash.com/@campaign_creators?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Campaign Creators</a> on <a href="https://unsplash.com/@campaign_creators?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>"
+  caption: "Photo credit: [**Campaign Creators**](https://unsplash.com/@campaign_creators?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/product-management?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 show_date: true
 author_profile: false
 #classes: wide
@@ -16,7 +16,7 @@ author_profile: false
 published: true
 ---
 <!--
-caption: Photo credit: [**Campaign Creators**](https://unsplash.com/@campaign_creators?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/product-management?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
 
   -->
 
