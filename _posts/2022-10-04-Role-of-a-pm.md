@@ -25,6 +25,7 @@ comments:
 Let’s start with a definition of a Product. 
 
 > A product is any good or service a company offers or sells to serve customer needs and wants. Products can be physical or virtual and users of the product can be internal company users or external users. 
+{: .notice}
 
 Now let's define the Product Management function. Here is the definition from [Wikipedia](https://en.wikipedia.org/wiki/Product_management):
 
