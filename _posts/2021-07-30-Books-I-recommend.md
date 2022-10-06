@@ -19,7 +19,7 @@ feature_row0-1:
   - image_path: /assets/images/high_output.jpg
     alt: "High Output Management"
     title: "High Output Management by Andy Grove"
-    text: "Andy Grove was one of the greatest CEOs of our time, and his management approach is a foundation of famous OKRs (Objective Key Results). A must-read book for any manager."
+    excerpt: "Andy Grove was one of the greatest CEOs of our time, and his management approach is a foundation of famous OKRs (Objective Key Results). A must-read book for any manager."
     url: "https://amzn.to/3OznpGb"
     btn_label: "Amazon"
     btn_class: "btn--primary"
@@ -30,7 +30,7 @@ feature_row0-2:
   - image_path: /assets/images/the_hard_thing.jpg
     alt: "The Hard Thing About Hard Things"
     title: "The Hard Thing About Hard Things by Ben Horowitz"
-    text: "Ben Horowitz has co-founded Andreessen Horowitz - one of the most prominent Silicon Valley investment firms. His book contains lessons learned from founding, running, and selling a company for $1.6B. It covers all the hard things about running the company, including leading and firing people, building the right culture, and the difference between Peacetime and Wartime CEOs."
+    excerpt: "Ben Horowitz has co-founded Andreessen Horowitz - one of the most prominent Silicon Valley investment firms. His book contains lessons learned from founding, running, and selling a company for $1.6B. It covers all the hard things about running the company, including leading and firing people, building the right culture, and the difference between Peacetime and Wartime CEOs."
     url: "https://amzn.to/39cLylE"
     btn_label: "Amazon"
     btn_class: "btn--primary"
@@ -41,7 +41,7 @@ feature_row0-3:
   - image_path: /assets/images/trillion_dollar.jpg
     alt: "Trillion Dollar Coach"
     title: "Trillion Dollar Coach by Eric Schmidt, Jonathan Rosenberg, Alan Eagle"
-    text: "Coaching is a must-have skill for any manager, and Bill Campbell was probably one of the best business coaches. He coached leaders from Google, Apple, Intuit, and many other companies. He was a great coach, community builder, and just a great human being; we can all learn from his legacy. If you aspire to become a great leader, you should read this book."
+    excerpt: "Coaching is a must-have skill for any manager, and Bill Campbell was probably one of the best business coaches. He coached leaders from Google, Apple, Intuit, and many other companies. He was a great coach, community builder, and just a great human being; we can all learn from his legacy. If you aspire to become a great leader, you should read this book."
     url: "https://amzn.to/3vHjUVi"
     btn_label: "Amazon"
     btn_class: "btn--primary"
@@ -49,7 +49,7 @@ feature_row0-3:
         - Leadership
 
 feature_row0-4:
-  - image_path: /assets/images/trillion_dollar.jpg
+  - image_path: /assets/images/never_split_the_diff.jpg
     alt: "Never Split the Difference"
     title: "Never Split the Difference by Chris Voss and Tahl Raz"
     text: "We have to negotiate something in the office or at home constantly. In his book, Chris Voss, a former FBI hostage negotiator, provides insights and clear guidance everyone can apply to improve their negotiation skills. I am not going to say that after reading this book, I can win every argument, but I am working on it 😆"
@@ -63,7 +63,7 @@ feature_row0-5:
   - image_path: /assets/images/measure_what_matters.jpg
     alt: "Measure What Matters"
     title: "Measure What Matters by John Doerr"
-    text: "Objectives and Key Results is a different approach to goal-setting used by hundreds of successful companies worldwide. John Doerr introduced OKRs to Google founders in 1999, and OKRs are an integral part of Google's success. If you want your organization to excel, aim high, and move fast, you must read John Doerr's book."
+    excerpt: "Objectives and Key Results is a different approach to goal-setting used by hundreds of successful companies worldwide. John Doerr introduced OKRs to Google founders in 1999, and OKRs are an integral part of Google's success. If you want your organization to excel, aim high, and move fast, you must read John Doerr's book."
     url: "https://amzn.to/3EGylgn"
     btn_label: "Amazon"
     btn_class: "btn--primary"
@@ -74,7 +74,7 @@ feature_row0-6:
   - image_path: /assets/images/rework.jpg
     alt: "Rework"
     title: "Rework by Jason Fried and David Heinemeier Hansson "
-    text: "\"Rework\" is not your typical business book. It’s a quick read - a collection of small ideas/tips on Entrepreneurship, Productivity, Management, Marketing, Hiring, Business Culture, and more. The beauty of “Rework” is that it forces you to 'Think Again' about what you thought you knew about productivity, management, and marketing. You can read more about it in this [post]({% post_url 2021-02-14-Rework-book-review %}"
+    excerpt: "\"Rework\" is not your typical business book. It’s a quick read - a collection of small ideas/tips on Entrepreneurship, Productivity, Management, Marketing, Hiring, Business Culture, and more. The beauty of “Rework” is that it forces you to 'Think Again' about what you thought you knew about productivity, management, and marketing. You can read more about it in this [post]({% post_url 2021-02-14-Rework-book-review %}"
     url: "https://amzn.to/3uzqHB7"
     btn_label: "Amazon"
     btn_class: "btn--primary"
@@ -85,7 +85,7 @@ feature_row0-7:
   - image_path: /assets/images/steve_jobs.jpg
     alt: "Steve Jobs"
     title: "Steve Jobs by Walter Isaacson"
-    text: "Steve Jobs was one of the most outstanding CEOs of our time. His managerial style was not great, but he led the creation of multiple life-changing products that forever changed our lives. A must-read."
+    excerpt: "Steve Jobs was one of the most outstanding CEOs of our time. His managerial style was not great, but he led the creation of multiple life-changing products that forever changed our lives. A must-read."
     url: "https://amzn.to/37GT8Ew"
     btn_label: "Amazon"
     btn_class: "btn--primary"
@@ -96,7 +96,7 @@ feature_row0-8:
   - image_path: /assets/images/elon_musk.jpg
     alt: "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future"
     title: "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future by Ashlee Vance"
-    text: "Sometimes it seems whatever Elon Musk is touching turns into gold. Every company he is involved with succeed. But it doesn't come as easy as it looks. He is probably one of the smartest and hard-working CEOs I read about. Another must-read."
+    excerpt: "Sometimes it seems whatever Elon Musk is touching turns into gold. Every company he is involved with succeed. But it doesn't come as easy as it looks. He is probably one of the smartest and hard-working CEOs I read about. Another must-read."
     url: "https://amzn.to/3OB2y5f"
     btn_label: "Amazon"
     btn_class: "btn--primary"
@@ -107,7 +107,7 @@ feature_row0-9:
   - image_path: /assets/images/power_habit.jpg
     alt: "The Power of Habit"
     title: "The Power of Habit by Charles Duhigg and Atomic Habits by James Clear "
-    text: "Both books cover a fascinating topic of human habits. Most of what we do in our day-to-day lives are habits. Habits do not require deep thinking and are being stored in a different part of our brain. If you want to understand and be able to control your habits, check out these two books. I would recommend reading at least one of them."
+    excerpt: "Both books cover a fascinating topic of human habits. Most of what we do in our day-to-day lives are habits. Habits do not require deep thinking and are being stored in a different part of our brain. If you want to understand and be able to control your habits, check out these two books. I would recommend reading at least one of them."
     url: "https://amzn.to/3k1svgl"
     btn_label: "Amazon"
     btn_class: "btn--primary"
@@ -118,10 +118,10 @@ feature_row0-9:
         - Management
 
 feature_row0-10:
-  - image_path: /assets/images/cant_hurt_me.jpg
+  - image_path: /assets/images/cant_hurt_me_1.jpg
     alt: "Can't Hurt Me"
     title: "Can't Hurt Me by David Goggins"
-    text: "David Goggins is a crazy MF. In his book, he shares his incredible life story. He claims we are using only 40% of our capabilities, and we can achieve much more through hard work and dedication. I would also recommend checking the audiobook. It has additional info and interviews with the author."
+    excerpt: "David Goggins is a crazy MF. In his book, he shares his incredible life story. He claims we are using only 40% of our capabilities, and we can achieve much more through hard work and dedication. I would also recommend checking the audiobook. It has additional info and interviews with the author."
     url: "https://amzn.to/3xOCBt5"
     btn_label: "Amazon"
     btn_class: "btn--primary"
@@ -132,7 +132,7 @@ feature_row0-11:
   - image_path: /assets/images/mindset.jpg
     alt: "Mindset"
     title: "Mindset by Carol C Dweck "
-    text: "In her book, Carol C Dweck divides people into two categories. People with a fixed mindset believe that our abilities are fixed and can't change them, and people with a growth mindset believe that we can develop any abilities if we spend enough time. The fixed mindset limits and prevents us from creating and achieving better things in life. With the Growth Mindset, we can grow ourselves and motivate and inspire people around us."
+    excerpt: "In her book, Carol C Dweck divides people into two categories. People with a fixed mindset believe that our abilities are fixed and can't change them, and people with a growth mindset believe that we can develop any abilities if we spend enough time. The fixed mindset limits and prevents us from creating and achieving better things in life. With the Growth Mindset, we can grow ourselves and motivate and inspire people around us."
     url: "https://amzn.to/3k2ZDUO"
     btn_label: "Amazon"
     btn_class: "btn--primary"
@@ -143,7 +143,7 @@ feature_row0-12:
   - image_path: /assets/images/quiet.jpg
     alt: "Quiet"
     title: "Quiet by Susan Cain"
-    text: "I never knew about the concept of introverts and extroverts. So who are these two types of people? What is the difference between their personalities? What are their strength and weaknesses? How can introverts succeed in a world that value extroverted behaviours? You are going to find answer's in Susan Cain's book."
+    excerpt: "I never knew about the concept of introverts and extroverts. So who are these two types of people? What is the difference between their personalities? What are their strength and weaknesses? How can introverts succeed in a world that value extroverted behaviours? You are going to find answer's in Susan Cain's book."
     url: "https://amzn.to/3xMoLXU"
     btn_label: "Amazon"
     btn_class: "btn--primary"
@@ -154,7 +154,7 @@ feature_row0-13:
   - image_path: /assets/images/naval_ravikant.jpg
     alt: "The Almanack of Naval Ravikant"
     title: "The Almanack of Naval Ravikant by Eric Jorgenson"
-    text: "Naval Ravikant is an entrepreneur, philosopher, and investor. He is well known for his principles of building wealth and creating happiness in our lives. This book is a collection of Naval posts, tweets, interviews, and podcasts. Check it out to learn more about building a happier, wealthier life."
+    excerpt: "Naval Ravikant is an entrepreneur, philosopher, and investor. He is well known for his principles of building wealth and creating happiness in our lives. This book is a collection of Naval posts, tweets, interviews, and podcasts. Check it out to learn more about building a happier, wealthier life."
     url: "https://amzn.to/3KsTTi9"
     btn_label: "Amazon"
     btn_class: "btn--primary"
@@ -165,7 +165,7 @@ feature_row0-14:
   - image_path: /assets/images/outliers.jpg
     alt: "Outliers: The Story of Success"
     title: "Outliers: The Story of Success by Malcolm Gladwell "
-    text: "Outliers are the best and brightest, and most successful. Malcolm Gladwell shares the secrets of the best and brightest and what it takes to become One. The famous quote `10,000 hours of practice to master a skill` is from this book."
+    excerpt: "Outliers are the best and brightest, and most successful. Malcolm Gladwell shares the secrets of the best and brightest and what it takes to become One. The famous quote `10,000 hours of practice to master a skill` is from this book."
     url: "https://amzn.to/3ODspta"
     btn_label: "Amazon"
     btn_class: "btn--primary"
@@ -176,7 +176,7 @@ feature_row0-15:
   - image_path: /assets/images/sapiens.jpg
     alt: "Sapiens: A Brief History of Humankind"
     title: "Sapiens: A Brief History of Humankind by Yuval Noah Harari "
-    text: "How Homo Sapiens became the most dominant species on the planet Earth? What happened to other human species that lived on planet Earth alongside Home Sapiens? Why do we live in the most peaceful time of human history? Yuval Noah Harari masterfully covers these and other questions about the history of humankind in his book. If you like Sapiens, I would suggest checking his other book, [\"Home Deus\"](https://amzn.to/3KdUvIg), where he is trying to predict how humans would evolve and what the future holds for us."
+    excerpt: "How Homo Sapiens became the most dominant species on the planet Earth? What happened to other human species that lived on planet Earth alongside Home Sapiens? Why do we live in the most peaceful time of human history? Yuval Noah Harari masterfully covers these and other questions about the history of humankind in his book. If you like Sapiens, I would suggest checking his other book, [\"Home Deus\"](https://amzn.to/3KdUvIg), where he is trying to predict how humans would evolve and what the future holds for us."
     url: "https://amzn.to/3Lk539S"
     btn_label: "Amazon"
     btn_class: "btn--primary"
@@ -187,7 +187,7 @@ feature_row0-16:
   - image_path: /assets/images/tipping_point.jpg
     alt: "The Tipping Point"
     title: "The Tipping Point by Malcolm Gladwell"
-    text: "TThe tipping point is that magic moment when an idea or social behaviour crosses a threshold, tips, and spreads like wildfire. Why do ideas spread like epidemics, and what part does the Tipping Point play? What sort of people and factors have the most influence on the spread of ideas? Read Malcolm Gladwell's book to get the answers."
+    excerpt: "TThe tipping point is that magic moment when an idea or social behaviour crosses a threshold, tips, and spreads like wildfire. Why do ideas spread like epidemics, and what part does the Tipping Point play? What sort of people and factors have the most influence on the spread of ideas? Read Malcolm Gladwell's book to get the answers."
     url: "https://amzn.to/3OB2y5f"
     btn_label: "Amazon"
     btn_class: "btn--primary"
