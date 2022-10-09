@@ -77,7 +77,7 @@ feature_row0-6:
   - image_path: /assets/images/rework.jpeg
     alt: "Rework"
     title: "Rework by Jason Fried and David Heinemeier Hansson "
-    excerpt: "\"Rework\" is not your typical business book. It’s a quick read - a collection of small ideas/tips on Entrepreneurship, Productivity, Management, Marketing, Hiring, Business Culture, and more. The beauty of “Rework” is that it forces you to 'Think Again' about what you thought you knew about productivity, management, and marketing. You can read more about it in this \[post\]\{\% post_url 2021-02-14-Rework-book-review \%\}"
+    excerpt: "\"Rework\" is not your typical business book. It’s a quick read - a collection of small ideas/tips on Entrepreneurship, Productivity, Management, Marketing, Hiring, Business Culture, and more. The beauty of “Rework” is that it forces you to 'Think Again' about what you thought you knew about productivity, management, and marketing. You can read more about it in this [post](https://www.artkreimer.com/book%20review/Rework-book-review/)"
     url: "https://amzn.to/3uzqHB7"
     btn_label: "Amazon"
     btn_class: "btn--primary"
