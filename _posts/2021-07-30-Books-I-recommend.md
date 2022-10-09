@@ -17,6 +17,7 @@ date: July 30, 2021
 
 feature_row0-1:
   - image_path: /assets/images/high_output.jpeg
+    image_max_size: 150px
     alt: "High Output Management"
     title: "High Output Management by Andy Grove"
     excerpt: "Andy Grove was one of the greatest CEOs of our time, and his management approach is a foundation of famous OKRs (Objective Key Results). A must-read book for any manager."
@@ -52,7 +53,7 @@ feature_row0-4:
   - image_path: /assets/images/never_split_the_diff.jpeg
     alt: "Never Split the Difference"
     title: "Never Split the Difference by Chris Voss and Tahl Raz"
-    text: "We have to negotiate something in the office or at home constantly. In his book, Chris Voss, a former FBI hostage negotiator, provides insights and clear guidance everyone can apply to improve their negotiation skills. I am not going to say that after reading this book, I can win every argument, but I am working on it 😆"
+    excerpt: "We have to negotiate something in the office or at home constantly. In his book, Chris Voss, a former FBI hostage negotiator, provides insights and clear guidance everyone can apply to improve their negotiation skills. I am not going to say that after reading this book, I can win every argument, but I am working on it 😆"
     url: "https://amzn.to/3OvfsS9"
     btn_label: "Amazon"
     btn_class: "btn--primary"
@@ -74,7 +75,7 @@ feature_row0-6:
   - image_path: /assets/images/rework.jpeg
     alt: "Rework"
     title: "Rework by Jason Fried and David Heinemeier Hansson "
-    excerpt: "\"Rework\" is not your typical business book. It’s a quick read - a collection of small ideas/tips on Entrepreneurship, Productivity, Management, Marketing, Hiring, Business Culture, and more. The beauty of “Rework” is that it forces you to 'Think Again' about what you thought you knew about productivity, management, and marketing. You can read more about it in this [post]({% post_url 2021-02-14-Rework-book-review %}"
+    excerpt: "\"Rework\" is not your typical business book. It’s a quick read - a collection of small ideas/tips on Entrepreneurship, Productivity, Management, Marketing, Hiring, Business Culture, and more. The beauty of “Rework” is that it forces you to 'Think Again' about what you thought you knew about productivity, management, and marketing. You can read more about it in this [post]{% post_url 2021-02-14-Rework-book-review %}"
     url: "https://amzn.to/3uzqHB7"
     btn_label: "Amazon"
     btn_class: "btn--primary"
@@ -187,7 +188,7 @@ feature_row0-16:
   - image_path: /assets/images/tipping_point.jpeg
     alt: "The Tipping Point"
     title: "The Tipping Point by Malcolm Gladwell"
-    excerpt: "TThe tipping point is that magic moment when an idea or social behaviour crosses a threshold, tips, and spreads like wildfire. Why do ideas spread like epidemics, and what part does the Tipping Point play? What sort of people and factors have the most influence on the spread of ideas? Read Malcolm Gladwell's book to get the answers."
+    excerpt: "The tipping point is that magic moment when an idea or social behaviour crosses a threshold, tips, and spreads like wildfire. Why do ideas spread like epidemics, and what part does the Tipping Point play? What sort of people and factors have the most influence on the spread of ideas? Read Malcolm Gladwell's book to get the answers."
     url: "https://amzn.to/3ODspta"
     btn_label: "Amazon"
     btn_class: "btn--primary"
