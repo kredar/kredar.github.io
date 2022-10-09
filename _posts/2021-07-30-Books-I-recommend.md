@@ -3,17 +3,20 @@ title: "Recommended Reading List"
 categories:
   - Books
 tags:
-  - Recommendations
+  - Book Recommendations
 excerpt: "Books I would recommend everyone to read"
 header:
   overlay_image: /assets/images/susan-q-yin-2JIvboGLeho-unsplash.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Photo by: [**Susan Q Yin**](https://unsplash.com/@syinq?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com/s/photos/books?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
+  teaser: "/assets/images/susan-q-yin-2JIvboGLeho-unsplash.jpg"
 show_date: true
 classes: wide
 author_profile: true
 published: true
 date: July 30, 2021
+#last_modified_at:   YYYY-MM-DD HH:mm:S +0000
+
 
 feature_row0-1:
   - image_path: /assets/images/high_output.jpeg
@@ -75,7 +78,7 @@ feature_row0-6:
   - image_path: /assets/images/rework.jpeg
     alt: "Rework"
     title: "Rework by Jason Fried and David Heinemeier Hansson "
-    excerpt: "\"Rework\" is not your typical business book. It’s a quick read - a collection of small ideas/tips on Entrepreneurship, Productivity, Management, Marketing, Hiring, Business Culture, and more. The beauty of “Rework” is that it forces you to 'Think Again' about what you thought you knew about productivity, management, and marketing. You can read more about it in this [post]{% post_url 2021-02-14-Rework-book-review %}"
+    excerpt: "\"Rework\" is not your typical business book. It’s a quick read - a collection of small ideas/tips on Entrepreneurship, Productivity, Management, Marketing, Hiring, Business Culture, and more. The beauty of “Rework” is that it forces you to 'Think Again' about what you thought you knew about productivity, management, and marketing. You can read more about it in this \[post\]\{\% post_url 2021-02-14-Rework-book-review \%\}"
     url: "https://amzn.to/3uzqHB7"
     btn_label: "Amazon"
     btn_class: "btn--primary"
