@@ -9,6 +9,7 @@ header:
   overlay_image: /assets/images/campaign-creators-gMsnXqILjp4-unsplash.jpeg
   overlay_filter: 0.7 # same as adding an opacity of 0.7 to a black background
   caption: "Photo by <a href="https://unsplash.com/@jannerboy62?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nick Fewings</a> on <a href="https://unsplash.com/s/photos/success?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>"
+  
 show_date: true
 author_profile: false
 #classes: wide
@@ -60,7 +61,7 @@ Great PMs are always thinking about outcomes and not outputs. They define SMART[
 
 ## 10. Technical Knowledge
 
-PMs' level of technical knowledge depends on the domain and the product they are working on, and even though most don't need a deep technical understanding, they should be able to communicate effectively with their team members and dev leads by having enough technical knowledge and understanding of the tech stack. Check out the [Department of Product's](https://www.departmentofproduct.com/blog/technology-skills-product-managers/) article for a deeper analysis and coverage of basic technical skills.   
+PMs' level of technical knowledge depends on the domain and the product they are working on, and even though most don't need a deep technical understanding, they should be able to communicate effectively with their team members and dev leads by having enough technical knowledge and understanding of the tech stack. Check out the [Department of Product\'s](https://www.departmentofproduct.com/blog/technology-skills-product-managers/) article for a deeper analysis and coverage of basic technical skills.   
 
 ## Summary
 
@@ -68,5 +69,5 @@ In summary, it's not easy to be a PM. It's a challenging role that requires vari
 
 
 
-[^1]: SMART goal is Specific, Measurable, Achievable, Relevant, and Time-Bound. Read more [here](https://www.mindtools.com/pages/article/smart-goals.htm)
+[^1]: SMART goals are Specific, Measurable, Achievable, Relevant, and Time-Bound. Read more [here](https://www.mindtools.com/pages/article/smart-goals.htm)
 

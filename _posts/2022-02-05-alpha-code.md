@@ -7,12 +7,13 @@ tags:
   - AI and ML
 #layout: splash
 show_date: true
-author_profile: false
+author_profile: true
 classes: wide
 published: true
 header:
   overlay_image: /assets/images/alphacode.jpg
   overlay_filter: 0.7 # same as adding an opacity of 0.7 to a black background
+  teaser: /assets/images/alphacode.jpg
 ---
 
 
