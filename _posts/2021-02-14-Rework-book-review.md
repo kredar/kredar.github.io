@@ -9,7 +9,7 @@ tags:
   - Productivity
 #layout: splash
 show_date: true
-author_profile: false
+author_profile: true
 classes: wide
 ---
   

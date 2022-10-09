@@ -15,7 +15,6 @@ classes: wide
 author_profile: true
 published: true
 date: July 30, 2021
-#last_modified_at:   YYYY-MM-DD HH:mm:S +0000
 
 feature_row0-1:
   - image_path: /assets/images/high_output.jpeg
@@ -208,7 +207,10 @@ I have divided this list into three categories:
 
 **Inspirational/Self-help** are books that you read and get inspired to do more, to do something bigger. In this category, you would find biographies, memoirs, self-development books, and some inspirational novels. 
 
-**Know the past** - These are history books. As [Carl Sagan](https://www.goodreads.com/quotes/194992-you-have-to-know-the-past-to-understand-the-present,) famously said, "You have to know the past to understand the present." I would add to it, "You have to know the past to understand the present and build a better future."   
+**Know the past** - These are history books. As [Carl Sagan](https://www.goodreads.com/quotes/194992-you-have-to-know-the-past-to-understand-the-present,) famously said, 
+
+>You have to know the past to understand the present." I would add to it, "You have to know the past to understand the present and build a better future."   
+{: .notice}
          
 ## Leadership/Management    
 
