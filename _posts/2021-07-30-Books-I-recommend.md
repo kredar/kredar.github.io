@@ -11,13 +11,13 @@ header:
   caption: "Photo by: [**Susan Q Yin**](https://unsplash.com/@syinq?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com/s/photos/books?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 show_date: true
 classes: wide
-author_profile: false
+author_profile: true
 published: true
 date: July 30, 2021
 
 feature_row0-1:
   - image_path: /assets/images/high_output.jpeg
-    image_max_size: 150px
+    image_max_size: 10px
     alt: "High Output Management"
     title: "High Output Management by Andy Grove"
     excerpt: "Andy Grove was one of the greatest CEOs of our time, and his management approach is a foundation of famous OKRs (Objective Key Results). A must-read book for any manager."
