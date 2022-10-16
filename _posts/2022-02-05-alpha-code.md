@@ -1,5 +1,6 @@
 ---
 title: "AlphaCode and what's next"
+excerpt: "Deepmind developed an AI system capable of writing computer programs at a competitive level."
 date: 2022-02-05
 categories:
   - AI

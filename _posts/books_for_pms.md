@@ -1,10 +1,10 @@
 ---
-title: "25 must-read books for any Product Manager"
+title: "A must-read books for any Product Manager"
+excerpt: "A collection of books that would make you a better PM"
 categories:
   - Books
 tags:
-  - Recommendations
-excerpt: "Books I would recommend any PM to read"
+  - Recommendations=
 header:
   overlay_image: /assets/images/nick-fewings-f2Bi-VBs71M-unsplash.jpeg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background

@@ -1,10 +1,10 @@
 ---
 title: "The Role of a Product Manager"
+excerpt: "What is Product Management and what does a Product Manager do?"
 categories:
   - Product Management
 tags:
   - Product Management
-excerpt: "What is Product Management and what does a Product Manager do?"
 header:
   overlay_image: /assets/images/campaign-creators-gMsnXqILjp4-unsplash.jpeg
   overlay_filter: 0.7 # same as adding an opacity of 0.7 to a black background
