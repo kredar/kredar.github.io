@@ -61,7 +61,7 @@ feature_row2: #DONE
     image_max_size: 10px
     alt: "The Design of Everyday Things"
     title: "\"The Design of Everyday Things\" by Donald Norman"
-    excerpt: "It is a classic in the field of design. After you read Norman’s book, you’ll notice good and bad designs everywhere. "The Design of Everyday Things" will raise your expectations about how things should be designed."
+    excerpt: "It is a classic in the field of design. After you read Norman’s book, you’ll notice good and bad designs everywhere. \"The Design of Everyday Things\" will raise your expectations about how things should be designed."
     url: "https://www.amazon.ca/Design-Everyday-Things-Revised-Expanded/dp/0465050654/ref=sr_1_1?keywords=design+of+everyday+things&qid=1667677691&qu=eyJxc2MiOiIxLjA2IiwicXNhIjoiMC42MyIsInFzcCI6IjAuNTkifQ%3D%3D&s=books&sprefix=design+of+%2Cstripbooks%2C193&sr=1-1"
     btn_label: "Amazon"
     btn_class: "btn--primary"
@@ -83,7 +83,7 @@ feature_row3: #DONE
     image_max_size: 10px
     alt: "Everybody Lies"
     title: "Everybody Lies by Seth Stephens-Davidowitz"
-    excerpt: "It’s an easy read, full of insights into human behaviour. It shows the importance of quantitative and qualitative analysis and how they complement each other."
+    excerpt: "It's an easy read, full of insights into human behaviour. It shows the importance of quantitative and qualitative analysis and how they complement each other."
     url: "https://amzn.to/3EasBeK"
     btn_label: "Amazon"
     btn_class: "btn--primary"
@@ -139,7 +139,7 @@ feature_row6: #DONE
     image_max_size: 10px
     alt: "Swipe to unlock"
     title: "Swipe to Unlock by Neel Mehta, Aditya Agashe, Parth Detroja"
-    excerpt: "It's a great primer on technology and business strategy.  It has many references and an excellent glossary and is a must for more junior PMs."
+    excerpt: "It's a great primer on technology and business strategy. It has many references and an excellent glossary and is a must for more junior PMs."
     url: "https://amzn.to/3uBNhJf"
     btn_label: "Amazon"
     btn_class: "btn--primary"
