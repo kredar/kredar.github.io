@@ -8,7 +8,8 @@ header:
 show_date: true 
 classes: wide
 ---
-  
+
+[Reference](https://www.fabriziomusacchio.com/blog/2021-08-11-Minimal_Mistakes_Cheat_Sheet/#myid1)
 
 A notice displays information that explains nearby content. Often used to call attention to a particular detail.
 
