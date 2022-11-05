@@ -200,31 +200,45 @@ Although I agree with most of these book recommendations, I would like to expand
 So here are additional must-read books for Product Managers.
 
 ## Communication And Collaboration  
+
 Communication and collaboration are the most crucial skills for PMs at any level. 
+
 {% include feature_row id="feature_row1" %} 
 
-## UX/UI Design
-PMs are a connecting tissue between business, design and technology. They work with Product designers regularly and need a solid understanding of UX best practices.
+## UX/UI Design 
+
+PMs are a connecting tissue between business, design and technology. They work with Product designers regularly and need a solid understanding of UX best practices.  
+
 {% include feature_row id="feature_row2" %} 
 
-## Analytics and Customer insights
-Great PMs can leverage qualitative and quantitative data to get deep inside into customer behaviours and their needs and leverage it to create the best possible value for their product.
+## Analytics and Customer insights  
+
+Great PMs can leverage qualitative and quantitative data to get deep inside into customer behaviours and their needs and leverage it to create the best possible value for their product.  
+
 {% include feature_row id="feature_row3" %} 
 
-## Strategic Thinking
-To create great products, PMs need to define a great product vision and create a good strategy to achieve this vision.
+## Strategic Thinking  
+
+To create great products, PMs need to define a great product vision and create a good strategy to achieve this vision.  
+
 {% include feature_row id="feature_row4" type="left" %} 
 
-## Leadership
-PMs not only motivate product team members, but also provide thought leadership and mentorship to younger PMs and actively assist them in expanding and developing skills and knowledge.
+## Leadership  
+
+PMs not only motivate product team members, but also provide thought leadership and mentorship to younger PMs and actively assist them in expanding and developing skills and knowledge.  
+
 {% include feature_row id="feature_row5" %} 
 
-## Technical Knowledge
+## Technical Knowledge  
+
 PMs need to have at least basic knowledge of the technical stack their product was build on and have a basic understanding on how internet works.  
+
 {% include feature_row id="feature_row6" type="left" %} 
 
-## Best Practices and Culture
-There are many approaches to product management, leadership and company culture. These are some great books to expand on these topics.
+## Best Practices and Culture  
+
+There are many approaches to product management, leadership and company culture. These are some great books to expand on these topics.  
+
 {% include feature_row id="feature_row7" %} 
 
 
