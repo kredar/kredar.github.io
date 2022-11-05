@@ -1,5 +1,5 @@
 ---
-title: "Recommended Reading List"
+title: "Book Recommedations"
 categories:
   - Books
 tags:
