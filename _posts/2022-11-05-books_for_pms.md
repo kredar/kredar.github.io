@@ -12,7 +12,7 @@ header:
 show_date: true
 classes: wide
 author_profile: false
-published: false
+published: true
 
 feature_row1:
   - image_path: /assets/images/never_split_the_diff.jpeg
