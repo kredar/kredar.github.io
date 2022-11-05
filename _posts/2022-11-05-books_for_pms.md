@@ -6,12 +6,13 @@ categories:
 tags:
   - Recommendations
 header:
-  overlay_image: /assets/images/nick-fewings-f2Bi-VBs71M-unsplash.jpeg
+  overlay_image: /assets/images/christin-hume-k2Kcwkandwg-unsplash.jpg
+  teaser: /assets/images/christin-hume-k2Kcwkandwg-unsplash.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo by: [**Nick Fewings**](https://unsplash.com/@jannerboy62) on [**Unsplash**](https://unsplash.com/photos/f2Bi-VBs71M)"
+  caption: "Photo by: [**Christin Hume**](https://unsplash.com/@christinhumephoto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com/s/photos/reading?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 show_date: true
 classes: wide
-author_profile: false
+author_profile: true
 published: true
 
 feature_row1:
@@ -135,7 +136,7 @@ feature_row5: #DONE
         - Skills
 
 feature_row6: #DONE
-  - image_path: /assets/images/swipe_to_unlock.jpeg
+  - image_path: /assets/images/swipe_to_unlock.png
     image_max_size: 10px
     alt: "Swipe to unlock"
     title: "\"Swipe to Unlock\" by Neel Mehta, Aditya Agashe, Parth Detroja"
@@ -227,6 +228,4 @@ There are many approaches to product management, leadership and company culture.
 {% include feature_row id="feature_row7" %} 
 
 
-I am going to continue updating this list and adding new books to it. 
-
-For more book recommendations check my other post 
+For more book recommendations check my other post [Book Recommendations](https://www.artkreimer.com/books/Books-I-recommend/).

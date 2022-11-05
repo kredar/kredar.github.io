@@ -4,7 +4,7 @@ categories:
   - Books
 tags:
   - Recommendations
-excerpt: "Books I would recommend everyone to read"
+excerpt: "Books I recommend everyone to read"
 header:
   overlay_image: /assets/images/susan-q-yin-2JIvboGLeho-unsplash.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
