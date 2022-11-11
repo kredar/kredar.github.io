@@ -1,9 +1,10 @@
 ---
 title: "Book Recommedations"
 categories:
-  - Books
+  - Book Recommedations
 tags:
-  - Recommendations
+  - Books
+  - Must-Read
 excerpt: "Books I recommend everyone to read"
 header:
   overlay_image: /assets/images/susan-q-yin-2JIvboGLeho-unsplash.jpg
@@ -28,7 +29,6 @@ feature_row0-1:
     tags:
         - Leadership
 
-feature_row0-2:
   - image_path: /assets/images/the_hard_thing.jpeg
     alt: "The Hard Thing About Hard Things"
     title: "The Hard Thing About Hard Things by Ben Horowitz"
@@ -39,7 +39,6 @@ feature_row0-2:
     tags:
         - Leadership
 
-feature_row0-3:
   - image_path: /assets/images/trillion_dollar.jpeg
     alt: "Trillion Dollar Coach"
     title: "Trillion Dollar Coach by Eric Schmidt, Jonathan Rosenberg, Alan Eagle"
@@ -50,7 +49,7 @@ feature_row0-3:
     tags:
         - Leadership
 
-feature_row0-4:
+feature_row0-2:
   - image_path: /assets/images/never_split_the_diff.jpeg
     alt: "Never Split the Difference"
     title: "Never Split the Difference by Chris Voss and Tahl Raz"
@@ -61,7 +60,6 @@ feature_row0-4:
     tags:
         - Negotiation
 
-feature_row0-5:
   - image_path: /assets/images/measure_what_matters.jpeg
     alt: "Measure What Matters"
     title: "Measure What Matters by John Doerr"
@@ -72,7 +70,6 @@ feature_row0-5:
     tags:
         - Negotiation
 
-feature_row0-6:
   - image_path: /assets/images/rework.jpeg
     alt: "Rework"
     title: "Rework by Jason Fried and David Heinemeier Hansson "
@@ -83,7 +80,7 @@ feature_row0-6:
     tags:
         - Management
 
-feature_row0-7:
+feature_row0-3:
   - image_path: /assets/images/steve_jobs.jpeg
     alt: "Steve Jobs"
     title: "Steve Jobs by Walter Isaacson"
@@ -94,7 +91,6 @@ feature_row0-7:
     tags:
         - Inspirational
 
-feature_row0-8:
   - image_path: /assets/images/elon_musk.jpeg
     alt: "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future"
     title: "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future by Ashlee Vance"
@@ -105,7 +101,6 @@ feature_row0-8:
     tags:
         - Management
 
-feature_row0-9:
   - image_path: /assets/images/power_habit.jpeg
     alt: "The Power of Habit"
     title: "The Power of Habit by Charles Duhigg and Atomic Habits by James Clear "
@@ -119,7 +114,6 @@ feature_row0-9:
     tags:
         - Management
 
-feature_row0-10:
   - image_path: /assets/images/cant_hurt_me_1.jpg
     alt: "Can't Hurt Me"
     title: "Can't Hurt Me by David Goggins"
@@ -130,7 +124,7 @@ feature_row0-10:
     tags:
         - Management
 
-feature_row0-11:
+feature_row0-4:
   - image_path: /assets/images/mindset.jpeg
     alt: "Mindset"
     title: "Mindset by Carol C Dweck "
@@ -141,7 +135,6 @@ feature_row0-11:
     tags:
         - Management
 
-feature_row0-12:
   - image_path: /assets/images/quiet.jpeg
     alt: "Quiet"
     title: "Quiet by Susan Cain"
@@ -152,7 +145,6 @@ feature_row0-12:
     tags:
         - Management
 
-feature_row0-13:
   - image_path: /assets/images/naval_ravikant.jpeg
     alt: "The Almanack of Naval Ravikant"
     title: "The Almanack of Naval Ravikant by Eric Jorgenson"
@@ -163,7 +155,6 @@ feature_row0-13:
     tags:
         - Management
 
-feature_row0-14:
   - image_path: /assets/images/outliers.jpeg
     alt: "Outliers: The Story of Success"
     title: "Outliers: The Story of Success by Malcolm Gladwell "
@@ -174,7 +165,7 @@ feature_row0-14:
     tags:
         - Management
 
-feature_row0-15:
+feature_row0-5:
   - image_path: /assets/images/sapiens.jpeg
     alt: "Sapiens: A Brief History of Humankind"
     title: "Sapiens: A Brief History of Humankind by Yuval Noah Harari "
@@ -185,7 +176,6 @@ feature_row0-15:
     tags:
         - Know the Past 
 
-feature_row0-16:
   - image_path: /assets/images/tipping_point.jpeg
     alt: "The Tipping Point"
     title: "The Tipping Point by Malcolm Gladwell"
@@ -214,25 +204,25 @@ I have divided this list into three categories:
          
 ## Leadership/Management    
 
-{% include feature_row id="feature_row0-1" type="left" %}
+{% include feature_row id="feature_row0-1" %}
 
-{% include feature_row id="feature_row0-2" type="left" %}
+{% include feature_row id="feature_row0-2" %}
 
-{% include feature_row id="feature_row0-3" type="left" %}
+<!-- {% include feature_row id="feature_row0-3" type="left" %}
 
 {% include feature_row id="feature_row0-4" type="left" %}
 
 {% include feature_row id="feature_row0-5" type="left" %}  
 
-{% include feature_row id="feature_row0-6" type="left" %} 
+{% include feature_row id="feature_row0-6" type="left" %}  -->
 
 ## Inspirational/Self motivation   
 
-{% include feature_row id="feature_row0-7" type="left" %}  
+{% include feature_row id="feature_row0-3" %}  
 
-{% include feature_row id="feature_row0-8" type="left" %}  
+{% include feature_row id="feature_row0-4" %}  
 
-{% include feature_row id="feature_row0-9" type="left" %}  
+<!-- {% include feature_row id="feature_row0-9" type="left" %}  
 
 {% include feature_row id="feature_row0-10" type="left" %}  
 
@@ -242,15 +232,15 @@ I have divided this list into three categories:
 
 {% include feature_row id="feature_row0-13" type="left" %} 
 
-{% include feature_row id="feature_row0-14" type="left" %} 
+{% include feature_row id="feature_row0-14" type="left" %}  -->
 ​        
 ## Know the past   
 
-{% include feature_row id="feature_row0-15" type="left" %} 
+{% include feature_row id="feature_row0-5"  %} 
 
-{% include feature_row id="feature_row0-16" type="left" %} 
+<!-- {% include feature_row id="feature_row0-16" type="left" %}  -->
 
-{:style="clear: left"}
+
 
 [comment]: <> "- [David and Goliath]&#40;https://www.amazon.ca/David-Goliath-Underdogs-Misfits-Battling/dp/0316204374/ref=sr_1_1?crid=389Y29XCXL5WC&dchild=1&keywords=david+and+goliath+malcolm+gladwell&qid=1627681947&sprefix=David+and+%2Caps%2C193&sr=8-1&#41; by Malcolm Gladwell"
 

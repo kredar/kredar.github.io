@@ -2,9 +2,10 @@
 title: "Must-read books for Product Managers"
 excerpt: "A collection of books that would make you a better PM"
 categories:
-  - Books, Product Management
+  - Product Management
 tags:
-  - Recommendations
+  - Product Management
+  - Book Recommedations
 header:
   overlay_image: /assets/images/christin-hume-k2Kcwkandwg-unsplash.jpg
   teaser: /assets/images/christin-hume-k2Kcwkandwg-unsplash.jpg
