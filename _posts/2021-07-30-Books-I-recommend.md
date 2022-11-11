@@ -114,6 +114,7 @@ feature_row0-3:
     tags:
         - Management
 
+feature_row0-4:
   - image_path: /assets/images/cant_hurt_me_1.jpg
     alt: "Can't Hurt Me"
     title: "Can't Hurt Me by David Goggins"
@@ -124,7 +125,6 @@ feature_row0-3:
     tags:
         - Management
 
-feature_row0-4:
   - image_path: /assets/images/mindset.jpeg
     alt: "Mindset"
     title: "Mindset by Carol C Dweck "
@@ -145,6 +145,7 @@ feature_row0-4:
     tags:
         - Management
 
+feature_row0-5:
   - image_path: /assets/images/naval_ravikant.jpeg
     alt: "The Almanack of Naval Ravikant"
     title: "The Almanack of Naval Ravikant by Eric Jorgenson"
@@ -165,7 +166,7 @@ feature_row0-4:
     tags:
         - Management
 
-feature_row0-5:
+feature_row0-6:
   - image_path: /assets/images/sapiens.jpeg
     alt: "Sapiens: A Brief History of Humankind"
     title: "Sapiens: A Brief History of Humankind by Yuval Noah Harari "
@@ -222,6 +223,8 @@ I have divided this list into three categories:
 
 {% include feature_row id="feature_row0-4" %}  
 
+{% include feature_row id="feature_row0-5"  %} 
+
 <!-- {% include feature_row id="feature_row0-9" type="left" %}  
 
 {% include feature_row id="feature_row0-10" type="left" %}  
@@ -236,7 +239,7 @@ I have divided this list into three categories:
 ​        
 ## Know the past   
 
-{% include feature_row id="feature_row0-5"  %} 
+{% include feature_row id="feature_row0-6"  %} 
 
 <!-- {% include feature_row id="feature_row0-16" type="left" %}  -->
 
