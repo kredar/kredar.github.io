@@ -5,6 +5,7 @@ categories:
   - Conversational AI
 tags:
   - Virtual Assistant
+  - Conversational AI
 header:
   overlay_image: /assets/images/chatbot-image.jpeg
   overlay_filter: 0.7 # same as adding an opacity of 0.7 to a black background

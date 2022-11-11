@@ -5,6 +5,7 @@ categories:
   - Conversational AI
 tags:
   - Virtual Assistant
+  - Conversational AI
 header:
   overlay_image: /assets/images/freestocks-GxM9gkLJbwY-unsplash.jpg
   overlay_filter: 0.7 # same as adding an opacity of 0.7 to a black background
