@@ -1,7 +1,7 @@
 ---
 title: "Book Recommedations"
 categories:
-  - Book Recommedations
+  - Book Reviews
 tags:
   - Books
   - Must-Read
@@ -223,7 +223,7 @@ I have divided this list into three categories:
 
 {% include feature_row id="feature_row0-4" %}  
 
-{% include feature_row id="feature_row0-5"  %} 
+{% include feature_row id="feature_row0-5" %} 
 
 <!-- {% include feature_row id="feature_row0-9" type="left" %}  
 
@@ -239,7 +239,7 @@ I have divided this list into three categories:
 ​        
 ## Know the past   
 
-{% include feature_row id="feature_row0-6"  %} 
+{% include feature_row id="feature_row0-6" %} 
 
 <!-- {% include feature_row id="feature_row0-16" type="left" %}  -->
 
