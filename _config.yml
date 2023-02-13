@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Artiom Kreimer
+title: Art Kreimer
 title_separator: "|"
 logo: "/assets/images/AK_masthead.png"
-# masthead_title: "artkreimer.com"
+masthead_title: "artkreimer.com"
 email: artiom.kreimer@gmail.com
 description: "Artiom Kreimer's blog: Product Management, Leadership, Productivity, Conversational AI" 
 #>- # this means to ignore newlines until "baseurl:"
