@@ -16,7 +16,7 @@
 title: Artiom Kreimer
 title_separator: "|"
 logo: "/assets/images/AK_masthead.png"
-masthead_title: "artkreimer.com"
+# masthead_title: "artkreimer.com"
 email: artiom.kreimer@gmail.com
 description: "Artiom Kreimer's blog: Product Management, Leadership, Productivity, Conversational AI" 
 #>- # this means to ignore newlines until "baseurl:"
