@@ -160,7 +160,7 @@ feature_row7: #DONE
     btn_class: "btn--primary"
     tags:
         - Skills
-  - image_path: /assets/images/trillion_dollar.jpeg
+  - image_path: /assets/images/good_to_great.jpeg
     image_max_size: 10px
     alt: "Good to Great"
     title: "\"Good to Great\" by Jim Collins"
