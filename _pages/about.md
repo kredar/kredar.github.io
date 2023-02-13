@@ -1,7 +1,7 @@
 ---
 permalink: /about/
-title: "About"
-excerpt: "About Me"
+title: "About Me"
+# excerpt: "About Me"
 last_modified_at: 2022-02-05T10:23:16-04:00
 toc: false
 header:
@@ -14,7 +14,7 @@ classes: wide
 
 
 <!-- {% include figure image_path="/assets/images/art_picture_1.jpg" alt="Beautiful British Columbia" caption="Beautiful British Columbia" width="350" %} -->
-![image-center](/assets/images/art_picture_1.jpg){: .align-left}
+![image-center](/assets/images/art_picture_1.jpg){: .align-right}
 
 Hi there! I am Art Kreimer, a technical product leader with over a decade of experience leading cross-functional teams to bring digital products to life. I have a Bachelor's degree in Communication Systems Engineering and have worked across various industries, including ASIC, Consumer Electronics, Telecom, web and mobile apps, Machine Learning and Conversational AI, and Finance.
 
