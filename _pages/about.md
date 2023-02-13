@@ -11,12 +11,13 @@ toc: false
 <!-- {% include figure image_path="/assets/images/art_picture_1.jpg" alt="Beautiful British Columbia" caption="Beautiful British Columbia" width="350" %} -->
 ![image-center](/assets/images/art_picture_1.jpg){: .align-center}
 
+Hi there! I am Art Kreimer, a technical product leader with over a decade of experience leading cross-functional teams to bring digital products to life. I have a Bachelor's degree in Communication Systems Engineering and have worked across various industries, including ASIC, Consumer Electronics, Telecom, web and mobile apps, Machine Learning and Conversational AI, and Finance.
 
-Artiom(Art) Kreimer is a technical product leader with more than ten years of experience leading cross-functional teams to create and ship digital products. He has a Bachelor's degree in Communication Systems Engineering and worked across various industries and products, including ASIC, Consumer Electronics, Telecom, web and mobile apps, Machine Learning and Conversational AI, and Finance products.
+I'm passionate about Data Analytics, Machine Learning, and Conversational AI and truly enjoy using these technologies to solve customer problems. As a Principal Product Manager at Scotiabank, I drive product strategy and development, working closely with my team to bring innovative products to market. Before joining [Scotiabank](https://www.scotiabank.com/ca/en/personal.html), I was a key player in the development of Conversational AI and Chatbot Analytics platforms at [Wysdom.AI](https://wysdom.ai/).
 
-Art is currently a Principal Product Manager at [Scotiabank](https://www.scotiabank.com/ca/en/personal.html). Before that, he led the product development of Conversational AI and Chatbot Analytics platforms at [Wysdom.AI](https://wysdom.ai/). He is passionate about Data Analytics, Machine Learning, and Conversational AI, but most of all, he is passionate about solving customers' problems using these technologies. 
+I live in Ontario, Canada, with my wife, two daughters, and Hungarian Vizsla. I love spending my free time with my family and enjoying outdoor activities like hiking, running, and exploring nature. I am also an avid reader and lifelong learner.
 
-Art lives in Aurora, Ontario, with his wife, two daughters and a Hungarian Vizsla. He loves spending his spare time with his family, hiking in the woods, running, reading and learning something new. 
+Feel free to [contact](https://www.linkedin.com/in/kreimer/) me if you find my blog useful, think I might be a good fit or simply would like to connect.
 
 <!-- <script src="https://www.gstatic.com/dialogflow-console/fast/messenger-cx/bootstrap.js?v=1"></script>
 <df-messenger
