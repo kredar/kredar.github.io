@@ -25,7 +25,7 @@ description: "Artiom Kreimer's blog: Product Management, Leadership, Productivit
   # Google search results) and in your feed.xml site description.
 twitter_username: kredar3
 github_username: kredar
-minimal_mistakes_skin: "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 
 # Adding comments to posts
