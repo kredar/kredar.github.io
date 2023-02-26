@@ -4,17 +4,17 @@ title: "About Me"
 # excerpt: "About Me"
 last_modified_at: 2022-02-05T10:23:16-04:00
 toc: false
-# header:
-#     overlay_image: /assets/images/jurre-houtkamp-JK1cQkLnUsk-unsplash.jpg
-#     overlay_filter: 0.5
-#     caption: "Photo by [**Jurre Houtkamp**](https://unsplash.com/ja/@jurrehoutkamp?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com/photos/JK1cQkLnUsk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
+header:
+    overlay_image: /assets/images/jurre-houtkamp-JK1cQkLnUsk-unsplash.jpg
+    overlay_filter: 0.5
+    caption: "Photo by [**Jurre Houtkamp**](https://unsplash.com/ja/@jurrehoutkamp?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com/photos/JK1cQkLnUsk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 classes: wide
+author_profile: true
+layout: single
 ---
 
-
-# About Me
-<!-- {% include figure image_path="/assets/images/art_picture_1.jpg" alt="Beautiful British Columbia" caption="Beautiful British Columbia" width="350" %} -->
-![image-center](/assets/images/art_picture_1.jpg){: .align-right}
+<!-- {% include figure image_path="/assets/images/art_picture_1.jpg" alt="Beautiful British Columbia" caption="Beautiful British Columbia" width="350" %}
+![image-center](/assets/images/art_picture_1.jpg){: .align-right} -->
 
 Hi there! I am Art Kreimer, a technical product leader with over a decade of experience leading cross-functional teams to bring digital products to life. I have a Bachelor's degree in Communication Systems Engineering and have worked across various industries, including ASIC, Consumer Electronics, Telecom, web and mobile apps, Machine Learning and Conversational AI, and Finance.
 
