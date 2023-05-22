@@ -70,7 +70,7 @@ plugins:
 
 author:
   name   : "Artiom Kreimer"
-  avatar : "/assets/images/bio-photo-new.jpg"
+  avatar : "/assets/images/bio_photo_il.jpg"
   bio    : "Product Leader writing about Leadership, Productivity, Product Management, Machine Learning, Conversational AI, and Life in general."
   location : "Toronto, Canada"
   links:
