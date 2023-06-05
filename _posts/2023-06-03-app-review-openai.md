@@ -10,7 +10,7 @@ header:
   overlay_image: /assets/images/mariia-shalabaieva-nYSdjVD2ayo-unsplash.jpg
   overlay_filter: 0.7 # same as adding an opacity of 0.7 to a black background
   # caption: "Photo by: [**Mariia Shalabaieva**](https://unsplash.com/it/@maria_shalabaieva?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com/photos/nYSdjVD2ayo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
-  teaser: /assets/images/chatbot-image.jpeg
+  teaser: /assets/images/mariia-shalabaieva-nYSdjVD2ayo-unsplash.jpg
 show_date: true
 author_profile: true
 #classes: wide
