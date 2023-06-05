@@ -13,7 +13,7 @@ header:
   teaser: /assets/images/mariia-shalabaieva-nYSdjVD2ayo-unsplash.jpg
 show_date: true
 author_profile: true
-#classes: wide
+classes: wide
 #layout: splash
 published: true
 toc: true
@@ -24,7 +24,7 @@ toc_sticky: true
 
 # Introduction
 
-A couple of weeks ago, I completed a short course on prompt engineering - "ChatGPT ********Prompt Engineering For Developers" by [DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/). The best part is, it's available for free, but only for a limited time! 
+A couple of weeks ago, I completed a short course on prompt engineering - **"ChatGPT Prompt Engineering For Developers"** by [DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/). The best part is, it's available for free, but only for a limited time! 
 
 The course provided me with valuable insights into prompt engineering techniques, which further fueled my enthusiasm for exploring the vast capabilities of Language Models. Eager to put my newfound knowledge to the test, I decided to write a script to analyze Android app reviews using the power of an LLM. 
 
