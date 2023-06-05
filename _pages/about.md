@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About Me"
-# excerpt: "About Me"
+excerpt: "About Me"
 last_modified_at: 2022-02-05T10:23:16-04:00
 toc: false
 header:
@@ -23,7 +23,7 @@ I'm passionate about Data Analytics, Machine Learning, and Conversational AI and
 I live in Ontario, Canada, with my wife, two daughters, and Hungarian Vizsla. I love spending my free time with my family and enjoying outdoor activities like hiking, running, and exploring nature. I am also an avid reader and lifelong learner.
 
 ## Certifications  
-
+- **2023** - Communicating for Impact [IDEO U](https://www.credential.net/22718ddf-13a4-4289-9e7d-3cedd1f09d37#gs.zyt2ts)
 - **2022** - Data Analytics Certificate by [Google](https://www.credly.com/badges/bb2a5bac-da80-4cea-8ca9-05fd5b463b34/linked_in_profile)
 - **2022** - Professional Scrum Product Owner I by [scrum.org](https://www.credly.com/badges/56f14992-f5df-4aaa-9f03-4ab5728e5e72/linked_in_profile)
 - **2021** - Customer Experiences with Contact Center AI - Dialogflow CX by [Google](https://coursera.org/share/ff0cf1e19dbdc7c8c536b20674c67534)
