@@ -1,6 +1,6 @@
 ---
 title: "Exploring the Capabilities of Large Language Models"
-excerpt: "Using LLMs to analyze Android app reviews"
+excerpt: "Using Large Language Models for Android app review analysis, covering sentiment analysis, emotion detection, summarization, and more."
 categories:
   - AI
 tags:
