@@ -1,3 +1,2 @@
-# My Blog
-
-This is a beginning of my blog
+# 
+Blogging about Artificial Intelligence and Machine Learning, Product Management and Leadership. 

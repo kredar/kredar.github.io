@@ -2,7 +2,7 @@
 title: "Conversational AI and its future"
 excerpt: "What is conversational AI and how it would evolve"
 categories:
-  - Conversational AI
+  - Conversational-AI
 tags:
   - Virtual Assistant
   - Conversational AI

@@ -1,10 +1,9 @@
 ---
 title: "Book Recommedations"
 categories:
-  - Book Reviews
+  - Book-Review
 tags:
-  - Books
-  - Must-Read
+  - Must-Read Books
 excerpt: "Books I recommend everyone to read"
 header:
   overlay_image: /assets/images/susan-q-yin-2JIvboGLeho-unsplash.jpg

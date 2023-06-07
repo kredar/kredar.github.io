@@ -2,10 +2,12 @@
 title: "Exploring the Capabilities of Large Language Models"
 excerpt: "Using Large Language Models for Android app review analysis, covering sentiment analysis, emotion detection, summarization, and more."
 categories:
+  - Gen-AI
   - AI
 tags:
   - NLP
   - LLM
+  - AI
 header:
   overlay_image: /assets/images/openai_img.jpg
   overlay_filter: 0.7 # same as adding an opacity of 0.7 to a black background
