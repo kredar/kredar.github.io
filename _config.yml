@@ -70,7 +70,7 @@ plugins:
   - jekyll-seo-tag
 
 author:
-  name   : "Artiom Kreimer"
+  name   : "Art Kreimer"
   avatar : "/assets/images/bio_image_il.jpeg"
   bio    : "Product Leader writing about Leadership, Productivity, Product Management, Machine Learning, Conversational AI, and Life in general."
   location : "Toronto, Canada"
