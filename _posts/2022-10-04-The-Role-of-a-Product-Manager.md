@@ -1,6 +1,6 @@
 ---
 title: "The Role of a Product Manager"
-excerpt: "What is Product Management and What is the Role a Product Manager?"
+excerpt: "What is Product Management and What is the Role of a Product Manager?"
 categories:
   - Product-Management
 tags:
