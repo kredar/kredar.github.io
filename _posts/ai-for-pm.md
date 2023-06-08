@@ -26,7 +26,7 @@ toc_sticky: true
 
 # Introduction
 
-Since OPenAI released ChatGPT last November LLMs, GPTs, Gen AI became buzzwords and everyone is talking about it.  In many cases people are mixing AI with Gen AI and simplifying LLMs and their capabilities by calling them AI (thanks God they are not calling them AGIs). Every enterperises suddenly started to invest money and talent into exploring LLMs and Gen AI models. In this article I would like to demystify some concepts about Artificial intelligence, Machine Learning and their applications. I'm not an AI expert by all means but I know enough to be confident enough to talk about these topic - I did a Deeplearning.AI specialization, build some ML models from scrats, lead team of ML engineering and Data Scientists and constantly tinkering with data. 
+Since OpenAI released ChatGPT last November LLMs, GPTs, Gen AI have become buzzwords and everyone is talking about it.  In many cases people are mixing AI with Gen AI and simplifying LLMs and their capabilities by calling them AI (thanks God they are not calling them AGIs). Every enterperises suddenly started to invest money and talent into exploring LLMs and Gen AI models. In this article I would like to demystify some concepts about Artificial intelligence, Machine Learning and their applications. I'm not an AI expert by all means but I know enough to be confident enough to talk about these topic - I did a Deeplearning.AI specialization, build some ML models from scrats, lead team of ML engineering and Data Scientists and constantly tinkering with data. 
 
 # Definitions
 
@@ -59,7 +59,7 @@ AI/ML is not something new.
 
 
 
-ML models are being used for a quite some time now. 
+ML models have been used for a quite some time now. 
 
 - **Personalization** - Use customer data to personalize experiences: treatment plans, learning, semantic search, marketing.
 - **Anomaly Detection** - Identification of unusual patterns or deviations from the norm.
