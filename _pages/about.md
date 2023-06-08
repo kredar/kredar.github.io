@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About Me"
-#excerpt: "About Me"
+excerpt: " "
 last_modified_at: 2022-02-05T10:23:16-04:00
 toc: false
 header:
