@@ -44,6 +44,8 @@ Let's start with definitions to make sure we are talking about the same thing. A
 
 
 
+The history of Machine Learning and Artificial Intelligence dates back to the mid-20th century. The term "Artificial Intelligence" was first coined by John McCarthy in 1956 at the Dartmouth Conference, where the groundwork for the field was laid. Early AI research focused on problem-solving and symbolic methods, with the belief that AI could be achieved by manipulating symbols. Machine Learning, a subset of AI, emerged as a distinct field in the late 1980s and early 1990s. The focus of Machine Learning is to enable machines to learn from data and improve their performance over time without being explicitly programmed. The advent of the internet and the explosion of digital data drove the development of more sophisticated Machine Learning algorithms. Today, AI and Machine Learning are at the forefront of technological advancements, driving innovations in various fields such as healthcare, finance, and autonomous vehicles.
+
 As you can see 
 
 ML applications can be devided into several categories:
