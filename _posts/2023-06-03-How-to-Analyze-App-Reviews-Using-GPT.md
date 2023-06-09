@@ -1,6 +1,6 @@
 ---
-title: "Exploring the Capabilities of Large Language Models"
-excerpt: "Using Large Language Models for Android app review analysis, covering sentiment analysis, emotion detection, summarization, and more."
+title: "Exploring the Power of LLMs for NLP tasks"
+excerpt: "Using Large Language Models for Android app review analysis, covering sentiment analysis, emotion detection, summarization, topics extractions and more."
 categories:
   - Gen-AI
   - AI
@@ -47,7 +47,8 @@ The first prompt, a straightforward zero-shot learning task, requests GPT to gen
 I've requested GPT to deliver the response in JSON format for seamless integration into my dataframe. Despite the prompt's simplicity, achieving optimal results required considerable experimentation and tuning. For instance, the GPT-3.5 turbo model results were inconsist and occasionally failed to return the requested JSON format. Adding `Make sure the output is in a valid JSON format` at the end of the prompt resolved this issue. However, for production-level applications, more rigorous testing and exception handling would be necessary.
 
 ```python
-"""Your task is to perform the following actions on the mobile app review delimited by triple backticks: 
+"""Your task is to perform the following actions\
+ on the mobile app review delimited by triple backticks: 
 1 - Summarize with 1 sentence.
 2 - Determine the sentiment of the review 
 3 - Identify a list of emotions in the review. Include no more than \
@@ -69,7 +70,8 @@ The second prompt aims to generate responses to app reviews. To achieve more con
 
 ```python
 prompt = f"""
-You are part of a Customer Advocacy team that is responsible to respond to all customer app reviews. \
+You are part of a Customer Advocacy team that is \
+responsible to respond to all customer app reviews. \
 Here are some examples of reviews and responses:\
 {responses_training_prompt}
 Your tasks is to write a response to the mobile app review delimited by triple backticks.\
@@ -152,7 +154,8 @@ import time
 for index, row in last_100_reviews_df.iterrows():
     review=row['content']
     prompt = f"""
-Your task is to perform the following actions on the mobile app review delimited by triple backticks: 
+Your task is to perform the following actions \
+on the mobile app review delimited by triple backticks: 
 1 - Summarize with 1 sentence.
 2 - Determine the sentiment of the review 
 3 - Identify a list of emotions in the review. Include no more than \
@@ -202,7 +205,8 @@ for index, row in last_100_reviews_df.iterrows():
     review=row['content']
     name=row['userName']
     prompt = f"""
-You are part of a Customer Advocacy team that is responsible to respond to all customer app reviews. \
+You are part of a Customer Advocacy team that \
+is responsible to respond to all customer app reviews. \
 Here are some examples of reviews and responses:\
 {responses_training_prompt}
 Your task is to write a response to the mobile app review delimited by triple backticks.\
