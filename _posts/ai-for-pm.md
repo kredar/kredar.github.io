@@ -56,17 +56,17 @@ Now that we are on the same page on definitions, let's talk about history of Art
 
 
 
-And if we look for the Artificial Intelligence and Machine Learning in Google Ngrams we can see that these terms were mentioned in the books begining from the late 50s. 
+And if we look for the Artificial Intelligence and Machine Learning in Google Ngrams we can see that these terms were mentioned in the books begining from the late 50s. The term `Deep Learning` was introduced back in 1986[^2] and many methods and architecture were proposed in last century. Transformer deep learning architecture that is a core of GPTs that ChatGPT is using was introduced in the paper 
 
 ![AI and ML trend on Google Ngrams](/Users/artiom/Documents/kredar.github.io/assets/images/aiml_google_ngrams.jpg)
 
-And 
+ 
 
 
 
 # Applications
 
-Ther are many  have been used for a quite some time now. 
+So AI models were used in many applications. Here are just some of the use cases where AI is being used: 
 
 - **Personalization** - Use customer data to personalize experiences: treatment plans, learning, semantic search, marketing.
 - **Anomaly Detection** - Identification of unusual patterns or deviations from the norm.
@@ -76,6 +76,8 @@ Ther are many  have been used for a quite some time now.
 - **Predictive analytics** - Forecast customer behaviour, churn, sales…
 - **Content Generation** - Generate text, images, videos, voice, code…
 - Customer Support - Chatbots capable of answering customer inquiring and providing customer support 24/7.
+
+
 
 
 
