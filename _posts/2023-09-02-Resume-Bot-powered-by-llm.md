@@ -15,7 +15,7 @@ header:
   teaser: /assets/images/neural_net_midjourney.png
 show_date: true
 author_profile: true
-classes: wide
+#classes: wide
 #layout: splash
 published: true
 toc: true
@@ -27,13 +27,13 @@ toc_sticky: true
 
 # Introduction
 
-In my previous post "Exploring the Power of LLMs for NLP Tasks" I explored how Language Learning Models (LLMs) can be utilized for a range of Natural Language Processing (NLP) tasks —sentiment analysis, topic extraction, content generation, summarization, and more. Building on that foundation, this post aims to guide you through my journey of crafting a personal/resume chatbot. This chatbot is powered by OpenAI's GPT-3.5, Langchain, and Streamlit.
+In my previous post "Exploring the Power of LLMs for NLP Tasks" I explored how Language Learning Models (LLMs) can be utilized for a range of Natural Language Processing (NLP) tasks —sentiment analysis, topic extraction, content generation, summarization, and more. Building on that foundation, this post aims to guide you through my journey of crafting a personal/resume chatbot. This chatbot is powered by OpenAI's GPT-3.5, Langchain, and Streamlit. You can check the demo at the end of this post. 
 
 # The Motivation Behind the Chatbot
 
 I wanted a chatbot that acts like a personal assistant —a personal assistant designed to answer questions about my professional experience, educational background, and career aspirations - in short a resume bot. Last year I started making one using a Google Dialogflow CX. People in Conversational AI space would agree that building a great chabot experience on any Conversational AI platforms can be a challenging. It proved to be time consuming. I had a working prototype but needed more time for testing and tweaking both Convesational Design as well as Intent training. However, with the release of OpenAI's GPT-3.5, I pivoted to using LLMs. The result? A resume chatbot build on Langchain, OpenAI's GPT 3.5 turbo model, FAISS as a vector DB and a lot of prompt engineering experimentation and Streamlit for frontend. 
 
-# High-Level Logic Architecture
+# Overview of the Logic Architecture
 
 I use a standard architecture commonly used in Retrieval Augmented Generation (RAG) applications. Retrieval-augmented generation (RAG) is an AI framework that combines an information retrieval component with an LLM foundational model for text generator model. It works by retrieving data that is not present in a foundation model and added to the prompts to retrive the relevant data. It allows foundational model to generate text that it had no knowledge about. It also allows to update the data without retraining or finetuning the model, enabling access to the latest information for generating reliable outputs via retrieval-based generation. This approach also helps to reduce hallucinations in GenAI applications and improve the quality of LLM-generated responses.  
 
@@ -241,7 +241,7 @@ You can try my resume bot below or on [Streamlit Cloud](https://art-career-bot.s
 
 <iframe
   src="https://art-career-bot.streamlit.app/?embed=true"
-  height="700"
+  height="900"
   style="width:100%;border:none;"
 ></iframe>
 
