@@ -52,9 +52,7 @@ Let's start with definitions to make sure we are talking about the same thing. I
 
 
 
-Now that we are on the same page on definitions, let's talk about history of Artificial Intelligence. A notion of Artificial Intelligence is probably old as a humanity itself, with myth and legends on artificial beings with human intelligence, like Golem in Bible automatons in acient mythology. But the field of AI research as we know it began in the middle of 20 century.    The history of Machine Learning and Artificial Intelligence dates back to the mid-20th century [^1] . The term "Artificial Intelligence" was first coined by John McCarthy in 1956 at the Dartmouth Conference, where the groundwork for the field was laid. Early AI research focused on problem-solving and symbolic methods, with the belief that AI could be achieved by manipulating symbols. Machine Learning, a subset of AI, emerged as a distinct field in the late 1980s and early 1990s. The focus of Machine Learning is to enable machines to learn from data and improve their performance over time without being explicitly programmed. The advent of the internet and the explosion of digital data drove the development of more sophisticated Machine Learning algorithms. Today, AI and Machine Learning are at the forefront of technological advancements, driving innovations in various fields such as healthcare, finance, and autonomous vehicles.
-
-
+Now that we are on the same page on definitions, let's talk about history of Artificial Intelligence. A notion of Artificial Intelligence is probably old as a humanity itself, with myth and legends on artificial beings with human intelligence, like Golem in Bible or automatons in acient mythology. But the field of AI research as we know it began in the middle of 20 century.    The history of Machine Learning and Artificial Intelligence dates back to the mid-20th century [^1] . The term "Artificial Intelligence" was first coined by John McCarthy in 1956 at the Dartmouth Conference, where the groundwork for the field was laid. Early AI research focused on problem-solving and symbolic methods, with the belief that AI could be achieved by manipulating symbols. Machine Learning, a subset of AI, emerged as a distinct field in the late 1980s and early 1990s. The focus of Machine Learning is to enable machines to learn from data and improve their performance over time without being explicitly programmed. The advent of the internet and the explosion of digital data drove the development of more sophisticated Machine Learning algorithms. Today, AI and Machine Learning are at the forefront of technological advancements, driving innovations in various fields such as healthcare, finance, and autonomous vehicles.
 
 And if we look for the Artificial Intelligence and Machine Learning in Google Ngrams we can see that these terms were mentioned in the books begining from the late 50s. The term `Deep Learning` was introduced back in 1986[^2] and many methods and architecture were proposed in last century. Transformer deep learning architecture that is a core of GPTs that ChatGPT is using was introduced in the paper 
 
@@ -62,9 +60,7 @@ And if we look for the Artificial Intelligence and Machine Learning in Google Ng
 
  
 
-
-
-# Applications
+# AI/ML Use Cases
 
 So AI models were used in many applications. Here are just some of the use cases where AI is being used: 
 
