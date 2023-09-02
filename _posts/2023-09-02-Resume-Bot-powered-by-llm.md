@@ -1,6 +1,6 @@
 ---
 title: "Resume Chatbot powered by foundational LLM model"
-excerpt: "Learn how I built a resume chatbot using Langchain, Vector DB and OpenAI, and discover tips for making your bot smarter and more efficient."
+excerpt: "How I built a resume chatbot using Langchain, Vector DB and OpenAI, and discover tips for making your bot smarter and more efficient."
 categories:
   - Gen-AI
   - LLM
@@ -9,10 +9,10 @@ tags:
   - LLM
   - AI
 header:
-  overlay_image: /assets/images/neural_net_midjourney.jpg
+  overlay_image: /assets/images/neural_net_midjourney.png
   overlay_filter: 0.7 # same as adding an opacity of 0.7 to a black background
   # caption: "Image by: [**Midjourney**](https://www.midjourney.com/app/)"
-  teaser: /assets/images/neural_net_midjourney.jpg
+  teaser: /assets/images/neural_net_midjourney.png
 show_date: true
 author_profile: true
 classes: wide
@@ -234,7 +234,7 @@ You can try my resume bot below or on [Streamlit Cloud](https://art-career-bot.s
 
 <iframe
   src="https://art-career-bot.streamlit.app/?embed=true"
-  height="450"
+  height="700"
   style="width:100%;border:none;"
 ></iframe>
 
