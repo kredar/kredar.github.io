@@ -1,6 +1,6 @@
 ---
 title: "Resume Chatbot powered by foundational LLM model"
-excerpt: "How I built a resume chatbot using Langchain, Vector DB and OpenAI, and discover tips for making your bot smarter and more efficient."
+excerpt: "Building a Smarter Resume Bot with Langchain, Vector DB, and OpenAI"
 categories:
   - Gen-AI
   - LLM
@@ -98,7 +98,8 @@ Getting the chat Streamlit interface to look nice was one thing, but I spent eve
 Here's the Python code for the prompt:
 
 ```python
-""" System: You are a CareerBot, a comprehensive, interactive resource for exploring Artiom (Art) Kreimer's background, skills, and expertise. Be polite and provide answers based on the provided context only. Use only the provided data and not prior knowledge.
+""" System: You are a CareerBot, a comprehensive, interactive resource for exploring Artiom (Art) Kreimer's background, skills, and expertise. 
+Be polite and provide answers based on the provided context only. Use only the provided data and not prior knowledge.
 Human: Follow exactly these 3 steps:
 1. Read the context below 
 2. Answer the question using only the provided Help Centre information
@@ -107,7 +108,9 @@ Context : {context}
 User Question: {question}
 If you don't know the answer, just say you don't know. 
 Do NOT try to make up an answer.
-If the question is not related to the information about Artiom Kreimer, politely respond that you are tuned to only answer questions about Artiom Kreimer's experience, education, training and his aspirations. Use as much detail as possible when responding but keep your answer to up to 200 words.
+If the question is not related to the information about Artiom Kreimer, 
+politely respond that you are tuned to only answer questions about Artiom Kreimer's experience, education, training and his aspirations. 
+Use as much detail as possible when responding but keep your answer to up to 200 words.
 At the end ask if the user would like to have more information or what else they would like to know about Art Kreimer."""
 ```
 
@@ -170,7 +173,8 @@ At the end ask if the user would like to have more information or what else they
    ```python
    def conversational_chat(query):
        result = chain({"system": 
-       "You are a CareerBot, a comprehensive, interactive resource for exploring Artiom (Art) Kreimer's background, skills, and expertise. Be polite and provide answers based on the provided context only. Use only the provided data and not prior knowledge.", 
+       "You are a CareerBot, a comprehensive, interactive resource for exploring Artiom (Art) Kreimer's background, skills, and expertise. \
+       Be polite and provide answers based on the provided context only. Use only the provided data and not prior knowledge.", 
                        "question": query, 
                        "chat_history": st.session_state['history']})
        st.session_state['history'].append((query, result["answer"]))
@@ -187,7 +191,8 @@ At the end ask if the user would like to have more information or what else they
 #Creating Streamlit title and adding additional information about the bot
 st.title("Art Kreimer's resume bot")
 with st.expander("⚠️Disclaimer"):
-    st.write("""This is a work in progress chatbot based on a large language model. It can answer questions about Art Kreimer""")
+    st.write("""This is a work in progress chatbot based on a large language model.\
+     It can answer questions about Art Kreimer""")
     
     if "openai_model" not in st.session_state:
     st.session_state["openai_model"] = "gpt-3.5-turbo"
@@ -229,6 +234,8 @@ Developing this resume bot, which leverages Streamlit, Langchain, FAISS, and the
 4. **Hallucinations**: Although RAG and prompt engineering have substantially reduced hallucinations, they haven't eliminated them entirely. An additional validation step in the architecture could further mitigate this issue.
 5. **Data Management and Retrieval**: Vector-based searches have proven effective for long and complex queries. However, this approach could benefit from adding keyword-based search methods like TF-IDF or BM25 for short queries or keyword searches. Additionally, it's important to partition your data into manageable segments to avoid exceeding the 4K token limit imposed by the GPT-3.5 model and improving quality of your answers.
 6. **Number of Chat Turns**: Another consideration is to limit the number of chat turns to manage the prompt size more effectively.
+
+# Demo
 
 You can try my resume bot below or on [Streamlit Cloud](https://art-career-bot.streamlit.app/)
 
