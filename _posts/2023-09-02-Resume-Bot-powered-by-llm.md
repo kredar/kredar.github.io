@@ -31,7 +31,7 @@ In my previous post [Exploring the Power of LLMs for NLP Tasks" I explored how L
 
 # The Motivation Behind the Chatbot
 
-I wanted a chatbot that acts like a personal assistant —a personal assistant designed to answer questions about my professional experience, educational background, and career aspirations - in short a resume bot. Last year I started making one using a Google Dialogflow CX. People in Conversational AI space would agree that building a great chabot experience on any Conversational AI platforms can be a challenging. It proved to be time consuming. I had a working prototype but needed more time for testing and tweaking both Convesational Design as well as Intent training. However, with the release of OpenAI's GPT-3.5, I pivoted to using LLMs. The result? A resume chatbot build on Langchain, OpenAI's GPT 3.5 turbo model, FAISS as a vector DB and a lot of prompt engineering experimentation and Streamlit for frontend. 
+I wanted a chatbot that could serve as a personal assistant—one designed to answer questions about my professional experience, educational background, and career aspirations, essentially a resume bot. Last year, I began this project using Google Dialogflow CX. Anyone in the Conversational AI space will concur that crafting an excellent chatbot experience on such platforms can be challenging and time-consuming. Although I had a working prototype, it still required extensive testing and tweaks in both conversational design and intent training. However, the game changed with the release of OpenAI's GPT-3.5 Turbo model. I pivoted to using large language models (LLMs), resulting in a resume chatbot built with Langchain, FAISS for vector database management, all showcased through a Streamlit frontend.
 
 # Overview of the Logic Architecture
 
@@ -159,7 +159,7 @@ At the end ask if the user would like to have more information or what else they
        retriever=vectors.as_retriever()
 ```
 
-4. **Langchain Chain**: Sets up a Conversational Retrieval Chain using Langchain, which combines GPT-3.5 and the FAISS vectors for responding to queries.
+3. **Langchain Chain**: Sets up a Conversational Retrieval Chain using Langchain, which combines GPT-3.5 and the FAISS vectors for responding to queries.
 
 ```python
    #Creating langchain retreval chain 
@@ -168,7 +168,7 @@ At the end ask if the user would like to have more information or what else they
                                                      max_tokens_limit=4097, combine_docs_chain_kwargs={"prompt": prompt})
 ```
 
-6. **Chat Logic**: Defines the logic for handling the conversation and maintaining chat history in Streamlit's session state.
+4. **Chat Logic**: Defines the logic for handling the conversation and maintaining chat history in Streamlit's session state.
 
    ```python
    def conversational_chat(query):
@@ -185,7 +185,7 @@ At the end ask if the user would like to have more information or what else they
    ```
 
 
-7. **Streamlit UI for chat**: Initializes the UI, displays prior messages, and manages the user input and bot responses.
+5. **Streamlit UI for chat**: Initializes the UI, displays prior messages, and manages the user input and bot responses.
 
 ```python
 #Creating Streamlit title and adding additional information about the bot
@@ -234,6 +234,8 @@ Developing this resume bot, which leverages Streamlit, Langchain, FAISS, and the
 4. **Hallucinations**: Although RAG and prompt engineering have substantially reduced hallucinations, they haven't eliminated them entirely. An additional validation step in the architecture could further mitigate this issue.
 5. **Data Management and Retrieval**: Vector-based searches have proven effective for long and complex queries. However, this approach could benefit from adding keyword-based search methods like TF-IDF or BM25 for short queries or keyword searches. Additionally, it's important to partition your data into manageable segments to avoid exceeding the 4K token limit imposed by the GPT-3.5 model and improving quality of your answers.
 6. **Number of Chat Turns**: Another consideration is to limit the number of chat turns to manage the prompt size more effectively.
+7. **Responsiveness**: The chain I've developed operates at a slower pace than desired. While functional, it requires further optimization for speed.
+8. **Not Production-Ready**: This project served as an excellent learning experience, but it's not yet ready for production deployment. Additional steps such as testing, prompt refinement, logging, monitoring, caching for better responsiveness, as well as input and response validation are essential to make it production-grade.
 
 # Demo
 
