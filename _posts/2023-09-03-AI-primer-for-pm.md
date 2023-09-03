@@ -44,7 +44,7 @@ The term "AI" is often used in various contexts—some even refer to it as Augme
 > **Generative AI (GenAI):** Deep learning models capable of generating new data or content like images, music, video, or text.
 > **Artificial General Intelligence (AGI):** The ultimate goal in the AI spectrum—a fully autonomous system capable of human-level intelligence across various tasks, without requiring specialized programming.
 
-# History and overview of AI fields 
+# Exploring the History and Diverse Fields of AI
 
 Now that we've established a common understanding of key terms let's dive into the history of Artificial Intelligence (AI). The idea of creating artificial beings with human-like capabilities has ancient roots, featuring prominently in myths and legends like the Golem in Biblical stories or automatons in ancient mythology.
 
@@ -74,7 +74,7 @@ Now, let's dive into different AI/ML use cases.
 <!-- ![AI and ML trend on Google Ngrams](/assets/images/aiml_google_ngrams.jpg)
 *AI and ML trend on Google Ngrams* -->
 
-# AI/ML Applications 
+# AI/ML Use Cases 
 
 Artificial Intelligence (AI) and Machine Learning (ML) technologies are revolutionizing diverse industries. Here are some notable use cases and applications where AI/ML algorithms are making a difference:
 
@@ -125,65 +125,52 @@ Here are some pivotal elements to keep in mind:
 - Create a detailed project timeline and budget.
 - Consider the long-term maintenance costs of the AI system.
 
-# What to Be Mindful of When Building AI Systems
+# What to Be Mindful of When Building AI Products
 
 ## Bias and Unfairness
-
 AI algorithms can perpetuate or even exacerbate existing biases in society. This can happen when algorithms are trained on biased datasets or if their structures inadvertently introduce bias.
 
-Examples:
-
+**Examples:**
 1. **Gender Bias in Resume Screening**: Algorithms that favour resumes with male-dominated activities can perpetuate gender imbalances in certain industries.
 2. **Racial Bias in Facial Recognition**: These systems may struggle to accurately identify individuals from diverse ethnic backgrounds, leading to potential injustices.
 
-Mitigation Strategies:
-
+**Mitigation Strategies:**
 - Employ diverse training datasets.
 - Perform algorithmic fairness audits.
 - Involve a diverse team in the development and validation process.
 
 ## Explainability
-
 The "black box" nature of complex AI algorithms often hinders transparency, making it difficult to explain model decisions and outcomes.
 
-Examples:
-
+**Examples:**
 1. **Healthcare Diagnostics**: If a machine learning model predicts a particular diagnosis, clinicians must understand why so they can make informed decisions.
 2. **Loan Approval Systems**: Knowing why a loan application was rejected can help applicants improve their financial behaviour.
 
-Mitigation Strategies:
-
+**Mitigation Strategies:**
 - Use explainable AI models or techniques like LIME or SHAP.
 - Provide clear documentation for internal algorithms and decision-making processes.
 
 ## Privacy, Compliance, and Security
-
 Ensuring user privacy and compliance with data protection regulations is essential. This includes safeguarding user data through techniques like data anonymization and encryption.
 
-Examples:
-
+**Examples:**
 1. **Healthcare Data**: Personal health information should be anonymized before being processed by AI models.
 2. **Financial Transactions**: Protecting users' banking and credit card information using encryption and secure channels is paramount.
 
-Mitigation Strategies:
-
+**Mitigation Strategies:**
 - Adhere to GDPR or similar data protection regulations.
 - Use privacy-preserving techniques like differential privacy.
 
 ## Continuous Evaluation
-
 Even more than any regular software products, AI systems require ongoing monitoring and assessment to ensure they meet desired performance criteria and remain relevant. Without the most recent data, AI model performance might deteriorate.
 
 **Examples**:
-
 1. **Real-Time Fraud Detection**: As fraudsters change tactics, the AI model must adapt and improve.
 2. **E-commerce Recommendation Systems**: As product inventory or consumer behaviour changes, the recommendation algorithms should evolve.
 
 **Mitigation Strategies**:
-
 - Work with your Data Scientists and ML Engineers to develop a plan to continuously monitor model performance and create a continuous data feed to ensure the model has all the latest data needed.
 - Regularly collect user feedback and update the model as needed.
-
 
 
 You can build more ethical, efficient, and effective AI systems by being attentive to the aforementioned areas.

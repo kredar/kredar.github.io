@@ -14,7 +14,7 @@ header:
   # caption: "Image by: [**Midjourney**](https://www.midjourney.com/app/)"
   teaser: /assets/images/neural_net_midjourney.png
 show_date: true
-author_profile: false
+author_profile: true
 classes: wide
 #layout: splash
 published: true
