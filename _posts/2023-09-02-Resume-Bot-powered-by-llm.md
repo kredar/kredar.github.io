@@ -120,69 +120,69 @@ At the end ask if the user would like to have more information or what else they
 
 1. **API Keys**: Fetches OpenAI API keys from either the environment variables when it runs locally or Streamlit's secrets when it runs from Streamlit cloud.
 
-   ```python
-   if "OPENAI_API_KEY" in os.environ:
-       openai_api_key = os.getenv("OPENAI_API_KEY")
-   
-   else: openai_api_key = st.secrets["OPENAI_API_KEY"]
-   ```
+```python
+if "OPENAI_API_KEY" in os.environ:
+    openai_api_key = os.getenv("OPENAI_API_KEY")
+
+else: openai_api_key = st.secrets["OPENAI_API_KEY"]
+```
 
 
 2. **Data and Embeddings**: Loads the dataset from a CSV file and creates FAISS vectors for quick searching.
 
 ```python
-   path = os.path.dirname(__file__)
-   #my_file = path+'/photo.png'
-   
-   # Loading prompt to query openai
-   prompt = load_prompt(path+"/templates/template1.json")
-   #prompt = template.format(input_parameter=user_input)
-   
-   # loading embedings
-   faiss_index = path+"/faiss_index"
-   
-   # Loading CSV file
-   data_source = path+"/data/about_art_chatbot_data.csv"
-   
-   # Creating embeddings for the docs
-   if data_source :
-       loader = CSVLoader(file_path=data_source, encoding="utf-8")
-       data = loader.load()
-       embeddings = OpenAIEmbeddings()
-      
-       #using FAISS as a vector DB
-       if os.path.exists(faiss_index):
-           vectors = FAISS.load_local(faiss_index, embeddings)
-       else:
-           vectors = FAISS.from_documents(data, embeddings)
-           vectors.save_local("faiss_index")
-       retriever=vectors.as_retriever()
+path = os.path.dirname(__file__)
+#my_file = path+'/photo.png'
+
+# Loading prompt to query openai
+prompt = load_prompt(path+"/templates/template1.json")
+#prompt = template.format(input_parameter=user_input)
+
+# loading embedings
+faiss_index = path+"/faiss_index"
+
+# Loading CSV file
+data_source = path+"/data/about_art_chatbot_data.csv"
+
+# Creating embeddings for the docs
+if data_source :
+    loader = CSVLoader(file_path=data_source, encoding="utf-8")
+    data = loader.load()
+    embeddings = OpenAIEmbeddings()
+    
+    #using FAISS as a vector DB
+    if os.path.exists(faiss_index):
+        vectors = FAISS.load_local(faiss_index, embeddings)
+    else:
+        vectors = FAISS.from_documents(data, embeddings)
+        vectors.save_local("faiss_index")
+    retriever=vectors.as_retriever()
 ```
 
 3. **Langchain Chain**: Sets up a Conversational Retrieval Chain using Langchain, which combines GPT-3.5 and the FAISS vectors for responding to queries.
 
 ```python
-   #Creating langchain retreval chain 
-       chain = ConversationalRetrievalChain.from_llm(llm = ChatOpenAI(temperature=0.0,model_name='gpt-3.5-turbo', openai_api_key=openai_api_key), 
-                                                     retriever=retriever,return_source_documents=True,verbose=True,chain_type="stuff",
-                                                     max_tokens_limit=4097, combine_docs_chain_kwargs={"prompt": prompt})
+#Creating langchain retreval chain 
+chain = ConversationalRetrievalChain.from_llm(llm = ChatOpenAI(temperature=0.0,model_name='gpt-3.5-turbo', openai_api_key=openai_api_key), 
+                                                retriever=retriever,return_source_documents=True,verbose=True,chain_type="stuff",
+                                                max_tokens_limit=4097, combine_docs_chain_kwargs={"prompt": prompt})
 ```
 
 4. **Chat Logic**: Defines the logic for handling the conversation and maintaining chat history in Streamlit's session state.
 
-   ```python
-   def conversational_chat(query):
-       result = chain({"system": 
-       "You are a CareerBot, a comprehensive, interactive resource for exploring Artiom (Art) Kreimer's background, skills, and expertise. \
-       Be polite and provide answers based on the provided context only. Use only the provided data and not prior knowledge.", 
-                       "question": query, 
-                       "chat_history": st.session_state['history']})
-       st.session_state['history'].append((query, result["answer"]))
-       
-       if 'I am tuned to only answer questions' in result['answer']:
-           return(result["answer"])
-       else: return(result["answer"])
-   ```
+```python
+def conversational_chat(query):
+    result = chain({"system": 
+    "You are a CareerBot, a comprehensive, interactive resource for exploring Artiom (Art) Kreimer's background, skills, and expertise. \
+    Be polite and provide answers based on the provided context only. Use only the provided data and not prior knowledge.", 
+                    "question": query, 
+                    "chat_history": st.session_state['history']})
+    st.session_state['history'].append((query, result["answer"]))
+    
+    if 'I am tuned to only answer questions' in result['answer']:
+        return(result["answer"])
+    else: return(result["answer"])
+```
 
 
 5. **Streamlit UI for chat**: Initializes the UI, displays prior messages, and manages the user input and bot responses.
