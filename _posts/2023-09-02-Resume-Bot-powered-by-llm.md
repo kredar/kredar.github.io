@@ -1,6 +1,6 @@
 ---
-title: "Resume Chatbot powered by foundational LLM model"
-excerpt: "Building a Smarter Resume Bot with Langchain, Vector DB, and OpenAI"
+title: "Building a Resume Chatbot powered by OpenAI GPT3.5 model"
+excerpt: "Crafting a Smarter Resume Bot: A Guide to Leveraging Langchain, Vector DB, and OpenAI"
 categories:
   - Gen-AI
   - LLM

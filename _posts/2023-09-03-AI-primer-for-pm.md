@@ -51,9 +51,10 @@ Now that we've established a common understanding of key terms let's dive into t
 The term "Artificial Intelligence" entered the modern lexicon in 1956[^1]. Interestingly, the terms "Artificial Intelligence" and "Machine Learning" have been in the academic and cultural conversation since the late '50s, as evidenced by Google Ngram data. 
 
 <figure class="align-center">
-  <img src="/assets/images/aiml_google_ngrams.jpg" alt="">AI and ML trend on Google Ngrams</a>
+  <img src="/assets/images/aiml_google_ngrams.jpg" alt="AI and ML trend on Google Ngrams"/>
   <figcaption>AI and ML trend on Google Ngrams</figcaption>
 </figure>
+
 
 With over 70 years of research history, AI and ML have been employed across various applications, but only in the last couple of decades, advancements in technology, including the explosion of internet usage and vast amounts of data, the availability of powerful cloud computing, and specialized GPUs and AI chipsets, have catalyzed the evolution of Machine Learning algorithms and their capabilities. Today, AI and Machine Learning are at the forefront of technological innovation, influencing diverse industries such as healthcare, finance, and autonomous vehicles.
 
