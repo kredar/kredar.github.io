@@ -13,11 +13,11 @@ header:
   teaser: /assets/images/steve-johnson-ZPOoDQc8yMw-unsplash.jpg
 show_date: true
 author_profile: true
-#classes: wide
+classes: wide
 #layout: splash
 published: true
 toc: true
-toc_sticky: true
+#toc_sticky: true
 #toc_label: "Table of Contexts"
 #toc_icon: "python"  
 #future: false
@@ -36,18 +36,24 @@ In this article, I would like to demystify some misconceptions about Artificial 
 The term "AI" is often used in various contexts—some even refer to it as Augmented Intelligence. Let's define our terms to ensure we're on the same page. Think of these concepts as nested Russian dolls: AI is the overarching term, under which falls ML, then Deep Learning, followed by GenAI, and finally, AGI.
 
 ![Relations between AI/ML/Deep Learning/Gen AI/AGI](/assets/images/ai_definitions.jpg){: .align-center}
+*Relations between AI/ML/Deep Learning/Gen AI/AGI*
 
-- **Artificial Intelligence (AI):** Computer systems capable of performing tasks that typically require human intelligence.
-- **Machine Learning (ML):** A subset of AI focused on developing algorithms that enable computers to make decisions or predictions.
-- **Deep Learning:** A specialized area within ML that utilizes multi-layer artificial neural networks to learn from large data sets.
-- **Generative AI (GenAI):** Deep learning models capable of generating new data or content like images, music, video, or text.
-- **Artificial General Intelligence (AGI):** The ultimate goal in the AI spectrum—a fully autonomous system capable of human-level intelligence across various tasks, without requiring specialized programming.
+> **Artificial Intelligence (AI):** Computer systems capable of performing tasks that typically require human intelligence.
+> **Machine Learning (ML):** A subset of AI focused on developing algorithms that enable computers to make decisions or predictions.
+> **Deep Learning:** A specialized area within ML that utilizes multi-layer artificial neural networks to learn from large data sets.
+> **Generative AI (GenAI):** Deep learning models capable of generating new data or content like images, music, video, or text.
+> **Artificial General Intelligence (AGI):** The ultimate goal in the AI spectrum—a fully autonomous system capable of human-level intelligence across various tasks, without requiring specialized programming.
 
 # History and overview of AI fields 
 
 Now that we've established a common understanding of key terms let's dive into the history of Artificial Intelligence (AI). The idea of creating artificial beings with human-like capabilities has ancient roots, featuring prominently in myths and legends like the Golem in Biblical stories or automatons in ancient mythology.
 
 The term "Artificial Intelligence" entered the modern lexicon in 1956[^1]. Interestingly, the terms "Artificial Intelligence" and "Machine Learning" have been in the academic and cultural conversation since the late '50s, as evidenced by Google Ngram data. 
+
+<figure class="align-center">
+  <img src="/assets/images/aiml_google_ngrams.jpg" alt="">AI and ML trend on Google Ngrams</a>
+  <figcaption>AI and ML trend on Google Ngrams</figcaption>
+</figure>
 
 With over 70 years of research history, AI and ML have been employed across various applications, but only in the last couple of decades, advancements in technology, including the explosion of internet usage and vast amounts of data, the availability of powerful cloud computing, and specialized GPUs and AI chipsets, have catalyzed the evolution of Machine Learning algorithms and their capabilities. Today, AI and Machine Learning are at the forefront of technological innovation, influencing diverse industries such as healthcare, finance, and autonomous vehicles.
 
@@ -64,14 +70,9 @@ AI and ML comprise a broad landscape with numerous algorithms, approaches, and f
 
 Now, let's dive into different AI/ML use cases.
 
-<figure class="align-center">
-  --<a href="/assets/images/aiml_google_ngrams.jpg" title="AI and ML trend on Google Ngrams" alt="AI and ML trend on Google Ngrams">--
-  <img src="/assets/images/aiml_google_ngrams.jpg" alt="">AI and ML trend on Google Ngrams</a>
-  <figcaption>AI and ML trend on Google Ngrams</figcaption>
-</figure>
 
-![AI and ML trend on Google Ngrams](/assets/images/aiml_google_ngrams.jpg)
-*AI and ML trend on Google Ngrams*
+<!-- ![AI and ML trend on Google Ngrams](/assets/images/aiml_google_ngrams.jpg)
+*AI and ML trend on Google Ngrams* -->
 
 # AI/ML Applications 
 
