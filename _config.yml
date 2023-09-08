@@ -136,3 +136,8 @@ analytics:
   google:
     tracking_id: "G-EHD3J0P1R0"
     anonymize_ip: false # default
+
+comments:
+  provider               : "disqus" #false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  disqus:
+    shortname            : artkreimer # 

@@ -1,8 +1,6 @@
 ---
 title: "Must-read books for Product Managers"
 excerpt: "A collection of books that would make you a better PM"
-categories:
-  - Book-Review
 tags:
   - Product Management
   - Must-Read Books

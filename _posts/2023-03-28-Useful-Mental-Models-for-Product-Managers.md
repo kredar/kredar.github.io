@@ -1,8 +1,6 @@
 ---
 title: "Library of Great Mental Models"
 excerpt: "Useful Mental Models for Product Managers"
-categories:
-  - Product-Management
 tags:
   - Mental Models
   - Product Management

@@ -1,7 +1,5 @@
 ---
 title: "Burnout - How to identify and prevent it"
-categories:
-  - Productivity
 tags:
   - Productivity
 excerpt: ""

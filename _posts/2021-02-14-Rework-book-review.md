@@ -2,8 +2,6 @@
 title: "\"Rework\" by Jason Fried and David Heinemeier Hansson"
 excerpt: "A collection of ideas on **Entrepreneurship**, **Productivity**, **Management**, **Marketing**, **Hiring**, and **Business Culture**" 
 date: 2021-02-14T15:34:30-04:00
-categories:
-  - Book-Review
 tags:
   - Must-Read Books
   - Entrepreneurship

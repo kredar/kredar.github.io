@@ -1,8 +1,6 @@
 ---
 title: "A Product Manager's Primer for Building AI Products"
 excerpt: "Explore key AI use cases and essential considerations for Product Managers embarking on AI projects."
-categories:
-  - Product-Management
 tags:
   - AI
   - Product Management
@@ -22,6 +20,7 @@ toc: true
 #toc_icon: "python"  
 #future: false
 search: false
+comments: true
 ---
 
 

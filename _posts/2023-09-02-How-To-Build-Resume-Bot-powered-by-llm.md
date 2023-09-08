@@ -1,8 +1,6 @@
 ---
 title: "Building a Resume Chatbot powered by OpenAI GPT3.5 model"
 excerpt: "Crafting a Smarter Resume Bot: A Guide to Leveraging Langchain, Vector DB, and OpenAI"
-categories:
-  - AI
 tags:
   - NLP
   - LLM
@@ -19,6 +17,7 @@ classes: wide
 published: true
 toc: true
 toc_sticky: true
+comments: true
 #toc_label: "Table of Contexts"
 #toc_icon: "python"  
 ---

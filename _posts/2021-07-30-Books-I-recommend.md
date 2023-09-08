@@ -1,7 +1,5 @@
 ---
 title: "Book Recommedations"
-categories:
-  - Book-Review
 tags:
   - Must-Read Books
 excerpt: "Books I recommend everyone to read"
