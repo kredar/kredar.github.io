@@ -27,7 +27,7 @@ url: "https://www.artkreimer.com"
 twitter_username: kredar3
 github_username: kredar
 #TODO - update CSS to cleanup the theme
-minimal_mistakes_skin: "dafault" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 
 # Adding comments to posts
@@ -122,8 +122,6 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: false
-      show_date: true
 
 category_archive:
   type: liquid
