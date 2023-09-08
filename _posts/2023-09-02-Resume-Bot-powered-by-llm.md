@@ -239,13 +239,9 @@ Developing this resume bot, which leverages Streamlit, Langchain, FAISS, and the
 
 # Demo
 
-You can try my resume bot below or on [Streamlit Cloud](https://art-career-bot.streamlit.app/)
+You can try my resume bot [here](https://www.artkreimer.com/resume/) or on [Streamlit Cloud](https://art-career-bot.streamlit.app/)
 
-<iframe
-  src="https://art-career-bot.streamlit.app/?embed=true"
-  height="900"
-  style="width:100%;border:none;"
-></iframe>
+
 
 
 

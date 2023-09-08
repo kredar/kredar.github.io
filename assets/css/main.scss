@@ -2,7 +2,6 @@
 
 html {
   font-size: 18px; // change to whatever
-  font-feature-settings: normal;
 
   @include breakpoint($medium) {
     font-size: 20px; // change to whatever
