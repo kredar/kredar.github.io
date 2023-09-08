@@ -26,7 +26,7 @@ url: "https://www.artkreimer.com"
   # Google search results) and in your feed.xml site description.
 twitter_username: kredar3
 github_username: kredar
-minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 
 # Adding comments to posts
@@ -122,6 +122,7 @@ defaults:
     values:
       layout: single
       author_profile: false
+      show_date: true
 
 category_archive:
   type: liquid
