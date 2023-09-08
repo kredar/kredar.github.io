@@ -2,7 +2,6 @@
 title: "Exploring the Power of LLMs for NLP tasks"
 excerpt: "Using Large Language Models for Android app review analysis, covering sentiment analysis, emotion detection, summarization, topics extractions and more."
 categories:
-  - Gen-AI
   - AI
 tags:
   - NLP

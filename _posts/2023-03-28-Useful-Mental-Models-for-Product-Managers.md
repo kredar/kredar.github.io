@@ -7,10 +7,10 @@ tags:
   - Mental Models
   - Product Management
 header:
-  overlay_image: /assets/images/mental_models.jpg
-  teaser: /assets/images/mental_models.jpg
+  overlay_image: /assets/images/brain_neuron_midjourney.png
+  teaser: /assets/images/brain_neuron_midjourney.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo by: [**Hal Gatewood**](https://unsplash.com/@halacious?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com/s/photos/brain?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
+  caption: "Photo by: [**Midjourney**](https://www.midjourney.com/app/)"
 show_date: true
 classes: wide
 author_profile: true
