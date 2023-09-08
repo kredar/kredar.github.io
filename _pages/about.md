@@ -22,7 +22,7 @@ I'm passionate about Data Analytics, Machine Learning, and Artificial Intelligen
 
 I live in Ontario, Canada, with my wife, two daughters, and Hungarian Vizsla. I love spending my free time with my family and enjoying outdoor activities like hiking, running, and exploring nature. I am also an avid reader and lifelong learner.
 
-If you want to know more about me experience, skills, certifications and my aspirations just ask my personal [Resume Chatbot](https://www.artkreimer.com/resume/).
+If you want to know more about my experience, skills, certifications and aspirations, ask my personal [Resume Chatbot](https://www.artkreimer.com/resume/).
   
 # Contact  
 

@@ -18,7 +18,7 @@ title_separator: "|"
 logo: "/assets/images/AK_masthead.png"
 masthead_title: "artkreimer.com"
 email: artiom.kreimer@gmail.com
-description: "Blogging about Product Management, Leadership, Machine Learning and Artificial Intelligence" 
+description: "Blogging about Product Management, Leadership, AI and Machine Learning" 
 url: "https://www.artkreimer.com"
 #>- # this means to ignore newlines until "baseurl:"
   # Write an awesome description for your new site here. You can edit this
@@ -72,7 +72,7 @@ plugins:
 author:
   name   : "Art Kreimer"
   avatar : "/assets/images/bio_image_il.jpeg"
-  bio    : "Product Leader writing about Leadership, Productivity, Product Management, Machine Learning, Conversational AI, and Life in general."
+  bio    : "Product Manager writing about AI, Machine Learning, NLP and Conversational AI, Product Management, Leadership, and Life in general."
   location : "Toronto, Canada"
   links:
     - label: "LinkedIn"
