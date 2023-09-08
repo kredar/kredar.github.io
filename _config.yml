@@ -71,8 +71,8 @@ plugins:
 
 author:
   name   : "Art Kreimer"
-  avatar : "/assets/images/bio_image_il.jpeg"
-  bio    : "Product Manager writing about AI, Machine Learning, NLP and Conversational AI, Product Management, Leadership, and Life in general."
+  avatar : "/assets/images/bio_image_2.jpg"
+  bio    : "Product Manager writing about AI, Machine Learning, Leadership and Product Management."
   location : "Toronto, Canada"
   links:
     - label: "LinkedIn"
