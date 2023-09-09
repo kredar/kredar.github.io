@@ -1,5 +1,5 @@
 ---
-title: "The Future-Ready PM: Navigating AI and ML in Product Management"
+title: "The Future-Ready PM: Navigating AI and ML in Product Management - Part 1"
 excerpt: "Unveiling the real potential and limitations of AI and ML for Product Managers. Learn the key insights every PM should know to leverage Artificial Intelligence and Machine Learning for gaining a competitive edge in product development."
 tags:
   - AI
@@ -14,12 +14,12 @@ author_profile: true
 classes: wide
 #layout: splash
 published: true
-toc: true
+#toc: true
 #toc_sticky: true
 #toc_label: "Table of Contexts"
 #toc_icon: "python"  
 #future: false
-search: false
+search: true
 comments: true
 ---
 
@@ -125,59 +125,11 @@ Here are some pivotal elements to keep in mind:
 - Create a detailed project timeline and budget.
 - Consider the long-term maintenance costs of the AI system.
 
-# What to Be Mindful of When Building AI Products
-
-## Bias and Unfairness
-AI algorithms can perpetuate or even exacerbate existing biases in society. This can happen when algorithms are trained on biased datasets or if their structures inadvertently introduce bias.
-
-**Examples:**
-1. **Gender Bias in Resume Screening**: Algorithms that favour resumes with male-dominated activities can perpetuate gender imbalances in certain industries.
-2. **Racial Bias in Facial Recognition**: These systems may struggle to accurately identify individuals from diverse ethnic backgrounds, leading to potential injustices.
-
-**Mitigation Strategies:**
-- Employ diverse training datasets.
-- Perform algorithmic fairness audits.
-- Involve a diverse team in the development and validation process.
-
-## Explainability
-The "black box" nature of complex AI algorithms often hinders transparency, making it difficult to explain model decisions and outcomes.
-
-**Examples:**
-1. **Healthcare Diagnostics**: If a machine learning model predicts a particular diagnosis, clinicians must understand why so they can make informed decisions.
-2. **Loan Approval Systems**: Knowing why a loan application was rejected can help applicants improve their financial behaviour.
-
-**Mitigation Strategies:**
-- Use explainable AI models or techniques like LIME or SHAP.
-- Provide clear documentation for internal algorithms and decision-making processes.
-
-## Privacy, Compliance, and Security
-Ensuring user privacy and compliance with data protection regulations is essential. This includes safeguarding user data through techniques like data anonymization and encryption.
-
-**Examples:**
-1. **Healthcare Data**: Personal health information should be anonymized before being processed by AI models.
-2. **Financial Transactions**: Protecting users' banking and credit card information using encryption and secure channels is paramount.
-
-**Mitigation Strategies:**
-- Adhere to GDPR or similar data protection regulations.
-- Use privacy-preserving techniques like differential privacy.
-
-## Continuous Evaluation
-Even more than any regular software products, AI systems require ongoing monitoring and assessment to ensure they meet desired performance criteria and remain relevant. Without the most recent data, AI model performance might deteriorate.
-
-**Examples**:
-1. **Real-Time Fraud Detection**: As fraudsters change tactics, the AI model must adapt and improve.
-2. **E-commerce Recommendation Systems**: As product inventory or consumer behaviour changes, the recommendation algorithms should evolve.
-
-**Mitigation Strategies**:
-- Work with your Data Scientists and ML Engineers to develop a plan to continuously monitor model performance and create a continuous data feed to ensure the model has all the latest data needed.
-- Regularly collect user feedback and update the model as needed.
-
-
-You can build more ethical, efficient, and effective AI systems by being attentive to the aforementioned areas.
-
 # Conclusion
 
-AI offers numerous opportunities for innovation in product management. Awareness of its possibilities and ethical implications can significantly benefit your role as a Product Manager. Be curious, follow AI trends, learn and create products that solve customer pain points and delight customers with the help of AI/ML features and algorithms. 
+AI offers numerous opportunities for innovation in product management. Awareness of its possibilities can significantly benefit your role as a Product Manager. Be curious, follow AI trends, learn and create products that solve customer pain points and delight customers with the help of AI/ML features and algorithms. 
+
+Check [Part 2]() for tips on what to pay attention to when building AI-based products. 
 
 # Additional Resources
 
@@ -186,7 +138,6 @@ This article is just a primer to provide some knowledge and kick off your curios
 - [AI for Everyone (Coursera)](https://www.coursera.org/learn/ai-for-everyone?index=prod_all_products_term_optimization.&utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_ibm-data-science_ibm_FTCOF_professional-certificates_country-US-country-CA-pmax-nonNRL-within-14d&campaignid=19995348162&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=&hide_mobile_promo&gclid=CjwKCAjw0ZiiBhBKEiwA4PT9z0U5-OHPBbnDbxNJzDXMK3G1ff6KOsrNn0v7duy_IC1ik_knIc1EKBoCX34QAvD_BwE)
 - [Becoming an AI-First Product Leader (LinkedIn Learning)](https://www.linkedin.com/learning/becoming-an-ai-first-product-leader/becoming-an-ai-first-product-leader?autoplay=true&u=2142274)
 - [Artificial Intelligence for Business Leaders (LinkedIn Learning)](https://www.linkedin.com/learning/artificial-intelligence-for-business-leaders/welcome-to-the-course?autoplay=true&u=2142274)
-- [AI Product Management Specialization (Coursera)](https://www.coursera.org/specializations/ai-product-management-duke)
 - Generative AI Landscape ([Sequoia](https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/) ; [Antler](https://www.antler.co/blog/generative-ai))
 - [A collection of a real-world ML applications](https://www.evidentlyai.com/ml-system-design)
 - Prompt Engineering Guide: [Promptingguide.ai](http://Promptingguide.ai)

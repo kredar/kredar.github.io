@@ -13,11 +13,11 @@ header:
   teaser: /assets/images/neural_net_midjourney.png
 show_date: true
 author_profile: false
-#classes: wide
+classes: wide
 #layout: splash
 published: true
-toc: true
-toc_sticky: true
+# toc: true
+# toc_sticky: true
 comments: true
 #toc_label: "Table of Contexts"
 #toc_icon: "python"  
