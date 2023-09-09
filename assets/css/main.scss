@@ -14,5 +14,15 @@ html {
   @include breakpoint($x-large) {
     font-size: 24px; // change to whatever
   }
+  .author__bio {
+    margin: 0;
+    font-size: 0.9em;
+    font-style: italic;
+  
+    @include breakpoint($large) {
+      margin-top: 10px;
+      margin-bottom: 20px;
+    }
+  }
   
 }
