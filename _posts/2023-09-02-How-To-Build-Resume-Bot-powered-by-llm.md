@@ -1,6 +1,6 @@
 ---
-title: "Building a Resume Chatbot powered by OpenAI GPT3.5 model"
-excerpt: "Crafting a Smarter Resume Bot: A Guide to Leveraging Langchain, Vector DB, and OpenAI"
+title: "Building Resume Chatbots with OpenAI's GPT-3.5: A Step-by-Step Guide"
+excerpt: "Unlock the potential of Retrieval Augmented Generation (RAG) architecture in building an advanced resume chatbot. Leverage OpenAI's GPT-3.5, Langchain, and Vector Database Management for a next-level conversational experience."
 tags:
   - NLP
   - LLM
@@ -12,7 +12,7 @@ header:
   teaser: /assets/images/neural_net_midjourney.png
 show_date: true
 author_profile: true
-classes: wide
+#classes: wide
 #layout: splash
 published: true
 toc: true

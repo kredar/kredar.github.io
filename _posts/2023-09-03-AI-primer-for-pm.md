@@ -1,6 +1,6 @@
 ---
-title: "A Product Manager's Primer for Building AI Products"
-excerpt: "Explore key AI use cases and essential considerations for Product Managers embarking on AI projects."
+title: "The Future-Ready PM: Navigating AI and ML in Product Management"
+excerpt: "Unveiling the real potential and limitations of AI and ML for Product Managers. Learn the key insights every PM should know to leverage Artificial Intelligence and Machine Learning for gaining a competitive edge in product development."
 tags:
   - AI
   - Product Management

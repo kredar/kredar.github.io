@@ -1,6 +1,6 @@
 ---
-title: "Exploring the Power of LLMs for NLP tasks"
-excerpt: "Using Large Language Models for Android app review analysis, covering sentiment analysis, emotion detection, summarization, topics extractions and more."
+title: "Revolutionizing Text Analytics with LLM and Prompt Engineering"
+excerpt: "Learn how Large Language Models simplify sentiment analysis, emotion detection, and topic extraction, all in just two API calls."
 tags:
   - NLP
   - LLM

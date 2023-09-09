@@ -1,7 +1,7 @@
 ---
 permalink: /resume/
 title: "Resume Chatbot"
-excerpt: "My Personal Resume Chatbot. Ask it questions about Art Kreimer's experience, skills and expertise."
+excerpt: "My Personal Resume Chatbot. My Resume Chatbot can answer questions about Art Kreimer's experience, skills and expertise."
 last_modified_at: 2023-09-06T10:23:16-04:00
 author_profile: true
 toc: false

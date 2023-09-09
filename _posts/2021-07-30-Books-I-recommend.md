@@ -1,8 +1,8 @@
 ---
-title: "Book Recommedations"
+title: "Reading for Growth: A Multi-Genre List of Books That Shaped My Life"
+excerpt: "Delve into a reading list spanning from self-help to history, carefully curated to offer life-changing insights into leadership, inspiration, and understanding the past."
 tags:
   - Must-Read Books
-excerpt: "Books I recommend everyone to read"
 header:
   overlay_image: /assets/images/susan-q-yin-2JIvboGLeho-unsplash.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
