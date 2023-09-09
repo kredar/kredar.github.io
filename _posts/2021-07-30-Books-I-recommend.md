@@ -13,6 +13,7 @@ classes: wide
 author_profile: true
 published: true
 date: July 30, 2021
+comments: true
 
 feature_row0-1:
   - image_path: /assets/images/high_output.jpeg

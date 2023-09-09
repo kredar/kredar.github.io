@@ -13,7 +13,7 @@ author_profile: true
 classes: wide
 #layout: splash
 published: true
-# comments: true
+comments: true
 # comments:
 #   provider: "utterances"
 #   utterances:

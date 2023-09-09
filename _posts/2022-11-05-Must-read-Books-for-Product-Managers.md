@@ -13,6 +13,7 @@ show_date: true
 classes: wide
 author_profile: true
 published: true
+comments: true
 
 feature_row1:
   - image_path: /assets/images/never_split_the_diff.jpeg

@@ -10,12 +10,12 @@ header:
   caption: "Photo by [Steve Johnson](https://unsplash.com/@steve_j?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com/photos/ZPOoDQc8yMw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
   teaser: /assets/images/steve-johnson-ZPOoDQc8yMw-unsplash.jpg
 show_date: true
-#author_profile: true
-classes: wide
+author_profile: true
+#classes: wide
 #layout: splash
 published: true
 toc: true
-#toc_sticky: true
+toc_sticky: true
 #toc_label: "Table of Contexts"
 #toc_icon: "python"  
 #future: false

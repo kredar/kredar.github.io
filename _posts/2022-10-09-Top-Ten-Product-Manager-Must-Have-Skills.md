@@ -12,10 +12,10 @@ header:
 show_date: true
 #date: Oct 09, 2022
 author_profile: true
-classes: wide
+# classes: wide
 #layout: splash
 published: true 
-# comments: true
+comments: true
 # comments:
 #   provider: "utterances"
 #   utterances:

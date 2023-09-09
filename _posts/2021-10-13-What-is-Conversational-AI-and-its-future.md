@@ -14,6 +14,7 @@ author_profile: true
 classes: wide
 #layout: splash
 published: true
+comments: true
 ---
 
 # The Future of Conversational AI
