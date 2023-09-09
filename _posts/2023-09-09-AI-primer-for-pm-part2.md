@@ -11,7 +11,7 @@ header:
   teaser: /assets/images/steve-johnson-ZPOoDQc8yMw-unsplash.jpg
 show_date: true
 #author_profile: true
-#classes: wide
+classes: wide
 #layout: splash
 published: true
 toc: true

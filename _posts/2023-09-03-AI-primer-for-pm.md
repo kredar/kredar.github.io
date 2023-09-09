@@ -11,10 +11,10 @@ header:
   teaser: /assets/images/steve-johnson-ZPOoDQc8yMw-unsplash.jpg
 show_date: true
 #author_profile: true
-#classes: wide
+classes: wide
 #layout: splash
 published: true
-#toc: true
+toc: true
 #toc_sticky: true
 #toc_label: "Table of Contexts"
 #toc_icon: "python"  

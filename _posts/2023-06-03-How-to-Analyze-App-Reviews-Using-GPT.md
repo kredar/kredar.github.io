@@ -12,7 +12,7 @@ header:
   teaser: /assets/images/openai_img.jpg
 show_date: true
 author_profile: false
-#classes: wide
+classes: wide
 #layout: splash
 published: true
 toc: true
