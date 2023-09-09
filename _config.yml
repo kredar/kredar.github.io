@@ -82,6 +82,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kredar"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:artkreimer@gmail.com
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/kredar"

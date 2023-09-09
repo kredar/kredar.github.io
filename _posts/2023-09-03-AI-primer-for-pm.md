@@ -14,8 +14,8 @@ author_profile: true
 #classes: wide
 #layout: splash
 published: true
-toc: true
-toc_sticky: true
+# toc: true
+# toc_sticky: true
 #toc_label: "Table of Contexts"
 #toc_icon: "python"  
 #future: false
@@ -23,6 +23,11 @@ search: true
 comments: true
 ---
 
+_This is Part I of the AI for PMs series. 
+See [Part II](/AI-primer-for-PM-part2) on what to pay attention to when you start building an AI product._
+{: .notice--primary}
+&nbsp;
+&nbsp;
 
 # Introduction
 
