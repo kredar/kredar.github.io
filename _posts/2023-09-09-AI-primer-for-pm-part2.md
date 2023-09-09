@@ -1,6 +1,6 @@
 ---
-title: "What to Be Mindful of When Building AI Products"
-excerpt: "Unveiling the real potential and limitations of AI and ML for Product Managers. Learn the key insights every PM should know to leverage Artificial Intelligence and Machine Learning for gaining a competitive edge in product development."
+title: "The Future-Ready PM: Navigating AI and ML in Product Management - Part 2"
+excerpt: "Learn how to navigate critical issues like bias, black-box algorithms, and data security, while setting up for ongoing success through continuous evaluation."
 tags:
   - AI
   - Product Management
