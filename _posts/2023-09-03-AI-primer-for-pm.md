@@ -129,7 +129,7 @@ Here are some pivotal elements to keep in mind:
 
 AI offers numerous opportunities for innovation in product management. Awareness of its possibilities can significantly benefit your role as a Product Manager. Be curious, follow AI trends, learn and create products that solve customer pain points and delight customers with the help of AI/ML features and algorithms. 
 
-Check [Part 2]() for tips on what to pay attention to when building AI-based products. 
+Check [Part 2]((https://www.artkreimer.com/AI-primer-for-pm-part2/) for tips on what to pay attention to when building AI-based products. 
 
 # Additional Resources
 
@@ -138,6 +138,7 @@ This article is just a primer to provide some knowledge and kick off your curios
 - [AI for Everyone (Coursera)](https://www.coursera.org/learn/ai-for-everyone?index=prod_all_products_term_optimization.&utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_ibm-data-science_ibm_FTCOF_professional-certificates_country-US-country-CA-pmax-nonNRL-within-14d&campaignid=19995348162&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=&hide_mobile_promo&gclid=CjwKCAjw0ZiiBhBKEiwA4PT9z0U5-OHPBbnDbxNJzDXMK3G1ff6KOsrNn0v7duy_IC1ik_knIc1EKBoCX34QAvD_BwE)
 - [Becoming an AI-First Product Leader (LinkedIn Learning)](https://www.linkedin.com/learning/becoming-an-ai-first-product-leader/becoming-an-ai-first-product-leader?autoplay=true&u=2142274)
 - [Artificial Intelligence for Business Leaders (LinkedIn Learning)](https://www.linkedin.com/learning/artificial-intelligence-for-business-leaders/welcome-to-the-course?autoplay=true&u=2142274)
+- [AI Product Management Specialization (Coursera)](https://www.coursera.org/specializations/ai-product-management-duke)
 - Generative AI Landscape ([Sequoia](https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/) ; [Antler](https://www.antler.co/blog/generative-ai))
 - [A collection of a real-world ML applications](https://www.evidentlyai.com/ml-system-design)
 - Prompt Engineering Guide: [Promptingguide.ai](http://Promptingguide.ai)
