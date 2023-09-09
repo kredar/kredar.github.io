@@ -1,6 +1,6 @@
 ---
-title: "Library of Great Mental Models"
-excerpt: "Useful Mental Models for Product Managers"
+title: "Unlocking Better Decision-Making: Essential Mental Models for Product Managers"
+excerpt: "Get ahead in your role by adopting proven mental models. This guide unpacks the top mental frameworks that every Product Manager should know for making smarter decisions."
 tags:
   - Mental Models
   - Product Management

@@ -5,13 +5,14 @@ tags:
   - NLP
   - LLM
   - AI
+  - Conversational AI
 header:
   overlay_image: /assets/images/neural_net_midjourney.png
   overlay_filter: 0.7 # same as adding an opacity of 0.7 to a black background
   # caption: "Image by: [**Midjourney**](https://www.midjourney.com/app/)"
   teaser: /assets/images/neural_net_midjourney.png
 show_date: true
-author_profile: true
+author_profile: false
 #classes: wide
 #layout: splash
 published: true
@@ -25,7 +26,7 @@ comments: true
 
 # Introduction
 
-In my previous post [Exploring the Power of LLMs for NLP Tasks"](https://www.artkreimer.com/How-to-Analyze-App-Reviews-Using-GPT/) I explored how Language Learning Models (LLMs) can be utilized for a range of Natural Language Processing (NLP) tasks —sentiment analysis, topic extraction, content generation, summarization, and more. Building on that foundation, this post aims to guide you through my journey of crafting a personal/resume chatbot. This chatbot is powered by OpenAI's GPT-3.5, Langchain, and Streamlit. You can test drive my resume bot  [here](https://www.artkreimer.com/resume/) 
+In my previous post ["Exploring the Power of LLMs for NLP Tasks"](https://www.artkreimer.com/How-to-Analyze-App-Reviews-Using-GPT/) I explored how Language Learning Models (LLMs) can be utilized for a range of Natural Language Processing (NLP) tasks —sentiment analysis, topic extraction, content generation, summarization, and more. Building on that foundation, this post aims to guide you through my journey of crafting a personal/resume chatbot. This chatbot is powered by OpenAI's GPT-3.5, Langchain, and Streamlit. You can test drive my resume bot  [here](https://www.artkreimer.com/resume/) 
 
 # The Motivation Behind the Chatbot
 
