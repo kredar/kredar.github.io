@@ -13,6 +13,7 @@ html {
 
   @include breakpoint($x-large) {
     font-size: 24px; // change to whatever
+    max-width: 1440px;
   }
   .author__bio {
     margin: 0;
@@ -24,5 +25,6 @@ html {
       margin-bottom: 20px;
     }
   }
+
   
 }
