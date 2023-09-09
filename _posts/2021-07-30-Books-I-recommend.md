@@ -70,7 +70,7 @@ feature_row0-2:
   - image_path: /assets/images/rework.jpeg
     alt: "Rework"
     title: "Rework by Jason Fried and David Heinemeier Hansson "
-    excerpt: "\"Rework\" is not your typical business book. It’s a quick read - a collection of small ideas/tips on Entrepreneurship, Productivity, Management, Marketing, Hiring, Business Culture, and more. The beauty of “Rework” is that it forces you to 'Think Again' about what you thought you knew about productivity, management, and marketing. You can read more about it in this [post](https://www.artkreimer.com/book%20review/Rework-book-review/)"
+    excerpt: "\"Rework\" is not your typical business book. It’s a quick read - a collection of small ideas/tips on Entrepreneurship, Productivity, Management, Marketing, Hiring, Business Culture, and more. The beauty of “Rework” is that it forces you to 'Think Again' about what you thought you knew about productivity, management, and marketing. You can read more about it in this [post](https://www.artkreimer.com/Rework-book-review/)"
     url: "https://amzn.to/3uzqHB7"
     btn_label: "Amazon"
     btn_class: "btn--primary"
@@ -187,7 +187,7 @@ feature_row0-6:
 
 ---
 
-I love to read. When I was younger, I was mostly reading fantasy and sci-fi books. It all changed when I read my first nonfiction book. I don't remember why, but I read "The Power of Habit" by Charles Duhigg, and I loved it. It was easy to read, had great true-life stories, and I saw that it could change my own life. I couldn't stop talking about it; I talked about it with my family, friends, and coworkers. I have to admit - it didn't change my life but definitely affected it and got me thinking about good and bad habits in my life and how to control them. Later I read several of Malcolm Gladwell's books and liked them. Nowadays, I mostly read nonfiction books and mostly around [product management](https://www.artkreimer.com/books/books_for_pms/), leadership, management, and psychology. 
+I love to read. When I was younger, I was mostly reading fantasy and sci-fi books. It all changed when I read my first nonfiction book. I don't remember why, but I read "The Power of Habit" by Charles Duhigg, and I loved it. It was easy to read, had great true-life stories, and I saw that it could change my own life. I couldn't stop talking about it; I talked about it with my family, friends, and coworkers. I have to admit - it didn't change my life but definitely affected it and got me thinking about good and bad habits in my life and how to control them. Later I read several of Malcolm Gladwell's books and liked them. Nowadays, I mostly read nonfiction books and mostly around [Product Management](https://www.artkreimer.com/Must-read-Books-for-Product-Managers/), leadership, management, and psychology. 
 
 I have divided this list into three categories: 
 

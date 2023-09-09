@@ -51,7 +51,7 @@ feature_row2: #DONE
     image_max_size: 10px
     alt: "The Mom Test"
     title: "\"The Mom Test\" by  Rob Fitzpatrick"
-    excerpt: "Talking to your customers about their experience with your product is important. But when [everybody lies](https://www.artkreimer.com/books/First-Book-2022/), how can you get the honest answer? This book is going to show you how customer conversations go wrong and how you can do better."
+    excerpt: "Talking to your customers about their experience with your product is important. But when [everybody lies](https://www.artkreimer.com/First-Book-2022/), how can you get the honest answer? This book is going to show you how customer conversations go wrong and how you can do better."
     url: "https://amzn.to/3MrMAso"
     btn_label: "Amazon"
     btn_class: "btn--primary"
@@ -174,7 +174,7 @@ feature_row7: #DONE
     url: "https://amzn.to/3uzqHB7"
     btn_label: "Amazon"
     btn_class: "btn--primary"
-    url: "https://www.artkreimer.com/book%20review/Rework-book-review/"
+    url: "https://www.artkreimer.com/Rework-book-review/"
     btn_label: "Read More"
     btn_class: "btn--primary"
     tags:
@@ -241,4 +241,4 @@ There are many approaches to product management, leadership and company culture.
 {% include feature_row id="feature_row7" %} 
 
 
-For more book recommendations check my other post [Book Recommendations](https://www.artkreimer.com/books/Books-I-recommend/).
+For more book recommendations check my other post [Book Recommendations](https://www.artkreimer.com/Books-I-recommend/).

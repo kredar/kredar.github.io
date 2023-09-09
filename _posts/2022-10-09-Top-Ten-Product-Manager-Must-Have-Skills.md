@@ -24,7 +24,7 @@ published: true
 #     label: "comment" # Optional - must be existing label.
 
 ---
-In my previous post, I covered the [definition of Product Management and a role of a product manager](https://www.artkreimer.com/product%20management/Role-of-a-pm/) . And in this post, I will go over the 10 must-have skills to be a successful PM in any organization. 
+In my previous post, I covered the [definition of Product Management and a role of a product manager](https://www.artkreimer.com/The-Role-of-a-Product-Manager/) . And in this post, I will go over the 10 must-have skills to be a successful PM in any organization. 
 
 ## 1. Communication
 
