@@ -1,22 +1,17 @@
 ---
 permalink: /about/
 title: "About Me"
-excerpt: " "
 last_modified_at: 2023-09-09
 toc: false
-# header:
-#     overlay_image: /assets/images/jurre-houtkamp-JK1cQkLnUsk-unsplash.jpg
-#     overlay_filter: 0.5
-#     caption: "Photo by [**Jurre Houtkamp**](https://unsplash.com/ja/@jurrehoutkamp?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com/photos/JK1cQkLnUsk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
-#classes: wide
+header:
+    overlay_image: /assets/images/IMG_4634-min.jpeg
+    overlay_filter: 0.5
+classes: wide
 author_profile: false
 layout: single
 ---
 
-<!-- {% include figure image_path="/assets/images/art_picture_1.jpg" alt="Beautiful British Columbia" caption="Beautiful British Columbia" width="350" %}
-![image-center](/assets/images/art_picture_1.jpg){: .align-right} -->
-
-<figure style="width: 30%" class="align-right">
+<figure style="width: 35%" class="align-right">
   <img src="/assets/images/bio_image_il.jpeg" alt="">
 </figure>
 
