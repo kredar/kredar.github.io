@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About Me"
 excerpt: " "
-last_modified_at: 2022-02-05T10:23:16-04:00
+last_modified_at: 2023-09-09
 toc: false
 # header:
 #     overlay_image: /assets/images/jurre-houtkamp-JK1cQkLnUsk-unsplash.jpg

@@ -21,11 +21,12 @@ published: true
 #future: false
 search: true
 comments: true
+permalink: /AI-primer-for-pm/
 ---
 
 _This is Part I of the AI for PMs series. 
 See [Part II](/AI-primer-for-pm-part2/) on what to pay attention to when you start building an AI product._
-{: .notice--primary}
+{: .info}
 
 # Introduction
 
