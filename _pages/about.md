@@ -11,7 +11,7 @@ author_profile: false
 layout: single
 ---
 
-<figure style="width: 35%" class="align-left">
+<figure style="width: 35%" class="align-right">
   <img src="/assets/images/bio_image_il.jpeg" alt="">
 </figure>
 

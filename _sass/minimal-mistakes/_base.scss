@@ -158,6 +158,8 @@ pre {
 
 pre {
   overflow-x: auto; /* add scrollbars to wide code blocks*/
+  white-space: pre-wrap !important;
+  word-break: break-word;
 }
 
 /* horizontal rule */
