@@ -19,6 +19,8 @@ published: true
 toc: true
 toc_sticky: true
 comments: true
+permalink: /How-To-Build-Resume-Bot-powered-by-llm/
+
 #toc_label: "Table of Contexts"
 #toc_icon: "python"  
 ---

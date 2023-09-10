@@ -9,12 +9,16 @@ toc: false
 #     overlay_filter: 0.5
 #     caption: "Photo by [**Jurre Houtkamp**](https://unsplash.com/ja/@jurrehoutkamp?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com/photos/JK1cQkLnUsk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 #classes: wide
-author_profile: true
+author_profile: false
 layout: single
 ---
 
 <!-- {% include figure image_path="/assets/images/art_picture_1.jpg" alt="Beautiful British Columbia" caption="Beautiful British Columbia" width="350" %}
 ![image-center](/assets/images/art_picture_1.jpg){: .align-right} -->
+
+<figure style="width: 30%" class="align-right">
+  <img src="assets/images/bio_image_il.jpeg" alt="">
+</figure>
 
 Hi there 👋! I am Art (Artiom) Kreimer, a product leader with over a decade of experience leading cross-functional teams to bring digital products to life. I have a Bachelor's degree in Communication Systems Engineering and have worked across various industries, including ASIC, Consumer Electronics, Telecom, web and mobile apps, Machine Learning and Conversational AI, and Finance.
 
@@ -29,6 +33,9 @@ If you want to know more about my experience, skills, certifications and aspirat
 Don't hesitate to reach out to me on [Linkedin](https://www.linkedin.com/in/artkreimer/) if my blog resonates with you, you see potential for collaboration, or simply wish to connect. 
 Alternatively, you can [email me](mailto: art.kreimer@gmail.com). I always welcome the opportunity to engage with individuals who share similar interests.
 
+<!-- <figure style="width: 30%" class="align-right">
+  <img src="/assets/images/hawaii.jpg" alt="">
+</figure> -->
 
 <!-- <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mwkjopbo" method="post">
   <fieldset id="fs-frm-inputs">
