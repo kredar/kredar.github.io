@@ -17,7 +17,7 @@ layout: single
 ![image-center](/assets/images/art_picture_1.jpg){: .align-right} -->
 
 <figure style="width: 30%" class="align-right">
-  <img src="assets/images/bio_image_il.jpeg" alt="">
+  <img src="/assets/images/bio_image_il.jpeg" alt="">
 </figure>
 
 Hi there 👋! I am Art (Artiom) Kreimer, a product leader with over a decade of experience leading cross-functional teams to bring digital products to life. I have a Bachelor's degree in Communication Systems Engineering and have worked across various industries, including ASIC, Consumer Electronics, Telecom, web and mobile apps, Machine Learning and Conversational AI, and Finance.
