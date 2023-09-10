@@ -24,7 +24,7 @@ comments: true
 ---
 
 _This is Part II of the AI for PMs series. See [Part I](/AI-primer-for-pm/) on AI use cases and what to do before you even start working on AI product._
-{: .info}
+{: .notice--info}
 
 
 # Introduction
