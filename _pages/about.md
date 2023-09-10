@@ -22,13 +22,15 @@ I'm passionate about Data Analytics, Machine Learning, and Artificial Intelligen
 
 I live in Ontario, Canada, with my wife, two daughters, and Hungarian Vizsla. I love spending my free time with my family and enjoying outdoor activities like hiking, running, and exploring nature. I am also an avid reader and lifelong learner.
 
-If you want to know more about my experience, skills, certifications and aspirations, ask my personal [Resume Chatbot](https://www.artkreimer.com/resume/).
+If you want to know more about my experience, skills, certifications and aspirations, ask my personal **[Resume Chatbot](https://www.artkreimer.com/resume/)**.
   
 # Contact  
 
-Don't hesitate to reach out to me on [Linkedin](https://www.linkedin.com/in/artkreimer/) if my blog resonates with you, you see potential for collaboration, or simply wish to connect. Alternatively, you can drop me a message using the form below. I always welcome the opportunity to engage with individuals who share similar interests.
+Don't hesitate to reach out to me on [Linkedin](https://www.linkedin.com/in/artkreimer/) if my blog resonates with you, you see potential for collaboration, or simply wish to connect. 
+Alternatively, you can [email me](mailto: art.kreimer@gmail.com). I always welcome the opportunity to engage with individuals who share similar interests.
 
-<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mwkjopbo" method="post">
+
+<!-- <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mwkjopbo" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Full Name</label>
     <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
@@ -39,7 +41,7 @@ Don't hesitate to reach out to me on [Linkedin](https://www.linkedin.com/in/artk
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>
   <input type="submit" value="Submit">
-</form>
+</form> -->
 
 <!-- ## Certifications  
 - **2023** - Communicating for Impact [IDEO U](https://www.credential.net/22718ddf-13a4-4289-9e7d-3cedd1f09d37#gs.zyt2ts)
