@@ -29,16 +29,20 @@ _This is Part II of the AI for PMs series. See [Part I](/AI-primer-for-pm/) on A
 
 # Introduction
 
-Since OpenAI released ChatGPT last November, LLMs, GPTs, and GenAI have become buzzwords, and everyone is talking about it. Every enterprise suddenly started investing money and talent into exploring LLMs and Gen AI models. In many cases, people are mixing AI with Gen AI and simplifying LLMs and their capabilities by just calling all of them AI (thank God they are not calling them AGIs). 
+In [Part I](/AI-primer-for-pm/), I discussed the history of Artificial Intelligence, the diversity of applications and AI use cases, and highlighted key considerations to keep in mind before embarking on the development of an AI product. In this part, I will delve into crucial aspects to be mindful of during the development of an AI product. I will address the following topics, provide examples, and suggest potential mitigation strategies:
 
-In this article, I would like to uncover Nevertheless, AI/ML has huge potential, and in the future, every product will have some AI algorithm, and eventually, every PM will become an AI Product Manager. And so understanding what and how to use AI is crucial to gaining a competitive edge through AI.
+- Bias and Unfairness
+- Explainability
+- Privacy, Compliance, and Security
+- Continuous Evaluation
 
-So, what should you pay attention to when building AI-based products?
+Now, let's explore each of these areas in detail.
 
 ## Bias and Unfairness
 AI algorithms can perpetuate or even exacerbate existing biases in society. This can happen when algorithms are trained on biased datasets or if their structures inadvertently introduce bias.
 
 **Examples:**
+
 1. **Gender Bias in Resume Screening**: Algorithms that favour resumes with male-dominated activities can perpetuate gender imbalances in certain industries.
 2. **Racial Bias in Facial Recognition**: These systems may struggle to accurately identify individuals from diverse ethnic backgrounds, leading to potential injustices.
 
