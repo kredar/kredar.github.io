@@ -3,10 +3,10 @@ title: "Navigating AI and Product Management"
 layout: splash
 permalink: /splash-page/
 date: 2023-09-16T11:48:41-04:00
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/IMG_4634-min.jpeg
+# header:
+#   overlay_color: "#000"
+#   overlay_filter: "0.5"
+#   overlay_image: /assets/images/IMG_4634-min.jpeg
 #   actions:
 #     - label: "Download"
 #       url: "https://github.com/mmistakes/minimal-mistakes/"
@@ -65,29 +65,30 @@ feature_row4:
 
 <!-- {% include feature_row id="intro" type="center" %} -->
 
+{% include feature_row id="feature_row4" type="centre" %}
+
 {% include feature_row id="feature_row" %} -->
 
 {% include feature_row id="feature_row2" type="right" %}
 
 {% include feature_row id="feature_row3" type="left" %}
 
-{% include feature_row id="feature_row4" type="centre" %}
+
 
 
 ## [Building Resume Chatbots with OpenAI's GPT-3.5: A Step-by-Step Guide](https://www.artkreimer.com/How-To-Build-Resume-Bot-powered-by-llm/)
 
-<figure style="width: 30%" class="align-right">
+<figure style="width: 20%" class="align-right">
   <img src="/assets/images/IMG_4634-min.jpeg" alt="Resume Chatbot">
 </figure>
-
 Unlock the potential of Retrieval Augmented Generation (RAG) architecture in building an advanced resume chatbot. Leverage OpenAI's GPT-3.5, Langchain, and Vector Database Management for a next-level conversational experience.
 [Read More](https://www.artkreimer.com/How-To-Build-Resume-Bot-powered-by-llm/){: .btn .btn--primary}
 
+
 ## [Building Resume Chatbots with OpenAI's GPT-3.5: A Step-by-Step Guide](https://www.artkreimer.com/How-To-Build-Resume-Bot-powered-by-llm/)
 
-<figure style="width: 20%" class="align-left">
+<figure style="width: 20%" class="align-right">
   <img src="/assets/images/IMG_4634-min.jpeg" alt="Resume Chatbot">
 </figure>
-
 Unlock the potential of Retrieval Augmented Generation (RAG) architecture in building an advanced resume chatbot. Leverage OpenAI's GPT-3.5, Langchain, and Vector Database Management for a next-level conversational experience.
 [Read More](https://www.artkreimer.com/How-To-Build-Resume-Bot-powered-by-llm/){: .btn .btn--primary}
