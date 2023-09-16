@@ -3,15 +3,15 @@ title: "Navigating AI and Product Management"
 layout: splash
 permalink: /splash-page/
 date: 2023-09-16T11:48:41-04:00
-# header:
-#   overlay_color: "#000"
-#   overlay_filter: "0.5"
-#   overlay_image: /assets/images/IMG_4634-min.jpeg
-#   actions:
-#     - label: "Download"
-#       url: "https://github.com/mmistakes/minimal-mistakes/"
-#   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Art's Kreimer about Product Management, Leadership, AI and Machine Learning"
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.7"
+  overlay_image: /assets/images/joshua-woroniecki-laptop.jpg
+  caption: "Photo by [Joshua Woroniecki](https://unsplash.com/@joshua_j_woroniecki?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com/photos/lzh3hPtJz9c?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
+  
+# Photo by <a href="https://unsplash.com/@joshua_j_woroniecki?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Joshua Woroniecki</a> on <a href="https://unsplash.com/photos/lzh3hPtJz9c?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+excerpt: "Art Kreimer writing about Product Management, Leadership, Artificial Intelligence and Machine Learning"
 intro: 
   - excerpt: ""
 feature_row:
