@@ -3,10 +3,10 @@ title: "Navigating AI and Product Management"
 layout: splash
 permalink: /splash-page/
 date: 2023-09-16T11:48:41-04:00
-# header:
-#   overlay_color: "#000"
-#   overlay_filter: "0.5"
-#   overlay_image: /assets/images/IMG_4634-min.jpeg
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/IMG_4634-min.jpeg
 #   actions:
 #     - label: "Download"
 #       url: "https://github.com/mmistakes/minimal-mistakes/"
@@ -15,22 +15,22 @@ excerpt: "Art's Kreimer about Product Management, Leadership, AI and Machine Lea
 intro: 
   - excerpt: ""
 feature_row:
-  - image_path: /assets/images/twitter-profile-image-400x400.jpg
+  - image_path: /assets/images/assets/images/IMG_4634-min.jpeg
     alt: "placeholder image 1"
-    title: "Building Resume Chatbots with OpenAI's GPT-3.5: A Step-by-Step Guide"
-    excerpt: "Unlock the potential of Retrieval Augmented Generation (RAG) architecture in building an advanced resume chatbot. Leverage OpenAI's GPT-3.5, Langchain, and Vector Database Management for a next-level conversational experience."
-     url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/twitter-profile-image-400x400.jpg
-     alt: "placeholder image 1"
     title: "Building Resume Chatbots with OpenAI's GPT-3.5: A Step-by-Step Guide"
     excerpt: "Unlock the potential of Retrieval Augmented Generation (RAG) architecture in building an advanced resume chatbot. Leverage OpenAI's GPT-3.5, Langchain, and Vector Database Management for a next-level conversational experience."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/twitter-profile-image-400x400.jpg
-     alt: "placeholder image 1"
+  - image_path: /assets/images/assets/images/IMG_4634-min.jpeg
+    alt: "placeholder image 1"
+    title: "Building Resume Chatbots with OpenAI's GPT-3.5: A Step-by-Step Guide"
+    excerpt: "Unlock the potential of Retrieval Augmented Generation (RAG) architecture in building an advanced resume chatbot. Leverage OpenAI's GPT-3.5, Langchain, and Vector Database Management for a next-level conversational experience."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/assets/images/IMG_4634-min.jpeg
+    alt: "placeholder image 1"
     title: "Building Resume Chatbots with OpenAI's GPT-3.5: A Step-by-Step Guide"
     excerpt: "Unlock the potential of Retrieval Augmented Generation (RAG) architecture in building an advanced resume chatbot. Leverage OpenAI's GPT-3.5, Langchain, and Vector Database Management for a next-level conversational experience."
     url: "#test-link"
@@ -65,7 +65,7 @@ feature_row4:
 
 <!-- {% include feature_row id="intro" type="center" %} -->
 
- {% include feature_row %} -->
+{% include feature_row id="feature_row" %} -->
 
 {% include feature_row id="feature_row2" type="right" %}
 
