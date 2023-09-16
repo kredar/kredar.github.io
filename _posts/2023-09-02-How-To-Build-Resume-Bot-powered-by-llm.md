@@ -7,10 +7,10 @@ tags:
   - AI
   - Conversational AI
 header:
-  overlay_image: /assets/images/neural_net_midjourney.png
+  overlay_image: /assets/images/neural_net_midjourney.jpg
   overlay_filter: 0.7 # same as adding an opacity of 0.7 to a black background
   # caption: "Image by: [**Midjourney**](https://www.midjourney.com/app/)"
-  teaser: /assets/images/neural_net_midjourney.png
+  teaser: /assets/images/neural_net_midjourney.jpg
 show_date: true
 author_profile: true
 #classes: wide
