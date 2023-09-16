@@ -1,6 +1,6 @@
 ---
 title: "Rework Reviewed: Unpacking Controversial Business Wisdom"
-excerpt: "Explore the controversial yet thought-provoking ideas in 'Rework' that span from entrepreneurship to hiring practices. A review that helps you evaluate what mainstream business advice to keep or discard." 
+excerpt: "Explore the thought-provoking ideas that span from entrepreneurship to hiring practices. A review that helps you evaluate what mainstream business advice to keep or discard." 
 date: 2021-02-14T15:34:30-04:00
 tags:
   - Must-Read Books
@@ -12,7 +12,9 @@ classes: wide
 comments: true
 ---
 
-{% include figure image_path="/assets/images/rework.jpeg" alt="Rework by Jason Fried and David Heinemeier Hansson" caption="Rework by Jason Fried and David Heinemeier Hansson" %}
+<figure style="width: 40%" class="align-right">
+  <img src="/assets/images/rework.jpeg" alt="Rework by Jason Fried and David Heinemeier Hansson">
+</figure>
 
 "Rework" is not your typical business book. It's a quick read - a collection of small ideas/tips on **Entrepreneurship**, **Productivity**, **Management**, **Marketing**, **Hiring**, **Business Culture**, and more. 
 

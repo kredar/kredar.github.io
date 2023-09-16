@@ -23,7 +23,7 @@ I live in Ontario, Canada, with my wife, two daughters, and Hungarian Vizsla. I 
 
 If you want to know more about my experience, skills, certifications and aspirations, ask my personal **[Resume Chatbot](https://www.artkreimer.com/resume/)**.
   
-# Contact  
+## Contact  
 
 Don't hesitate to reach out to me on [Linkedin](https://www.linkedin.com/in/artkreimer/) if my blog resonates with you, you see potential for collaboration, or simply wish to connect. 
 Alternatively, you can [email me](mailto: art.kreimer@gmail.com). I always welcome the opportunity to engage with individuals who share similar interests.

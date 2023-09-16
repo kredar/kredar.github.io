@@ -1,5 +1,5 @@
 ---
-title: "Splash Page"
+title: "Navigating AI and Product Management"
 layout: splash
 permalink: /splash-page/
 date: 2023-09-16T11:48:41-04:00
@@ -11,7 +11,7 @@ header:
 #     - label: "Download"
 #       url: "https://github.com/mmistakes/minimal-mistakes/"
 #   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-#excerpt: "Art's Kreimer about Product Management, Leadership, AI and Machine Learning"
+excerpt: "Art's Kreimer about Product Management, Leadership, AI and Machine Learning"
 intro: 
   - excerpt: ""
 feature_row:
@@ -31,7 +31,7 @@ feature_row:
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
-  - image_path: /assets/images/neural_net_modjourney.jpg
+  - image_path: /assets/images/neural_net_midjourney.jpg
     alt: "placeholder image 2"
     title: "Building Resume Chatbots with OpenAI's GPT-3.5: A Step-by-Step Guide"
     excerpt: "Unlock the potential of Retrieval Augmented Generation (RAG) architecture in building an advanced resume chatbot. Leverage OpenAI's GPT-3.5, Langchain, and Vector Database Management for a next-level conversational experience."
@@ -56,9 +56,9 @@ feature_row4:
     btn_class: "btn--primary"
 ---
 
-{% include feature_row id="intro" type="center" %}
+<!-- {% include feature_row id="intro" type="center" %} -->
 
-{% include feature_row %}
+<!-- {% include feature_row %} -->
 
 {% include feature_row id="feature_row2" type="left" %}
 

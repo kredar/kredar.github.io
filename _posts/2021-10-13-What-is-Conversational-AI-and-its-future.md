@@ -17,7 +17,7 @@ published: true
 comments: true
 ---
 
-# The Future of Conversational AI
+## The Future of Conversational AI
 
 I recently discussed the current state of Conversational AI and its future. It was a great discussion, and I thought to share some of it here. But first, let's talk about what is Conversational AI? 
 
@@ -25,7 +25,7 @@ I recently discussed the current state of Conversational AI and its future. It w
 
 Conversational AI or chatbots is not something new. The first chatbot, [ELIZA](https://en.wikipedia.org/wiki/ELIZA), was created back in 1966. But only in the last decade, we saw massive investments, advancements, and interest in Conversational AI for enterprise applications.
 
-## Conversational AI use cases
+### Conversational AI use cases
 
 There are many reasons why companies want to add a conversational AI interface to their products, from providing better 24/7 customer support to replacing old [IVR](https://en.wikipedia.org/wiki/Interactive_voice_response) systems with a Conversational IVR. Any interface where customers can interact with a brand can be enhanced or even transformed with Conversational AI. Companies can add Conversational capabilities to the website, mobile app, social pages, and phone systems. Some would argue that Conversational AI is a table stake[^tablestake].
 
@@ -49,7 +49,7 @@ Companies can also use it internally to improve their employees' experience:
 
 Like with any product you are building, focus on customer experience. Make sure you define customer-centric KPIs to guide you during the platform selection, UX design and solution architecture. 
 
-## Conversational AI architecture
+### Conversational AI architecture
 
 Enterprise Conversational AI implementation would include multiple components, ML models and services. Here are some of them: 
 

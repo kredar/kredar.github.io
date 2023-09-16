@@ -1,6 +1,6 @@
 ---
 title: "How to Build a Resume Chatbot using the power of LLMs"
-excerpt: "Unlock the potential of RAG architecture in building an advanced resume chatbot. Leverage OpenAI's GPT-3.5, Langchain, and Vector Database for a next-level conversational experience."
+excerpt: "Unlock the potential of RAG architecture and foundational LLM in building an advanced resume chatbot."
 tags:
   - NLP
   - LLM
