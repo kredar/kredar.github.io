@@ -3,10 +3,10 @@ title: "Navigating AI and Product Management"
 layout: splash
 permalink: /splash-page/
 date: 2023-09-16T11:48:41-04:00
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/IMG_4634-min.jpeg
+# header:
+#   overlay_color: "#000"
+#   overlay_filter: "0.5"
+#   overlay_image: /assets/images/IMG_4634-min.jpeg
 #   actions:
 #     - label: "Download"
 #       url: "https://github.com/mmistakes/minimal-mistakes/"
@@ -19,17 +19,24 @@ feature_row:
     alt: "placeholder image 1"
     title: "Building Resume Chatbots with OpenAI's GPT-3.5: A Step-by-Step Guide"
     excerpt: "Unlock the potential of Retrieval Augmented Generation (RAG) architecture in building an advanced resume chatbot. Leverage OpenAI's GPT-3.5, Langchain, and Vector Database Management for a next-level conversational experience."
+     url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/twitter-profile-image-400x400.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+     alt: "placeholder image 1"
+    title: "Building Resume Chatbots with OpenAI's GPT-3.5: A Step-by-Step Guide"
+    excerpt: "Unlock the potential of Retrieval Augmented Generation (RAG) architecture in building an advanced resume chatbot. Leverage OpenAI's GPT-3.5, Langchain, and Vector Database Management for a next-level conversational experience."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/twitter-profile-image-400x400.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+     alt: "placeholder image 1"
+    title: "Building Resume Chatbots with OpenAI's GPT-3.5: A Step-by-Step Guide"
+    excerpt: "Unlock the potential of Retrieval Augmented Generation (RAG) architecture in building an advanced resume chatbot. Leverage OpenAI's GPT-3.5, Langchain, and Vector Database Management for a next-level conversational experience."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
 feature_row2:
   - image_path: /assets/images/twitter-profile-image-400x400.jpg
     alt: "placeholder image 2"
