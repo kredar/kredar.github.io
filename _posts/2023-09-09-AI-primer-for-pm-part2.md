@@ -1,5 +1,5 @@
 ---
-title: "The Future-Ready PM: Navigating AI and ML in Product Management - Part 2"
+title: "The Future-Ready PM: Navigating AI and ML as a Product Manager - Part 2"
 excerpt: "Learn how to navigate critical issues like bias, black-box algorithms, and data security, while setting up for ongoing success through continuous evaluation."
 tags:
   - AI
