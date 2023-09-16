@@ -1,5 +1,5 @@
 ---
-title: "The Future-Ready PM: Navigating AI and ML as a Product Manager- Part 1"
+title: "The Future-Ready PM: Navigating AI and ML - Part 1"
 excerpt: "Unveiling the real potential and limitations of AI and ML for Product Managers. Learn the key insights every PM should know to leverage Artificial Intelligence and Machine Learning for gaining a competitive edge in product development."
 tags:
   - AI
@@ -27,13 +27,13 @@ permalink: /AI-primer-for-pm/
 _This is Part I of the AI for PMs series. See [Part II](/AI-primer-for-pm-part2/) on what to pay attention to when you start building an AI product._
 {: .notice--info}
 
-# Introduction
+## Introduction
 
 Since OpenAI released ChatGPT last November, LLMs, GPTs, and GenAI have become buzzwords, and everyone is talking about it. Every enterprise suddenly started investing money and talent into exploring LLMs and Gen AI models. In many cases, people are mixing AI with Gen AI and simplifying LLMs and their capabilities by just calling all of them AI (thank God they are not calling them AGIs). 
 
 In this article, I would like to demystify some misconceptions about Artificial intelligence, Machine Learning and their applications and my thoughts on what every PM needs to know regarding Artificial intelligence and Machine Learning. Spoiler Alert - AI is not a silver bullet that can magically solve all your product and customer problems and make your product a success story. Nevertheless, AI/ML has huge potential, and in the future, every product will have some AI algorithm, and eventually, every PM will become an AI Product Manager. And so understanding what and how to use AI is crucial to gaining a competitive edge through AI.
 
-# What is AI?
+## What is AI?
 
 The term "AI" is often used in various contexts—some even refer to it as Augmented Intelligence. Let's define our terms to ensure we're on the same page. Think of these concepts as nested Russian dolls: AI is the overarching term, under which falls ML, then Deep Learning, followed by GenAI, and finally, AGI.
 
@@ -46,7 +46,7 @@ The term "AI" is often used in various contexts—some even refer to it as Augme
 > **Generative AI (GenAI):** Deep learning models capable of generating new data or content like images, music, video, or text.
 > **Artificial General Intelligence (AGI):** The ultimate goal in the AI spectrum—a fully autonomous system capable of human-level intelligence across various tasks, without requiring specialized programming.
 
-# Exploring the History and Diverse Fields of AI
+## Exploring the History and Diverse Fields of AI
 
 Now that we've established a common understanding of key terms let's dive into the history of Artificial Intelligence (AI). The idea of creating artificial beings with human-like capabilities has ancient roots, featuring prominently in myths and legends like the Golem in Biblical stories or automatons in ancient mythology.
 
@@ -77,7 +77,7 @@ Now, let's dive into different AI/ML use cases.
 <!-- ![AI and ML trend on Google Ngrams](/assets/images/aiml_google_ngrams.jpg)
 *AI and ML trend on Google Ngrams* -->
 
-# AI/ML Use Cases 
+## AI/ML Use Cases 
 
 Artificial Intelligence (AI) and Machine Learning (ML) technologies are revolutionizing diverse industries. Here are some notable use cases and applications where AI/ML algorithms are making a difference:
 
@@ -96,7 +96,7 @@ Artificial Intelligence (AI) and Machine Learning (ML) technologies are revoluti
 - **Smart Homes** - Leverage AI to control household systems like lighting and temperature to optimize energy use and boost security.
 - **Traffic Management** - Apply AI in real-time data analysis for traffic regulation, signal timing adjustments, and route optimization to mitigate congestion.
 
-# Key Considerations Before Embarking on an AI Product Journey
+## Key Considerations Before Embarking on an AI Product Journey
 
 Multiple critical factors have to be considered before you dive into developing an AI-powered product. Understanding these can be the difference between a successful launch and a missed opportunity. 
 
@@ -128,13 +128,13 @@ Here are some pivotal elements to keep in mind:
 - Create a detailed project timeline and budget.
 - Consider the long-term maintenance costs of the AI system.
 
-# Conclusion
+## Conclusion
 
 AI offers numerous opportunities for innovation in product management. Awareness of its possibilities can significantly benefit your role as a Product Manager. Be curious, follow AI trends, learn and create products that solve customer pain points and delight customers with the help of AI/ML features and algorithms. 
 
 Check [Part 2](https://www.artkreimer.com/AI-primer-for-pm-part2/) for tips on what to pay attention to when building AI-based products. 
 
-# Additional Resources
+## Additional Resources
 
 This article is just a primer to provide some knowledge and kick off your curiosity to learn more. Here is a short list of articles, courses and books to keep you going:
 

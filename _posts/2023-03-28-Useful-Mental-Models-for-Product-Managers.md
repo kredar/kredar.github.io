@@ -1,5 +1,5 @@
 ---
-title: "Unlocking Better Decision-Making: Essential Mental Models for Product Managers"
+title: "Unlocking Better Decision-Making: Essential Mental Models for PMs"
 excerpt: "Get ahead in your role by adopting proven mental models. This guide unpacks the top mental frameworks that every Product Manager should know for making smarter decisions."
 tags:
   - Mental Models
@@ -56,6 +56,6 @@ The Curse of Knowledge is a cognitive bias that occurs when people who are knowl
 
 Anything that is trying to model something else can't be accurate because it's not an actual thing. In product management, this mental model can be used to help teams recognize that different stakeholders may have different perspectives on the same issue or problem. By understanding that each person's mental map of the situation is unique, product managers can work to find common ground and collaborate more effectively. 
 
-# Conclusion
+## Conclusion
 
 I covered just some of the most known mental models and as you can see, mental models are useful tools that can improve your thinking, help you learn new concepts faster and help you make better decisions in your daily life. Check out [fs.blog](https://fs.blog/) and [Untools](https://untools.co/) to learn more. 

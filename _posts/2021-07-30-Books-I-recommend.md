@@ -1,6 +1,6 @@
 ---
-title: "Reading for Growth: A Multi-Genre List of Books That Shaped My Life"
-excerpt: "Delve into a reading list spanning from self-help to history, carefully curated to offer life-changing insights into leadership, inspiration, and understanding the past."
+title: "Reading for Growth: Books That Shaped My Life"
+excerpt: "Discover a reading list of carefully curated books on self-help,  leadership, inspiration, and understanding the past."
 tags:
   - Must-Read Books
 header:
@@ -200,7 +200,7 @@ I have divided this list into three categories:
 
 >You have to know the past to understand the present." I would add to it, "You have to know the past to understand the present and build a better future."   
 {: .notice--info}
-         
+
 ## Leadership/Management    
 
 {% include feature_row id="feature_row0-1" %}

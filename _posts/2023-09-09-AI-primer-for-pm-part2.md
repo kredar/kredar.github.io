@@ -1,5 +1,5 @@
 ---
-title: "The Future-Ready PM: Navigating AI and ML as a Product Manager - Part 2"
+title: "The Future-Ready PM: Navigating AI and ML - Part 2"
 excerpt: "Learn how to navigate critical issues like bias, black-box algorithms, and data security, while setting up for ongoing success through continuous evaluation."
 tags:
   - AI
@@ -27,7 +27,7 @@ _This is Part II of the AI for PMs series. See [Part I](/AI-primer-for-pm/) on A
 {: .notice--info}
 
 
-# Introduction
+## Introduction
 
 In [Part I](/AI-primer-for-pm/), I discussed the history of Artificial Intelligence, the diversity of applications and AI use cases, and highlighted key considerations to keep in mind before embarking on the development of an AI product. In this part, I will delve into crucial aspects to be mindful of during the development of an AI product. I will address the following topics, provide examples, and suggest potential mitigation strategies:
 
@@ -38,7 +38,7 @@ In [Part I](/AI-primer-for-pm/), I discussed the history of Artificial Intellige
 
 Now, let's explore each of these areas in detail.
 
-## Bias and Unfairness
+### Bias and Unfairness
 AI algorithms can perpetuate or even exacerbate existing biases in society. This can happen when algorithms are trained on biased datasets or if their structures inadvertently introduce bias.
 
 **Examples:**
@@ -51,7 +51,7 @@ AI algorithms can perpetuate or even exacerbate existing biases in society. This
 - Perform algorithmic fairness audits.
 - Involve a diverse team in the development and validation process.
 
-## Explainability
+### Explainability
 The "black box" nature of complex AI algorithms often hinders transparency, making explaining model decisions and outcomes difficult. In some highly regulated industries like healthcare and banking it could be a real issue. 
 
 **Examples:**
@@ -62,7 +62,7 @@ The "black box" nature of complex AI algorithms often hinders transparency, maki
 - Use explainable AI models or techniques like LIME or SHAP.
 - Provide clear documentation for internal algorithms and decision-making processes.
 
-## Privacy, Compliance, and Security
+### Privacy, Compliance, and Security
 Ensuring user privacy and compliance with data protection regulations is essential. This includes safeguarding user data through techniques like data anonymization and encryption.
 
 **Examples:**
@@ -73,7 +73,7 @@ Ensuring user privacy and compliance with data protection regulations is essenti
 - Adhere to GDPR or similar data protection regulations.
 - Use privacy-preserving techniques like differential privacy.
 
-## Continuous Evaluation
+### Continuous Evaluation
 Even more than any regular software products, AI systems require ongoing monitoring and assessment to ensure they meet desired performance criteria and remain relevant. Without the most recent data, AI model performance might deteriorate.
 
 **Examples**:
@@ -87,13 +87,13 @@ Even more than any regular software products, AI systems require ongoing monitor
 
 You can build more ethical, efficient, and effective AI systems by being attentive to the aforementioned areas.
 
-# Conclusion
+## Conclusion
 
 AI offers numerous opportunities for innovation in product management. Being aware of its limitations can significantly improve the outcomes of your projects and make you a better Product Manager. 
 
 Be curious, follow AI trends, learn and create products that solve customer pain points and delight customers with the help of AI/ML features and algorithms. 
 
-# Additional Resources
+## Additional Resources
 
 This article is just a primer to provide some knowledge and kick off your curiosity to learn more. Here is a short list of articles, courses and books to keep you going:
 

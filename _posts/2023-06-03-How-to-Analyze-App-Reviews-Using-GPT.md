@@ -1,5 +1,5 @@
 ---
-title: "Revolutionizing Text Analytics with LLM and Prompt Engineering"
+title: "NLP and Text Analytics using foundational LLMs"
 excerpt: "Learn how Large Language Models simplify sentiment analysis, emotion detection, and topic extraction, all in just two API calls."
 tags:
   - NLP
@@ -22,7 +22,7 @@ toc_sticky: true
 comments: true 
 ---
 
-# Introduction
+## Introduction
 
 A couple of weeks ago, I completed a short course on prompt engineering - **"ChatGPT Prompt Engineering For Developers"** by [DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/). The best part is, it's available for free, but only for a limited time! 
 
@@ -32,7 +32,7 @@ Gone are the days of spending countless hours and extensive data to build specif
 
 Utilizing the techniques I learned in the course and playing with prompts,  I was able to get the sentiment, emotions, topics, summary and auto-generated response in just two API calls. Although it's possible to achieve everything in one API call, it can get too lengthy, longer than allowed number of tokens in one API call, I decided to split them into 2 API calls. 
 
-# Prompts
+## Prompts
 
 The first prompt, a straightforward zero-shot learning task, requests GPT to generate the following:
 
@@ -82,7 +82,7 @@ Make sure output is a valid json format.
 
 I recommend experimenting with prompts and parameters in the OpenAI [Playground](https://platform.openai.com/playground?mode=chat) prior to implementing your Python code.
 
-# Python Code
+## Python Code
 
 Let's delve into the Python code. We'll first extract Google Play app reviews using the Google Play Store scraper library, then call the OpenAI API using two prompts discussed earlier to analyze Android app reviews and auto-generate responses.
 
@@ -121,7 +121,7 @@ last_100_reviews_df=df_reviews[df_reviews['score']<4][0:100]
 Then we are going to add new columns to our data frame:
 
 ```python
-# I want to detect the following using openai api
+## I want to detect the following using openai api
 last_100_reviews_df['summary']=''
 last_100_reviews_df['sentiment']=''
 last_100_reviews_df['emotions']=''
@@ -221,7 +221,7 @@ Make sure the output is a valid JSON format.
 
 And there you have it! In roughly a hundred lines of code, we've managed to determine sentiment, identify emotions, extract topics, summarize reviews, and generate plausible responses.
 
-# Findings and Conclusion
+## Findings and Conclusion
 
 Key takeaways from my exploration with LLMs: they're akin to magic wands for NLP tasks, but they're not without their quirks.
 
