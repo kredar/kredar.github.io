@@ -8,15 +8,14 @@ header:
   overlay_filter: 0.7
   overlay_image: /assets/images/joshua-woroniecki-laptop.jpg
   caption: "Photo by [Joshua Woroniecki](https://unsplash.com/@joshua_j_woroniecki?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com/photos/lzh3hPtJz9c?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
-excerpt: "Articles and resources on Product Management, Leadership and AI"
+excerpt: "Articles and resources on Product Management, Leadership and Artificial Intelligence"
 # intro: 
 #   - excerpt: "Articles and resources on Product Management, Leadership and AI"
-author_profile: true
 feature_row0:
   - image_path: /assets/images/feature_row/resume_bot_f.jpg
     alt: "placeholder image 2"
-    title: "Building a Resume Chatbot using the RAG architecture and the power of foundational LLMs"
-    excerpt: "Follow this step-by-step guide to learn how I used Langchain, Vector DB, GPT-3.5 and Streamlit to elevate the conversational experience and build an advanced resume chatbot."
+    title: "Building advanced informational chatbot using foundational LLM and Retrieval Augmented Generation (RAG)"
+    excerpt: "Follow this step-by-step guide to learn how to use Langchain, Vector DB, GPT-3.5, and Streamlit to create an advanced informational chatbot."
     url: "https://www.artkreimer.com/How-To-Build-Resume-Bot-powered-by-llm/"
     btn_label: "Read More"
     btn_class: "btn--info"
