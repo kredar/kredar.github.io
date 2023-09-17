@@ -9,8 +9,7 @@ header:
   overlay_image: /assets/images/joshua-woroniecki-laptop.jpg
   caption: "Photo by [Joshua Woroniecki](https://unsplash.com/@joshua_j_woroniecki?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com/photos/lzh3hPtJz9c?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 excerpt: "Articles and resources on Product Management, Leadership and Artificial Intelligence"
-# intro: 
-#   - excerpt: "Articles and resources on Product Management, Leadership and AI"
+
 feature_row0:
   - image_path: /assets/images/feature_row/resume_bot_f.jpg
     alt: "placeholder image 2"
@@ -60,6 +59,12 @@ feature_row3:
     url: "https://www.artkreimer.com/Must-read-Books-for-Product-Managers/"
     btn_label: "Read More"
     btn_class: "btn--info"
+author: 
+  - title: "Art Kreimer"
+    excerpt: 'Product Leader writing about AI, Machine Learning, Leadership and Product Management.'
+    url: "https://www.artkreimer.com/about/"
+    btn_label: "About Me"
+    btn_class: "btn--info"
 ---
 
 <!-- {% include feature_row id="intro" type="center" %} -->
@@ -76,25 +81,4 @@ feature_row3:
 
 {% include feature_row id="feature_row3" type="right" %}
 
-
-{% capture notice-2 %}
-<figure style="width: 20%" class="align-left">
-  <img src="/assets/images/bio_image_il.jpeg" alt="">
-</figure>
-**Art Kreimer**:
-Product Leader writing about AI, Machine Learning, Leadership and Product Management.
-
-{% endcapture %}
-
-<div class="notice">{{ notice-2 | markdownify }}</div>
-
-<div class="notice--primary" markdown="1">
-<figure style="width: 20%" class="align-left">
-  <a href="https://www.artkreimer.com/about/" title="About Me" alt="Art Kreimer photo">
-  <img src="/assets/images/bio_image_il.jpeg" alt="Art Kreimer photo"></a>
-  <figcaption>Image caption.</figcaption>
-</figure>
-<p>**Art Kreimer**<br>
-Product Leader writing about AI, Machine Learning, Leadership and Product Management.</p>
-
-</div>
+{% include feature_row id="author" type="center" %}
