@@ -2,8 +2,8 @@
 title: "5 Reasons You Can’t Use the Same Virtual Agent Design for Text and Voice Bots"
 excerpt: "What you should focus on when designing conversational bots for text and voice"
 tags:
-  - Virtual Assistant
   - Conversational AI
+  - AI
 header:
   overlay_image: /assets/images/freestocks-GxM9gkLJbwY-unsplash.jpg
   overlay_filter: 0.7 # same as adding an opacity of 0.7 to a black background

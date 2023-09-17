@@ -2,7 +2,7 @@
 title: "Reading for Growth: Books That Shaped My Life"
 excerpt: "Discover a reading list of carefully curated books on self-help,  leadership, inspiration, and understanding the past."
 tags:
-  - Must-Read Books
+  - Books
 header:
   overlay_image: /assets/images/susan-q-yin-2JIvboGLeho-unsplash.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background

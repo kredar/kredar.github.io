@@ -2,8 +2,8 @@
 title: "Conversational AI and its future"
 excerpt: "What is conversational AI and how it would evolve"
 tags:
-  - Virtual Assistant
   - Conversational AI
+  - AI
 header:
   overlay_image: /assets/images/chatbot-image.jpeg
   overlay_filter: 0.7 # same as adding an opacity of 0.7 to a black background

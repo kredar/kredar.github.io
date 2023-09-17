@@ -4,6 +4,7 @@ excerpt: "Deepmind developed an AI system capable of writing computer programs a
 date: 2022-02-05
 tags:
   - Gen AI
+  - AI
 #layout: splash
 show_date: true
 author_profile: true

@@ -2,7 +2,6 @@
 title: "Top 10 Must-Have Skills for a Product Manager"
 tags:
   - Product Management
-  - PM Skills
 excerpt: "What are the Top Product Management skills to be a successful PM in any organization"
 header:
   overlay_image: /assets/images/nick-fewings-EkyuhD7uwSM-unsplash.jpeg

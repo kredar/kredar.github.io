@@ -3,8 +3,7 @@ title: "Rework Reviewed: Unpacking Controversial Business Wisdom"
 excerpt: "Explore the thought-provoking ideas that span from entrepreneurship to hiring practices. A review that helps you evaluate what mainstream business advice to keep or discard." 
 date: 2021-02-14T15:34:30-04:00
 tags:
-  - Must-Read Books
-  - Entrepreneurship
+  - Books
 #layout: splash
 show_date: true
 author_profile: true
