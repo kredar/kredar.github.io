@@ -5,8 +5,8 @@ tags:
   - Mental Models
   - Product Management
 header:
-  overlay_image: /assets/images/brain_neuron_midjourney.png
-  teaser: /assets/images/brain_neuron_midjourney.png
+  overlay_image: /assets/images/header/neuron_midjourney_h.jpg
+  teaser: /assets/images/feature_row/neuron_midjourney_f.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Photo by: [**Midjourney**](https://www.midjourney.com/app/)"
 show_date: true

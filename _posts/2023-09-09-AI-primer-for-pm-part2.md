@@ -5,10 +5,10 @@ tags:
   - AI
   - Product Management
 header:
-  overlay_image: /assets/images/steve-johnson-ZPOoDQc8yMw-unsplash.jpg
+  overlay_image: /assets/images/header/ai_primer_2_h.jpg
   overlay_filter: 0.7 # same as adding an opacity of 0.7 to a black background
-  caption: "Photo by [Steve Johnson](https://unsplash.com/@steve_j?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com/photos/ZPOoDQc8yMw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
-  teaser: /assets/images/steve-johnson-ZPOoDQc8yMw-unsplash.jpg
+  # caption: "Photo by [Steve Johnson](https://unsplash.com/@steve_j?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com/photos/ZPOoDQc8yMw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
+  teaser: /assets/images/feature_row/ai_primer_2_f.jpg
 show_date: true
 author_profile: true
 #classes: wide

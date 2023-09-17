@@ -7,10 +7,10 @@ tags:
   - AI
   - Conversational AI
 header:
-  overlay_image: /assets/images/neural_net_midjourney.jpg
+  overlay_image: /assets/images/header/resume_bot_h.jpg
   overlay_filter: 0.7 # same as adding an opacity of 0.7 to a black background
-  # caption: "Image by: [**Midjourney**](https://www.midjourney.com/app/)"
-  teaser: /assets/images/neural_net_midjourney.jpg
+  caption: "Image by: [**Midjourney**](https://www.midjourney.com/app/)"
+  teaser: /assets/images/feature_row/resume_bot_f.jpg
 show_date: true
 author_profile: true
 #classes: wide
@@ -92,7 +92,7 @@ from langchain.prompts import load_prompt
 
 
 
-### Making the Bot Talk Right: The Prompt
+### Prompt Engineering
 
 Getting the chat Streamlit interface to look nice was one thing, but I spent even more time figuring out how the chatbot should talk. I tested a lot of different prompts before settling on one that works well for this task. It's mostly accurate, but probably can be improved even more. 
 

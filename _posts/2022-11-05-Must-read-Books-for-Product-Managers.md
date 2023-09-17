@@ -1,5 +1,5 @@
 ---
-title: "Essential Reading List for Product Managers"
+title: "Best Books for Product Managers"
 excerpt: "From seasoned experts to aspiring PMs, this list of must-read books covers all the bases. Discover the reads that will sharpen your skills and mindset."
 tags:
   - Product Management
