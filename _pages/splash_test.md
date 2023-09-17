@@ -52,6 +52,7 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--info"
 feature_row3:
+# image 1
   - image_path: /assets/images/christin-hume-k2Kcwkandwg-unsplash.jpg
     alt: "placeholder image 2"
     title: "Essential Reading List for Product Managers"
@@ -59,12 +60,20 @@ feature_row3:
     url: "https://www.artkreimer.com/Must-read-Books-for-Product-Managers/"
     btn_label: "Read More"
     btn_class: "btn--info"
+# image 2
+  - image_path: /assets/images/christin-hume-k2Kcwkandwg-unsplash.jpg
+    alt: "placeholder image 2"
+    title: "Top 10 Must-Have Skills for a Product Manager"
+    excerpt: 'Discover the essential skills required for excelling as a Product Manager across various organizations.'
+    url: "/assets/images/nick-fewings-EkyuhD7uwSM-unsplash.jpeg"
+    btn_label: "Read More"
+    btn_class: "btn--info"
 author: 
   - title: "Art Kreimer"
     excerpt: 'Product Leader writing about AI, Machine Learning, Leadership and Product Management.'
     url: "https://www.artkreimer.com/about/"
     btn_label: "About Me"
-    btn_class: "btn--info"
+    btn_class: "btn--primary"
 ---
 
 <!-- {% include feature_row id="intro" type="center" %} -->
@@ -77,8 +86,10 @@ author:
 ## Product Management
 {% include feature_row id="feature_row" %}
 
+{% include feature_row id="feature_row3" %}
+
+## AI/ML
 {% include feature_row id="feature_row2" type="left" %}
 
-{% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="author" type="center" %}
+## About Author
+{% include feature_row id="author" type="left" %}
