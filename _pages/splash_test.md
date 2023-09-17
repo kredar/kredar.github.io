@@ -11,7 +11,7 @@ header:
 excerpt: "Articles and resources on Product Management, Leadership and AI"
 # intro: 
 #   - excerpt: "Articles and resources on Product Management, Leadership and AI"
-
+author_profile: true
 feature_row0:
   - image_path: /assets/images/feature_row/resume_bot_f.jpg
     alt: "placeholder image 2"
