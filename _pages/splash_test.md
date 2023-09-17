@@ -60,12 +60,12 @@ feature_row3:
     url: "https://www.artkreimer.com/Must-read-Books-for-Product-Managers/"
     btn_label: "Read More"
     btn_class: "btn--info"
-# image 2
-  - image_path: /assets/images/christin-hume-k2Kcwkandwg-unsplash.jpg
+feature_row4:
+  - image_path: /assets/images/nick-fewings-EkyuhD7uwSM-unsplash.jpeg
     alt: "placeholder image 2"
     title: "Top 10 Must-Have Skills for a Product Manager"
     excerpt: 'Discover the essential skills required for excelling as a Product Manager across various organizations.'
-    url: "/assets/images/nick-fewings-EkyuhD7uwSM-unsplash.jpeg"
+    url: "https://www.artkreimer.com/Top-Ten-Product-Manager-Must-Have-Skills/"
     btn_label: "Read More"
     btn_class: "btn--info"
 author: 
@@ -86,10 +86,12 @@ author:
 ## Product Management
 {% include feature_row id="feature_row" %}
 
-{% include feature_row id="feature_row3" %}
+{% include feature_row id="feature_row3" type="left"%}
+{% include feature_row id="feature_row3" type="right" %}
+
 
 ## AI/ML
 {% include feature_row id="feature_row2" type="left" %}
 
-## About Author
-{% include feature_row id="author" type="left" %}
+
+{% include feature_row id="author" type="centre" %}
