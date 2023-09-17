@@ -75,3 +75,14 @@ feature_row3:
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="right" %}
+
+
+{% capture notice-2 %}
+<figure style="width: 20%" class="align-left">
+  <img src="/assets/images/bio_image_il.jpeg" alt="">
+</figure>
+**Art Kreimer**:
+Product Leader writing about AI, Machine Learning, Leadership and Product Management.
+{% endcapture %}
+
+<div class="notice">{{ notice-2 | markdownify }}</div>
