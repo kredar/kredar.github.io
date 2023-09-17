@@ -83,6 +83,18 @@ feature_row3:
 </figure>
 **Art Kreimer**:
 Product Leader writing about AI, Machine Learning, Leadership and Product Management.
+
 {% endcapture %}
 
 <div class="notice">{{ notice-2 | markdownify }}</div>
+
+<div class="notice--primary" markdown="1">
+<figure style="width: 20%" class="align-left">
+  <a href="https://www.artkreimer.com/about/" title="About Me" alt="Art Kreimer photo">
+  <img src="/assets/images/bio_image_il.jpeg" alt="Art Kreimer photo"></a>
+  <figcaption>Image caption.</figcaption>
+</figure>
+<p>**Art Kreimer**<br>
+Product Leader writing about AI, Machine Learning, Leadership and Product Management.</p>
+
+</div>
