@@ -9,7 +9,7 @@ header:
   caption: "Photo by: [**Susan Q Yin**](https://unsplash.com/@syinq?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com/s/photos/books?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
   teaser: /assets/images/susan-q-yin-2JIvboGLeho-unsplash.jpg
 show_date: true
-classes: wide
+#classes: wide
 author_profile: true
 published: true
 date: July 30, 2021

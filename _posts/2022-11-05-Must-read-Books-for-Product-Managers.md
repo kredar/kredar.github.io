@@ -10,7 +10,7 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Photo by: [**Christin Hume**](https://unsplash.com/@christinhumephoto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com/s/photos/reading?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 show_date: true
-classes: wide
+#classes: wide
 author_profile: true
 published: true
 comments: true
@@ -193,7 +193,10 @@ There are a lot of great books out there, and there are a lot of books on Produc
 
 I recently found this great book recommendation visual guide on [Delibr](https://www.delibr.com/post/visual-guide-to-the-best-books-on-product-management). 
 
-{% include figure image_path="/assets/images/Best Product Management Books Guide.png" alt="Best Books for PMs by Delibr" caption="Visual Guide to the best books on product management" %}
+<figure style="width: 50%" class="align-center">
+  <img src="/assets/images/Best Product Management Books Guide.png" alt="Best Books for PMs by Delibr">
+</figure>
+<!-- {% include figure image_path="/assets/images/Best Product Management Books Guide.png" alt="Best Books for PMs by Delibr" caption="Visual Guide to the best books on product management" %} -->
 
 Although I agree with most of these book recommendations, I would like to expand and add more books to the list. I might even update the visual at some point.
 

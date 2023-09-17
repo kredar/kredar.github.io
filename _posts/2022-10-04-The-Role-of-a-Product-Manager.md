@@ -10,7 +10,7 @@ header:
   teaser: /assets/images/campaign-creators-gMsnXqILjp4-unsplash.jpeg
 show_date: true
 author_profile: true
-classes: wide
+#classes: wide
 #layout: splash
 published: true
 comments: true

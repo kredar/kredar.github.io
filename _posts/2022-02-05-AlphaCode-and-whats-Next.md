@@ -8,7 +8,7 @@ tags:
 #layout: splash
 show_date: true
 author_profile: true
-classes: wide
+#classes: wide
 published: true
 header:
   overlay_image: /assets/images/alphacode.jpg
