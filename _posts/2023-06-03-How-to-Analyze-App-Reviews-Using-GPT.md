@@ -1,6 +1,6 @@
 ---
 title: "NLP and Text Analytics using foundational LLMs"
-excerpt: "Learn how Large Language Models simplify sentiment analysis, emotion detection, and topic extraction, all in just two API calls."
+excerpt: "Learn Large Language Models simplify sentiment analysis, emotion detection, and topic extraction, all in just two API calls."
 tags:
   - NLP
   - LLM

@@ -1,12 +1,12 @@
 ---
-title: "The Future-Ready PM: Navigating AI and ML - Part 2"
+title: "The future-ready PM: Navigating AI and ML - Part 2"
 excerpt: "Learn how to navigate critical issues like bias, black-box algorithms, and data security, while setting up for ongoing success through continuous evaluation."
 tags:
   - AI
   - Product Management
 header:
   overlay_image: /assets/images/header/ai_primer_2_h.jpg
-  overlay_filter: 0.7 # same as adding an opacity of 0.7 to a black background
+  overlay_filter: 0.5 # same as adding an opacity of 0.7 to a black background
   # caption: "Photo by [Steve Johnson](https://unsplash.com/@steve_j?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com/photos/ZPOoDQc8yMw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
   teaser: /assets/images/feature_row/ai_primer_2_f.jpg
 show_date: true

@@ -1,12 +1,12 @@
 ---
-title: "The Future-Ready PM: Navigating AI and ML - Part 1"
+title: "The future-ready PM: Navigating AI and ML - Part 1"
 excerpt: "Learn the key insights every PM should know to leverage Artificial Intelligence and Machine Learning for gaining a competitive edge in product development."
 tags:
   - AI
   - Product Management
 header:
   overlay_image: /assets/images/header/ai_primer_h.jpg
-  overlay_filter: 0.7 # same as adding an opacity of 0.7 to a black background
+  overlay_filter: 0.5 # same as adding an opacity of 0.7 to a black background
   # caption: "Photo by [Steve Johnson](https://unsplash.com/@steve_j?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com/photos/ZPOoDQc8yMw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
   teaser: /assets/images/feature_row/ai_primer_f.jpg
 show_date: true

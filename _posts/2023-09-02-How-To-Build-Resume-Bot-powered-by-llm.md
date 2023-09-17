@@ -1,5 +1,5 @@
 ---
-title: "How to Build a Resume Chatbot using the power of LLMs"
+title: "How to build a resume chatbot using the power of LLMs"
 excerpt: "Unlock the potential of RAG architecture and foundational LLM in building an advanced resume chatbot."
 tags:
   - NLP
@@ -8,7 +8,7 @@ tags:
   - Conversational AI
 header:
   overlay_image: /assets/images/header/resume_bot_h.jpg
-  overlay_filter: 0.7 # same as adding an opacity of 0.7 to a black background
+  overlay_filter: 0.5 # same as adding an opacity of 0.7 to a black background
   caption: "Image by: [**Midjourney**](https://www.midjourney.com/app/)"
   teaser: /assets/images/feature_row/resume_bot_f.jpg
 show_date: true

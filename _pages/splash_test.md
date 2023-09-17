@@ -5,7 +5,7 @@ permalink: /splash-page/
 date: 2023-09-16T11:48:41-04:00
 header:
   overlay_color: "#000"
-  overlay_filter: "0.7"
+  overlay_filter: 0.7
   overlay_image: /assets/images/joshua-woroniecki-laptop.jpg
   caption: "Photo by [Joshua Woroniecki](https://unsplash.com/@joshua_j_woroniecki?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com/photos/lzh3hPtJz9c?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 excerpt: "Articles and resources on Product Management, Leadership and AI"
@@ -65,18 +65,13 @@ feature_row3:
 
 <!-- {% include feature_row id="intro" type="center" %} -->
 
-{% include feature_row id="feature_row" type="left"  %}
+
 ## Latest Post
 
-{% include feature_row id="feature_row0" %}
+{% include feature_row id="feature_row0" type="left"  %}
 
 ## Product Management
-
-{% include feature_row id="feature_row2" type="left" %}
-
-
-
-
+{% include feature_row id="feature_row" %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
