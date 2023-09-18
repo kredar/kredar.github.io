@@ -1,14 +1,14 @@
 ---
 title: "Navigating AI and Product Management"
+excerpt: "Articles and resources on Product Management, Leadership and Artificial Intelligence"
 layout: splash
 permalink: /splash-page/
 date: 2023-09-16T11:48:41-04:00
 header:
-  overlay_color: "#000"
+  # overlay_color: "#000"
   overlay_filter: 0.6
   overlay_image: /assets/images/header/joshua-woroniecki-laptop.jpg
   caption: "Photo by [Joshua Woroniecki](https://unsplash.com/@joshua_j_woroniecki?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com/photos/lzh3hPtJz9c?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
-  excerpt: "Articles and resources on Product Management, Leadership and Artificial Intelligence"
 
 feature_row0:
   - image_path: /assets/images/feature_row/resume_bot_f.jpg
@@ -50,7 +50,7 @@ feature_row3:
   - image_path: /assets/images/christin-hume-k2Kcwkandwg-unsplash.jpg
     alt: "placeholder image 2"
     title: "Essential reading list for Product Managers"
-    excerpt: 'From seasoned experts to aspiring PMs, this list of must-read books covers all the bases. Discover the reads that will sharpen your skills and mindset.'
+    excerpt: "From seasoned experts to aspiring PMs, this list of must-read books covers all the bases. Discover the reads that will sharpen your skills and mindset."
     url: "https://www.artkreimer.com/Must-read-Books-for-Product-Managers/"https://www.artkreimer.com/Must-read-Books-for-Product-Managers/
     btn_label: "Read More"
     btn_class: "btn--info"
@@ -58,7 +58,7 @@ feature_row3:
   - image_path: /assets/images/nick-fewings-EkyuhD7uwSM-unsplash.jpeg
     alt: "placeholder image 2"
     title: "Top 10 must-have skills for a Product Manager"
-    excerpt: 'Discover the essential skills required for excelling as a Product Manager across various organizations.'
+    excerpt: "Discover the essential skills required for excelling as a Product Manager across various organizations."
     url: "https://www.artkreimer.com/Top-Ten-Product-Manager-Must-Have-Skills/"
     btn_label: "Read More"
     btn_class: "btn--info"
@@ -66,7 +66,7 @@ feature_row3:
   - image_path: /assets/images/campaign-creators-gMsnXqILjp4-unsplash.jpeg
     alt: "placeholder image 2"
     title: "The role of a Product Manager"
-    excerpt: 'What is Product Management and What is the Role of a Product Manager?'
+    excerpt: "What is Product Management and What is the Role of a Product Manager?"
     url: "https://www.artkreimer.com/The-Role-of-a-Product-Manager/"
     btn_label: "Read More"
     btn_class: "btn--info"
@@ -75,14 +75,14 @@ feature_row4:
   - image_path: /assets/images/feature_row/openai_f.jpg
     alt: "Text Analytics"
     title: "NLP and text analytics using foundational LLMs"
-    excerpt: 'Learn how you can leverage Large Language Models to simplify sentiment analysis, emotion detection, and topic extraction.'
+    excerpt: "Learn how you can leverage Large Language Models to simplify sentiment analysis, emotion detection, and topic extraction."
     url: "https://www.artkreimer.com/How-to-Analyze-App-Reviews-Using-GPT/"
     btn_label: "Read More"
     btn_class: "btn--info"
-    
+
 author: 
   - title: "Art Kreimer"
-    excerpt: 'Product Leader writing about AI, Machine Learning, Leadership and Product Management.'
+    excerpt: "Product Leader writing about AI, Machine Learning, Leadership and Product Management."
     url: "https://www.artkreimer.com/about/"
     btn_label: "About Me"
     btn_class: "btn--primary"
