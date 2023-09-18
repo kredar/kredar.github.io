@@ -8,7 +8,8 @@ header:
   overlay_filter: 0.6
   overlay_image: /assets/images/header/joshua-woroniecki-laptop.jpg
   caption: "Photo by [Joshua Woroniecki](https://unsplash.com/@joshua_j_woroniecki?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com/photos/lzh3hPtJz9c?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
-excerpt: "Articles and resources on Product Management, Leadership and Artificial Intelligence"
+  excerpt: "Articles and resources on Product Management, Leadership and Artificial Intelligence"
+
 feature_row0:
   - image_path: /assets/images/feature_row/resume_bot_f.jpg
     alt: "placeholder image 2"
@@ -17,6 +18,7 @@ feature_row0:
     url: "https://www.artkreimer.com/How-To-Build-Resume-Bot-powered-by-llm/"
     btn_label: "Read More"
     btn_class: "btn--info"
+
 feature_row:
     # image 1
   - image_path: /assets/images/feature_row/ai_primer_2_f.jpg
@@ -42,6 +44,7 @@ feature_row:
     url: "https://www.artkreimer.com/Useful-Mental-Models-for-Product-Managers/"
     btn_label: "Read More"
     btn_class: "btn--info"
+
 feature_row3:
 # image 1
   - image_path: /assets/images/christin-hume-k2Kcwkandwg-unsplash.jpg
@@ -67,6 +70,7 @@ feature_row3:
     url: "https://www.artkreimer.com/The-Role-of-a-Product-Manager/"
     btn_label: "Read More"
     btn_class: "btn--info"
+
 feature_row4:
   - image_path: /assets/images/feature_row/openai_f.jpg
     alt: "Text Analytics"
@@ -75,6 +79,7 @@ feature_row4:
     url: "https://www.artkreimer.com/How-to-Analyze-App-Reviews-Using-GPT/"
     btn_label: "Read More"
     btn_class: "btn--info"
+    
 author: 
   - title: "Art Kreimer"
     excerpt: 'Product Leader writing about AI, Machine Learning, Leadership and Product Management.'
