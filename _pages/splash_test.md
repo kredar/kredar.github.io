@@ -5,7 +5,7 @@ permalink: /splash-page/
 date: 2023-09-16T11:48:41-04:00
 header:
   overlay_color: "#000"
-  overlay_filter: 0.7
+  overlay_filter: 0.6
   overlay_image: /assets/images/header/joshua-woroniecki-laptop.jpg
   caption: "Photo by [Joshua Woroniecki](https://unsplash.com/@joshua_j_woroniecki?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com/photos/lzh3hPtJz9c?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 excerpt: "Articles and resources on Product Management, Leadership and Artificial Intelligence"
@@ -50,7 +50,7 @@ feature_row3:
     alt: "placeholder image 2"
     title: "Essential reading list for Product Managers"
     excerpt: 'From seasoned experts to aspiring PMs, this list of must-read books covers all the bases. Discover the reads that will sharpen your skills and mindset.'
-    url: "https://www.artkreimer.com/Must-read-Books-for-Product-Managers/"
+    url: "https://www.artkreimer.com/Must-read-Books-for-Product-Managers/"https://www.artkreimer.com/Must-read-Books-for-Product-Managers/
     btn_label: "Read More"
     btn_class: "btn--info"
 # image 2

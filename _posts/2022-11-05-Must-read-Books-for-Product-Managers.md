@@ -14,6 +14,8 @@ show_date: true
 author_profile: true
 published: true
 comments: true
+toc: true
+toc_sticky: true
 
 feature_row1:
   - image_path: /assets/images/never_split_the_diff.jpeg
@@ -180,9 +182,7 @@ feature_row7: #DONE
     btn_class: "btn--primary"
     tags:
         - Management
-  toc: true
-  toc_sticky: true
-  comments: true
+
 ---
 
 I love reading books. Books are containers of knowledge and wisdom - we can all learn something from every book we read.
