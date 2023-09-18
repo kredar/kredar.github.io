@@ -23,7 +23,7 @@ comments: true
 #     label: "comment" # Optional - must be existing label.
 
 ---
-In my previous post, I covered the [definition of Product Management and a role of a product manager](https://www.artkreimer.com/The-Role-of-a-Product-Manager/) . And in this post, I will go over the 10 must-have skills to be a successful PM in any organization. 
+In my previous post, I covered the [definition of Product Management and the role of a product manager](https://www.artkreimer.com/The-Role-of-a-Product-Manager/). In this post, I will review the 10 must-have skills to be a successful PM in any organization. 
 
 ## 1. Communication
 
@@ -31,11 +31,11 @@ The core of PM’s work is Communication. Great PMs have strong verbal and writt
 
 ## 2. Leadership
 
-PMs are servant leaders, leading and persuading without authority. They inspire and motivate others to work towards a clear, compelling vision. They not only motivate product team members, but also provide thought leadership and mentorship to younger PMs and actively assist them in expanding and developing skills and knowledge.
+PMs are servant leaders, leading and persuading without authority. They inspire and motivate others to work towards a clear, compelling vision. They motivate product team members, provide thought leadership and mentorship to younger PMs, and actively assist them in expanding and developing skills and knowledge.
 
 ## 3. Execution
 
-Execution (aka, getting **sh\*t** done) is another must-have skill for any Product Manager. Great PMs obsess about understanding the problem - they have a stubborn focus on understanding, refining, and articulating the problem (or opportunity) to the team. They think big but always start small to ship and learn faster from the small product increments. They focus not on features but on the whole customer experience. They keep the team aligned on vision, goals, and strategy, ensuring that team priorities are clear and trade-offs are well understood. Execution is not a one skill, but a collection of skills from problem discovery to marketing campaigns but it at the core of being great PM - Great PMs do whatever it takes to get sh*t done and deliver value to their users.  
+Execution (aka, getting **sh\*t** done) is another must-have skill for any Product Manager. Great PMs obsess about understanding the problem - they stubbornly focus on understanding, refining, and articulating the problem (or opportunity) to the team. They think big but always start small to ship and learn faster from the small product increments. They focus on more than just features but on the whole customer experience. They keep the team aligned on vision, goals, and strategy, ensuring that team priorities are clear and trade-offs are well understood. Execution is not one skill but a collection of skills from problem discovery to marketing campaigns it is at the core of being a great PM - Great PMs do whatever it takes to get sh*t done and deliver value to their users.  
 
 ## 4. Data Analytics and Customer insights
 
@@ -43,11 +43,11 @@ PMs always leverage data to uncover problems and opportunities. They constantly 
 
 ## 5. Collaboration
 
-PMs are the connective tissue between business, design and technology. They are master facilitators, and this includes: *actively participating in meetings, leading meetings, running squad processes, solving problems with other squads, and appropriately avoiding and diffusing conflict.* They build engaged, high-performing collaborative and inclusive teams, ensuring they fully leverage the best from those around them. They can handle hard conversations and diffuse any conflict situations. They can effectively negotiate ambiguous situations and drive rapid decisions. They proactively look for opportunities to improve how to work well together within the team and across teams.
+PMs are the connective tissue between business, design and technology. They are master facilitators, including *actively participating in meetings, leading meetings, running squad processes, solving problems with other squads, and appropriately avoiding and diffusing conflict.* They build engaged, high-performing, collaborative and inclusive teams, ensuring they fully leverage the best from those around them. They can handle hard conversations and diffuse any conflict situations. They can effectively negotiate ambiguous situations and drive rapid decisions. They proactively look for opportunities to improve how to work well together within the team and across teams.
 
 ## 6. User Empathy
 
-User empathy entails truly understanding the user’s wants, needs, and pains. PMs must understand what motivates users and *why* they act in specific ways. They constantly collect data to understand customer behaviours better; this includes: *conducting surveys, user interviews, prototyping, A/B testing, usability testing, understanding and representing different user types and their needs, and synthesizing user science into insight*. They are recognized internally as experts in customer needs in their product area.
+User empathy entails truly understanding the user’s wants, needs, and pains. PMs must understand what motivates users and *why* they act in specific ways. They constantly collect data to better understand customer behaviours, including *conducting surveys, user interviews, prototyping, A/B testing, usability testing, understanding and representing different user types and their needs and synthesizing user science into insight*. They are recognized internally as experts in customer needs in their product area.
 
 ## 7. Strategic Thinking
 
@@ -59,7 +59,7 @@ Great PMs create a broad, long-term vision for their product using a deep unders
 
 ## 9. Planning and Goal Settings
 
-Great PMs are always thinking about outcomes and not outputs. They define SMART[^1] goals that are realistic yet aggressive and get buy-in from both their team and management around them. They ensure the product team is focused on the defined objectives, operating seamlessly with minimal blockage, and shipping high-quality products according to planned releases and milestones.
+Great PMs are always thinking about outcomes rather than outputs. They define SMART[^1] goals that are realistic yet aggressive and get buy-in from both their team and management around them. They ensure the product team is focused on the defined objectives, operating seamlessly with minimal blockage and shipping high-quality products according to planned releases and milestones.
 
 ## 10. Technical Knowledge
 

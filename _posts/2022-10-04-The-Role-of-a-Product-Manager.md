@@ -23,17 +23,17 @@ comments: true
 ---
 Let’s start with a definition of a Product. 
 
-> A product is any good or service a company offers or sells to serve customer needs and wants. Products can be physical or virtual and users of the product can be internal company users or external users. 
-{: .notice}
+A product is any good or service a company offers or sells to serve customer needs and wants. Products can be physical or virtual and users of the product can be internal company users or external users. 
+{: .notice-info}
 
-Now let's define the Product Management function. Here is the definition from [Wikipedia](https://en.wikipedia.org/wiki/Product_management):
+Now, let's define the Product Management function. Here is the definition from [Wikipedia](https://en.wikipedia.org/wiki/Product_management):
 
-> Product management is the business process of planning, developing, launching, and managing a product or service. It includes the entire lifecycle of a product, from ideation to development to go to market. Product managers are responsible for ensuring that a product meets the needs of its target market and contributes to the business strategy, while managing a product or products at all stages of the product lifecycle. Software product management adapts the fundamentals of product management for digital products.
+Product management involves planning, developing, launching, and managing a product or service. It includes the entire lifecycle of a product, from ideation to development to going to market. Product managers are responsible for ensuring that a product meets the needs of its target market and contributes to the business strategy while managing a product or products at all stages of the product lifecycle. Software product management adapts the fundamentals of product management for digital products.
 {: .notice--info}
 
 In a nutshell, Product Management is a business function responsible for delivering products that make customers happy and drive business growth. It's a role at the very heart of an organization that must balance the need to deliver value to the company (usually profit) with what customers want and what's technically and operationally possible.
 
-Product Management it’s not something that’s clearly defined and its process varies from company to company. It's because Product Management is not a precise science - it’s a combination of Art and Science, with **Art** being a bigger portion of the mixture. Product Management responsibilities span from setting strategic objectives to tactical activities, including:
+Product Management is not something that’s clearly defined, and its process varies from company to company. It's because Product Management is not a precise science - it’s a combination of Art and Science, with **Art** being a bigger portion of the mixture. Product Management responsibilities span from setting strategic objectives to tactical activities, including:
 
 - Setting a product vision and strategy that is differentiated and delivers unique value based on customer needs and wants.
 - Defining and prioritizing what the product team will deliver and the timeline for implementation, including creating a product roadmap and release plan, capturing actionable feedback and ideas, and prioritizing features.
@@ -41,22 +41,22 @@ Product Management it’s not something that’s clearly defined and its process
 - Communicating progress and keeping everyone informed.
 - Analyzing product success and tracking product metrics to determine the success of your offering.
 
-Now that we discussed the Product Management process and activities, let’s talk about the Product Manager - a mythical creature that has to manage all these activities.
+Now that we discussed the Product Management process and activities let’s talk about the Product Manager - a mythical creature that has to manage all these activities.
 
 ## Who is the Product Manager?
 
-First thing first - Product managers are NOT people managers [^1]. Starting from Lead PMs and/or Group PMs they would start managing other PMs, but in a nutshell, Product Managers manage `Products` and not `People`. They don't have direct reports, and they don't have authority over other product team members [^2]. They are also not "CEOs" of the product, but they are fully responsible for the success or failure of the product they are managing [^3], and paraphrasing [Andy Grove](https://en.wikipedia.org/wiki/Andrew_Grove#Writing_and_teaching), a product manager's output is the output of their team.
+First thing first - Product managers are NOT people managers [^1]. Starting from Lead PMs and/or Group PMs, they would start managing other PMs, but in a nutshell, Product Managers manage Products, not `People`. They don't have direct reports, and they don't have authority over other product team members [^2]. They are also not "CEOs" of the product, but they are fully responsible for the success or failure of the product they are managing [^3], and paraphrasing [Andy Grove](https://en.wikipedia.org/wiki/Andrew_Grove#Writing_and_teaching), a product manager's output is the output of their team.
 
 > "Good product managers take full responsibility and measure themselves in terms of the success of the product."
 {: .notice}
 
-A Product Manager is a bridge, a connecting tissue between business, design and technology. They crisply define the target, the "**what**" and "**why**" and work with their product team to determine the "**how**." PMs are also the voice of the customer, truly understanding the customer's wants, needs, and pains. They use this knowledge to drive product decisions maximizing the value to their customers and their company. 
+A Product Manager is a bridge, a connecting tissue between business, design and technology. They crisply define the target, the "**what**" and "**why**" and work with their product team to determine the "**how**." PMs are also the voice of the customer, truly understanding the customer's wants, needs, and pains. They use this knowledge to drive product decisions, maximizing the value to their customers and their company. 
 
-I love this visual from [Userlane Blog](https://www.userlane.com/product-management-skills/) emphasizing the importance of PM being the customer's advocate:
+I love this visual from the [Userlane Blog](https://www.userlane.com/product-management-skills/) emphasizing the importance of PM being the customer's advocate:
 
 ![The Role of the Product Manager](https://www.userlane.com/wp-content/uploads/2021/02/hero-images-july-03.png)
 
-A Product Manager together with the product team (UX Lead, Dev lead and devs) have to address the following 4 product risks:[^4]
+A Product Manager together with the product team (UX Lead, Dev lead and devs) has to address the following 4 product risks:[^4]
 
 1. *value* risk - whether customers will buy a product or users will choose to use it
 2. *usability* risk - whether users can figure out how to use it 
@@ -83,11 +83,11 @@ A TPM is like a regular PM, but the product they own is deeply technical, like P
 
 ### The Analytics/Data Science/AI Product Manager
 
-Pretty self-explanatory title. These are more specialized TPMs, more adept at data management, analysis and AI. They are not only skilful at Python, Data Analytics, or SQL, but they also acknowledge the importance of their suggestions to affect business decisions. It is a great start for a data science engineer that wants to transition into Product Management.  
+It's a pretty self-explanatory title. These are more specialized TPMs, more adept at data management, analysis and AI. They are not only skillful at Python, Data Analytics, or SQL, but they also acknowledge the importance of their suggestions to affect business decisions. It is a great start for a data science engineer who wants to transition into Product Management.  
 
 ### Growth PM
 
-The Growth-Focused Product Manager has a more direct commercial impact than other roles. A Growth PM works closely with other Product Managers to build growth flywheels to drive acquisition, activation, retention, revenue, and referrals. By owning a metric rather than an entire product, a Growth PM run a series of short-term experiments, working on a micro rather than a macro level.  
+The Growth-Focused Product Manager has a more direct commercial impact than other roles. A Growth PM works closely with other Product Managers to build growth flywheels to drive acquisition, activation, retention, revenue, and referrals. By owning a metric rather than an entire product, Growth PMs run a series of short-term experiments, working on a micro rather than a macro level.  
 
 ### Enterprise PM
 
@@ -95,18 +95,16 @@ Enterprise PMs typically manage a part of the big enterprise product. They need 
 
 ### Startup PM or Venture PM
 
-Product managers in small startups are like the Ultimate Swiss Army knife – they do everything. They are exposed to multiple disciplines and the overall business running.  
-
-
+Product managers in small startups are like the Ultimate Swiss Army knife – they do everything. They are exposed to multiple disciplines and the overall business running. 
 
 ## Summary
 
-To summarize, Great PMs are experts in their domain, they are top-class communicators and master storytellers, they are simultaneously empathetic and analytical, qualitative and quantitative, have great attention to detail and think big, and are both creative innovators and rigorous optimizers. And most of all, they do whatever it takes to deliver valuable outcomes for their users, team, and company - whatever it takes to deliver business impact.  
+To summarize, Great PMs are experts in their domain, they are top-class communicators and master storytellers, they are simultaneously empathetic and analytical, qualitative and quantitative, have excellent attention to detail and think big, and are both creative innovators and rigorous optimizers. And most of all, they do whatever it takes to deliver valuable outcomes for their users, team, and company - whatever it takes to deliver business impact.  
 
 
 
 
 [^1]: The focus here is on Product Managers and not Managers of Product Managers, ie Group Product Manager, Dir of Product, etc
 [^2]: A product team is a core team that is working on a specific product. It usually consists of at least 3 individuals (Trifecta team) - Product Manager, UX/UI Designer and Engineering lead with engineering team (dev and QA). Depending on a product and its complexity it can include Data Analyst, AI/ML engineering, etc. This is a team that can work and deliver value to the customers at the end of the sprint.
-[^3]: I disagree with this definition - "A good product manager is the CEO of the product". CEO means that Product Manager has some authority over the product or the team. Nevertheless  "Good Product Manager/Bad Product Manager" by Ben Horowitz is a must-read.
+[^3]: I disagree with this definition - "A good product manager is the CEO of the product." CEO means that the Product Manager has some authority over the product or the team. Nevertheless  "Good Product Manager/Bad Product Manager" by Ben Horowitz is a must-read.
 [^4]: Marty Cagan [The Four Big Risks](https://www.svpg.com/four-big-risks/)

@@ -24,25 +24,25 @@ comments: true
 
 ## Introduction
 
-A couple of weeks ago, I completed a short course on prompt engineering - **"ChatGPT Prompt Engineering For Developers"** by [DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/). The best part is, it's available for free, but only for a limited time! 
+A couple of weeks ago, I completed a short course on prompt engineering - **"ChatGPT Prompt Engineering For Developers"** by [DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/). The best part is it's free but only for a limited time! 
 
 The course provided me with valuable insights into prompt engineering techniques, which further fueled my enthusiasm for exploring the vast capabilities of Language Models. Eager to put my newfound knowledge to the test, I decided to write a script to analyze Android app reviews using the power of an LLM. 
 
 Gone are the days of spending countless hours and extensive data to build specific ML models for sentiment analysis, emotion detection, topic extraction, and summarization. Thanks to Large Language Models, this can now be achieved with clever prompts and several API calls. It's absolutely mind-boggling 🤯!
 
-Utilizing the techniques I learned in the course and playing with prompts,  I was able to get the sentiment, emotions, topics, summary and auto-generated response in just two API calls. Although it's possible to achieve everything in one API call, it can get too lengthy, longer than allowed number of tokens in one API call, I decided to split them into 2 API calls. 
+Utilizing the techniques I learned in the course and playing with prompts,  I was able to get the sentiment, emotions, topics, summary and auto-generated response in just two API calls. Although it's possible to achieve everything in one API call, it can get too lengthy, longer than the allowed number of tokens in one API call, I decided to split them into 2 API calls. 
 
 ## Prompts
 
 The first prompt, a straightforward zero-shot learning task, requests GPT to generate the following:
 
-1. One-Sentence Summary: A succinct summary of each review.
+1. One-sentence Summary: A succinct summary of each review.
 2. App Review Sentiment: Determination of whether reviews are positive, negative, or neutral.
 3. Emotion Detection: Interpretation of the emotions conveyed in the reviews.
 4. Anger and Frustration: These emotions are singled out for separate analysis.
 5. Topic Extraction: Identification of the main topics discussed in the reviews.
 
-I've requested GPT to deliver the response in JSON format for seamless integration into my dataframe. Despite the prompt's simplicity, achieving optimal results required considerable experimentation and tuning. For instance, the GPT-3.5 turbo model results were inconsist and occasionally failed to return the requested JSON format. Adding `Make sure the output is in a valid JSON format` at the end of the prompt resolved this issue. However, for production-level applications, more rigorous testing and exception handling would be necessary.
+I've requested GPT to deliver the response in JSON format for seamless integration into my dataframe. Despite the prompt's simplicity, achieving optimal results required considerable experimentation and tuning. For instance, the GPT-3.5 turbo model results were inconsistent and occasionally failed to return the requested JSON format. Adding `Make sure the output is in a valid JSON format` at the end of the prompt resolved this issue. However, more rigorous testing and exception handling would be necessary for production-level applications.
 
 ```python
 """Your task is to perform the following actions\
@@ -64,7 +64,7 @@ summary, sentiment, emotions, anger as a boolean, frustration as boolean, topics
 Review: ```{review}```"""
 ```
 
-The second prompt aims to generate responses to app reviews. To achieve more consistent results, I've employed a few-shot learning approach. In the `responses_training_prompt`, I've incorporated five actual responses from the past to guide the learning process. These five instances of app reviews and corresponding responses proved sufficient in yielding consistent and high-quality responses.
+The second prompt aims to generate responses to app reviews. To achieve more consistent results, I've employed a few-shot learning approach. In the `responses_training_prompt`, I've incorporated five actual responses from the past to guide the learning process. These five instances of app reviews and corresponding responses yielded consistent and high-quality responses.
 
 ```python
 prompt = f"""
@@ -118,7 +118,7 @@ df_reviews.head()
 last_100_reviews_df=df_reviews[df_reviews['score']<4][0:100]
 ```
 
-Then we are going to add new columns to our data frame:
+Then, we are going to add new columns to our data frame:
 
 ```python
 ## I want to detect the following using openai api
@@ -131,7 +131,7 @@ last_100_reviews_df['topics']=''
 last_100_reviews_df['review_response']=''
 ```
 
-We'll establish a helper function to invoke the OpenAI API. I've opted for the `gpt-3.5-turbo` model, given its speed and effectiveness I thought it should be good for app review analysis. To enhance consistency and minimize randomness, I've set the `temperature` parameter to **0**.
+We'll establish a helper function to invoke the OpenAI API. I've opted for the `gpt-3.5-turbo` model. Given its speed and effectiveness, I thought it should be good for app review analysis. To enhance consistency and minimize randomness, I've set the `temperature` parameter to **0**.
 
 ```python
 def get_completion(prompt, model="gpt-3.5-turbo"):
@@ -219,13 +219,13 @@ Make sure the output is a valid JSON format.
     last_100_reviews_df.at[index, 'review_response']=response_json['response']
 ```
 
-And there you have it! In roughly a hundred lines of code, we've managed to determine sentiment, identify emotions, extract topics, summarize reviews, and generate plausible responses.
+And there you have it! In roughly a hundred lines of code, we've determined sentiment, identified emotions, extracted topics, summarized reviews, and generated plausible responses.
 
 ## Findings and Conclusion
 
 Key takeaways from my exploration with LLMs: they're akin to magic wands for NLP tasks, but they're not without their quirks.
 
-1. Crafting the right prompt is crucial. It's no wonder Prompt Engineering is emerging as a profession. Despite completing the [Deeplearning.AI course](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/), I had to experiment extensively with the phrasing to get desired outcomes. Resources like [PromptingGuide](https://www.promptingguide.ai/) proved beneficial. It's about trial and error with various prompt styles and language nuances.
+1. Crafting the right prompt is crucial. It's no wonder Prompt Engineering is emerging as a profession. Despite completing the [Deeplearning.AI course](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/), I had to experiment extensively with the phrasing to get the desired outcomes. Resources like [PromptingGuide](https://www.promptingguide.ai/) proved beneficial. It's about trial and error with various prompt styles and language nuances.
 2. The performance was commendable. If I were manually summarizing or extracting sentiment, the results would likely be comparable.
 3. The GPT-3.5 Turbo model I used was somewhat slow. It's adequate for offline analysis but may lag for real-time applications. I intend to explore cheaper and faster GPT-3 models, specifically Ada.
 4. Topic extraction was a mixed bag. While it worked decently for app reviews, it was hard to identify patterns in issues. The inconsistency in topic names and extraction of obvious or irrelevant topics were notable drawbacks. I plan to refine this process using varied prompts and post-processing techniques. More updates to follow.

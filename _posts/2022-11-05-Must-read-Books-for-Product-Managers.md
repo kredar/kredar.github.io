@@ -128,7 +128,7 @@ feature_row5: #DONE
     image_max_size: 10px
     alt: "Trillion Dollar Coach"
     title: "\"Trillion Dollar Coach\" by Eric Schmidt, Jonathan Rosenberg and Alan Eagle"
-    excerpt: "Coaching is a must-have skill for any manager, and Bill Campbell was probably one of the best business coaches. He coached leaders from Google, Apple, Intuit, and many other companies. He was a great coach, community builder, and just a great human being, and we all can learn from his legacy."
+    excerpt: "Coaching is a must-have skill for any manager, and Bill Campbell was probably one of the best business coaches. He coached leaders from Google, Apple, Intuit, and many other companies. He was a great coach, community builder, and human being, and we can all learn from his legacy."
     url: "https://amzn.to/3vHjUVi"
     btn_label: "Amazon"
     btn_class: "btn--primary"
@@ -180,6 +180,9 @@ feature_row7: #DONE
     btn_class: "btn--primary"
     tags:
         - Management
+  toc: true
+  toc_sticky: true
+  comments: true
 ---
 
 I love reading books. Books are containers of knowledge and wisdom - we can all learn something from every book we read.

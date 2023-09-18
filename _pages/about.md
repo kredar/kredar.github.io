@@ -6,7 +6,7 @@ toc: false
 header:
     overlay_image: /assets/images/IMG_4634-min.jpeg
     overlay_filter: 0.5
-classes: wide
+# classes: wide
 author_profile: false
 layout: single
 ---

@@ -13,17 +13,19 @@ show_date: true
 #classes: wide
 author_profile: true
 published: true
+toc: true
+toc_sticky: true
 comments: true
 
 ---
 
-Every day, we process a ton of information, learn new concepts, and make hundreds of small and big decisions. As product managers, one of our key responsibilities is to make important decisions that will impact the success of our product. To make effective decisions, we need to have a deep understanding of our users, our market, and our product, as well as a library of good mental models. 
+Every day, we navigate a sea of information, acquire new insights, and make a myriad of minor and significant decisions. As Product Managers, we bear the crucial responsibility of making key decisions that shape the future success of our product. Effective decision-making demands an in-depth understanding of our users, market, and product, augmented by a well-curated arsenal of mental models.
 
-What is a mental model? A mental model is a pattern, representation, or explanation of how something works. Our brains create patterns or models to understand complex information. We cannot keep all the details of the world in our brains, so we use models to simplify the complex into understandable and organized chunks. We use these models daily to think, make decisions, understand new concepts, and find solutions to problems. Each of us has hundreds, if not thousands, of mental models. While there are probably millions of mental models out there, not all of them are true or useful and you don’t have to know all of them. You should know the important ones. Let’s go over some of the most useful mental models for product managers.
+What is a mental model? A mental model is a pattern, representation, or explanation of how something works. Our brains create patterns or models to understand complex information. We cannot keep all the details of the world in our brains, so we use models to simplify the complex into understandable and organized chunks. We use these models daily to think, make decisions, understand new concepts, and find solutions to problems. Each of us has hundreds, if not thousands, of mental models. While there are probably millions of mental models out there, not all of them are true or useful, and you don’t have to know all of them. You should know the important ones. Let’s review some of the most useful mental models for product managers.
 
 ## The Pareto Principle
 
-The Pareto Principle, or the 80/20 rule, is a concept that states that 80% of the effects come from 20% of the causes. This principle can be applied to a variety of fields, including economics, engineering, and management. In product management, the principle can be applied in a number of ways. For example, it can be used to prioritize features for development. By identifying the top 20% of features that provide 80% of the value, product managers can ensure that their development efforts are focused on the most important features. Additionally, the principle can be used to identify areas for improvement in existing products. By analyzing which features provide the most value, product managers can identify areas where improvements can be made to increase the overall value of the product. Similarly, in the field of engineering, the principle can be used to identify the causes of defects in products. By focusing on the top 20% of the causes, engineers can eliminate 80% of the defects.
+The Pareto Principle, or the 80/20 rule, is a concept that states that 80% of the effects come from 20% of the causes. This principle can be applied to a variety of fields, including economics, engineering, and management. In product management, the principle can be applied in a number of ways. For example, it can be used to prioritize features for development. By identifying the top 20% of features that provide 80% of the value, product managers can ensure that their development efforts are focused on the most important features. Additionally, the principle can be used to identify areas for improvement in existing products. By analyzing which features provide the most value, product managers can identify areas where improvements can be made to increase the product's overall value. Similarly, in the field of engineering, the principle can be used to identify the causes of defects in products. By focusing on the top 20% of the causes, engineers can eliminate 80% of the defects.
 
 ## First Principles Thinking
 
@@ -32,11 +34,11 @@ There are many different methods and tools to get to the solutions, but the prin
 > "You have to start with the fundamental truth and reason up from there."
 {: .notice}
 
-People who understand the fundamental principles can use any method or come up with their own methods. But people who blindly use methods without understanding the underlying principles are bound to make mistakes. By applying first principles thinking to product development, you can challenge assumptions and come up with innovative solutions. The 5 Whys is a problem-solving technique that involves asking "why" five times to get to the root cause of a problem. By using this technique, you can identify the underlying causes of a problem and address them directly, rather than just treating the symptoms.
+People who understand the fundamental principles can use any method or come up with their own methods. However, people who blindly use methods without understanding the underlying principles are bound to make mistakes. By applying first principles thinking to product development, you can challenge assumptions and come up with innovative solutions. The 5 Whys is a problem-solving technique that involves asking "why" five times to get to the root cause of a problem. By using this technique, you can identify the underlying causes of a problem and address them directly, rather than just treating the symptoms.
 
 ## Second Order Thinking
 
-All of us can anticipate the immediate results of our actions. This is first-order thinking. Second-order thinking involves considering the subsequent effects of those actions, ie thinking further ahead - when making choices, considering consequences can help us avoid future problems. We must ask ourselves the critical question: “And then what?” Asking this question would help you to consider the potential long-term consequences of your choices and make more informed and strategic decisions.
+All of us can anticipate the immediate results of our actions. This is first-order thinking. Second-order thinking involves considering the subsequent effects of those actions, i.e. thinking further ahead - when making choices, considering consequences can help us avoid future problems. We must ask ourselves the critical question: “And then what?” Asking this question would help you to consider the potential long-term consequences of your choices and make more informed and strategic decisions.
 
 Second-order thinking is a valuable tool to use when making decisions, prioritizing long-term interests over immediate gains and constructing effective arguments.
 
@@ -44,9 +46,9 @@ Second-order thinking is a valuable tool to use when making decisions, prioritiz
 
 "Occam's Razor" is a mental model that suggests that, when presented with multiple explanations for a phenomenon, the simplest explanation is often the best one. The principle is also known as the "law of parsimony" and is commonly attributed to the medieval philosopher and theologian William of Ockham. 
 
-For example, if you are trying to determine why a product feature is not performing as expected, you may consider a range of explanations, such as poor user experience design, inadequate marketing, or technical issues. By applying Occam's Razor, you would favor the explanation that requires the fewest assumptions or variables, all other things being equal. In this case, you may determine that poor user experience design is the simplest explanation, and therefore the most likely one.
+For example, if you are trying to determine why a product feature is not performing as expected, you may consider a range of explanations, such as poor user experience design, inadequate marketing, or technical issues. By applying Occam's Razor, you would favour the explanation that requires the fewest assumptions or variables, all other things being equal. In this case, you may determine that poor user experience design is the simplest explanation, and therefore the most likely one.
 
-Overall, Occam's Razor is a useful mental model for product managers to use when evaluating options and making decisions. It encourages simplicity and clarity, and can help you to prioritize and focus on the most important factors influencing a problem or decision.
+Overall, Occam's Razor is a useful mental model for product managers to use when evaluating options and making decisions. It encourages simplicity and clarity and can help you to prioritize and focus on the most important factors influencing a problem or decision.
 
 ## The Curse of Knowledge
 
@@ -58,4 +60,4 @@ Anything that is trying to model something else can't be accurate because it's n
 
 ## Conclusion
 
-I covered just some of the most known mental models and as you can see, mental models are useful tools that can improve your thinking, help you learn new concepts faster and help you make better decisions in your daily life. Check out [fs.blog](https://fs.blog/) and [Untools](https://untools.co/) to learn more. 
+I covered just some of the most known mental models, and as you can see, mental models are useful tools that can improve your thinking, help you learn new concepts faster and help you make better decisions in your daily life. Check out [fs.blog](https://fs.blog/) and [Untools](https://untools.co/) to learn more. 
