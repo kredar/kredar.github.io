@@ -2,7 +2,7 @@
 title: "Navigating AI and Product Management"
 excerpt: "Articles and resources on Product Management, Leadership and Artificial Intelligence"
 layout: splash
-permalink: /splash-page/
+permalink: /
 date: 2023-09-16T11:48:41-04:00
 header:
   overlay_color: "#000"
