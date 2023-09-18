@@ -15,12 +15,9 @@ author_profile: true
 #layout: splash
 published: true 
 comments: true
-# comments:
-#   provider: "utterances"
-#   utterances:
-#     theme: "github-light" # "github-dark"
-#     issue_term: "pathname"
-#     label: "comment" # Optional - must be existing label.
+toc: true
+toc_label: "Skills"
+toc_sticky: true
 
 ---
 In my previous post, I covered the [definition of Product Management and the role of a product manager](https://www.artkreimer.com/The-Role-of-a-Product-Manager/). In this post, I will review the 10 must-have skills to be a successful PM in any organization. 

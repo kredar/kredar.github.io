@@ -14,6 +14,7 @@ show_date: true
 author_profile: true
 published: true
 toc: true
+toc_label: "On this page"
 toc_sticky: true
 comments: true
 

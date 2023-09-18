@@ -15,6 +15,7 @@ author_profile: true
 published: true
 comments: true
 toc: true
+toc_label: "Categories"
 toc_sticky: true
 
 feature_row1:

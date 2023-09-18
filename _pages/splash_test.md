@@ -9,7 +9,6 @@ header:
   overlay_image: /assets/images/header/joshua-woroniecki-laptop.jpg
   caption: "Photo by [Joshua Woroniecki](https://unsplash.com/@joshua_j_woroniecki?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com/photos/lzh3hPtJz9c?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 excerpt: "Articles and resources on Product Management, Leadership and Artificial Intelligence"
-
 feature_row0:
   - image_path: /assets/images/feature_row/resume_bot_f.jpg
     alt: "placeholder image 2"
@@ -43,7 +42,6 @@ feature_row:
     url: "https://www.artkreimer.com/Useful-Mental-Models-for-Product-Managers/"
     btn_label: "Read More"
     btn_class: "btn--info"
-
 feature_row3:
 # image 1
   - image_path: /assets/images/christin-hume-k2Kcwkandwg-unsplash.jpg
