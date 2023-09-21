@@ -1,5 +1,5 @@
 ---
-title: "Navigating AI and Product Management"
+title: "Art on Product and AI"
 excerpt: "Articles and resources on Product Management, Leadership and Artificial Intelligence"
 layout: splash
 permalink: /
@@ -106,3 +106,5 @@ author:
 
 
 {% include feature_row id="author" type="center" %}
+
+<iframe src="https://artkreimer.substack.com/embed" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
