@@ -32,7 +32,7 @@ In my previous post ["Exploring the Power of LLMs for NLP Tasks"](https://www.ar
 
 ## The Motivation Behind the Chatbot
 
-I wanted a chatbot that could serve as a personal assistant—one designed to answer questions about my professional experience, educational background, and career aspirations, essentially a resume bot. Last year, I began this project using Google Dialogflow CX. Anyone in the Conversational AI space will concur that crafting an excellent chatbot experience on such platforms can be challenging and time-consuming. Although I had a working prototype, it still required extensive testing and tweaks in both conversational design and intent training. However, the game changed with the release of OpenAI's GPT-3.5 Turbo model. I pivoted to using large language models (LLMs), resulting in a resume chatbot built with Langchain, and FAISS for vector database management, all showcased through a Streamlit frontend.
+I wanted a chatbot that could serve as a personal assistant—one designed to answer questions about my professional experience, educational background, and career aspirations, essentially a resume bot. Last year, I began this project using Google Dialogflow CX. Anyone in the Conversational AI space will concur that crafting an excellent chatbot experience on such platforms can be challenging and time-consuming. Although I had a working prototype, it still required extensive testing and tweaks in both conversational design and intent training. However, the game changed with the release of OpenAI's GPT-3.5 Turbo model. I pivoted to using large language models (LLMs), resulting in a resume chatbot built with Langchain, and FAISS as a vector store, all showcased through a Streamlit frontend.
 
 ## Overview of the Logic Architecture
 
@@ -41,7 +41,7 @@ I use a standard architecture commonly used in Retrieval Augmented Generation (R
 This architecture is designed to:
 
 1. Create embeddings for all documents.
-2. Store these embeddings in a vector database for rapid retrieval.
+2. Store these embeddings in a vector store or database for rapid retrieval.
 
 ### Data Storage
 
@@ -73,7 +73,7 @@ For more information about LLM-based application architecture check out these tw
 I'm using three main tools for this chatbot:
 
 - Langchain to manage the RAG flow
-- FAISS to store embeddings and retrieve documents. Alternative vectore DBs are: Chroma, Pinecone, and many others. 
+- FAISS to store embeddings and retrieve documents. Alternative vectore stores/DBs are: Chroma, Pinecone, and many others. 
 - Streamlit for UI
 - OpenAI gpt-3.5-turbo for information retrieval
 
