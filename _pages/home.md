@@ -1,5 +1,5 @@
 ---
-title: "Art on Product and AI"
+title: "The Art of Product and AI"
 excerpt: "Articles and resources on Product Management, Leadership and Artificial Intelligence"
 layout: splash
 permalink: /
