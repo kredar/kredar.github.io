@@ -40,16 +40,20 @@ The term "AI" is often used in various contexts—some even refer to it as Augme
 ![Relations between AI/ML/Deep Learning/Gen AI/AGI](/assets/images/ai_definitions.jpg){: .align-center}
 *Relations between AI/ML/Deep Learning/Gen AI/AGI*
 
-Artificial Intelligence (AI)
-: Computer systems capable of performing tasks that typically require human intelligence.
-Machine Learning (ML)
-: A subset of AI focused on developing algorithms that enable computers to make decisions or predictions.
-Deep Learning
-: Specialized area within ML that utilizes multi-layer artificial neural networks to learn from large data sets.
-Generative AI (GenAI)
-: Deep learning models capable of generating new data or content like images, music, video, or text.
-Artificial General Intelligence (AGI)
-: The ultimate goal in the AI spectrum—a fully autonomous system capable of human-level intelligence across various tasks, without requiring specialized programming.
+Artificial Intelligence (AI) 
+: Computer systems capable of performing tasks that typically require human intelligence. 
+
+Machine Learning (ML) 
+: A subset of AI focused on developing algorithms that enable computers to make decisions or predictions. 
+
+Deep Learning 
+: Specialized area within ML that utilizes multi-layer artificial neural networks to learn from large data sets. 
+
+Generative AI (GenAI) 
+: Deep learning models capable of generating new data or content like images, music, video, or text. 
+
+Artificial General Intelligence (AGI) 
+: The ultimate goal in the AI spectrum—a fully autonomous system capable of human-level intelligence across various tasks, without requiring specialized programming. 
 
 <!-- > **Machine Learning (ML):** A subset of AI focused on developing algorithms that enable computers to make decisions or predictions.
 > **Deep Learning:** A specialized area within ML that utilizes multi-layer artificial neural networks to learn from large data sets.
