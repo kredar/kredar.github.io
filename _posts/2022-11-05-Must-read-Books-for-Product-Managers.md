@@ -239,7 +239,17 @@ PMs not only motivate product team members, but also provide thought leadership 
 
 PMs need to have at least basic knowledge of the technical stack their product was build on and have a basic understanding on how internet works.  
 
-{% include feature_row id="feature_row6" type="left" %} 
+**"\"Swipe to Unlock\" by Neel Mehta, Aditya Agashe, Parth Detroja"**  
+  
+<figure style="width: 150" class="align-left">
+  <img src="/assets/images/swipe_to_unlock.png" alt="Swipe to unlock">
+</figure>
+
+It's a great primer on technology and business strategy. It has many references and an excellent glossary and is a must for more junior PMs.
+
+[Amazon](https://amzn.to/3uBNhJf){: .btn .btn--primary}
+
+<!-- {% include feature_row id="feature_row6" type="left" %}  -->
 
 ## Best Practices and Culture  
 
