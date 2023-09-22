@@ -105,8 +105,8 @@ author:
 {% include feature_row id="feature_row4" type="left" %}
 
 
-{% include feature_row id="author" type="center" %}
-
+<!-- {% include feature_row id="author" type="center" %} -->
+<!-- width="480" height="320" -->
 <div style="text-align: center;">
-<iframe src="https://artkreimer.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no" ></iframe>
+<iframe src="https://artkreimer.substack.com/embed"  style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no" ></iframe>
 </div>
