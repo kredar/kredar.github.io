@@ -10,7 +10,7 @@ header:
   # caption: "Photo by [Steve Johnson](https://unsplash.com/@steve_j?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com/photos/ZPOoDQc8yMw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
   teaser: /assets/images/feature_row/ai_primer_2_f.jpg
 show_date: true
-author_profile: true
+#author_profile: true
 #classes: wide
 #layout: splash
 published: true

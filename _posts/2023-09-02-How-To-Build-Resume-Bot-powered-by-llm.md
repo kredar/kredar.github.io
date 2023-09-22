@@ -12,8 +12,8 @@ header:
   caption: "Image by: [**Midjourney**](https://www.midjourney.com/app/)"
   teaser: /assets/images/feature_row/resume_bot_f.jpg
 show_date: true
-author_profile: true
-#classes: wide
+#author_profile: true
+classes: wide
 #layout: splash
 published: true
 toc: true
