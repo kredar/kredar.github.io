@@ -73,7 +73,7 @@ For more information about LLM-based application architecture check out these tw
 I'm using three main tools for this chatbot:
 
 - Langchain to manage the RAG flow
-- FAISS to store embeddings and retrieve documents. Alternative vectore stores/DBs are: Chroma, Pinecone, and many others. 
+- FAISS to store embeddings and retrieve documents. Alternative vector stores/DBs are: Chroma, Pinecone, and many others. 
 - Streamlit for UI
 - OpenAI gpt-3.5-turbo for information retrieval
 
