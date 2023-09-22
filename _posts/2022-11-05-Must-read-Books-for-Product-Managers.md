@@ -247,17 +247,16 @@ PMs need to have at least basic knowledge of the technical stack their product w
 </figure>
 It's a great primer on technology and business strategy. It has many references and an excellent glossary and is a must for more junior PMs.  
 </div>  
-
 [Amazon](https://amzn.to/3uBNhJf){: .btn .btn--primary}   
 
 
 <!-- {% include feature_row id="feature_row6" type="left" %}  -->
-
+<div style="display: block;">  
 ## Best Practices and Culture  
-{: style="text-align: left;"}  
+<!-- {: style="text-align: left;"}   -->
 
 There are many approaches to product management, leadership and company culture. These are some great books to expand on these topics.  
-
+</div>  
 {% include feature_row id="feature_row7" %} 
 
 
