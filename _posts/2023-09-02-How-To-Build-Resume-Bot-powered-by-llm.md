@@ -13,7 +13,8 @@ header:
   teaser: /assets/images/feature_row/resume_bot_f.jpg
 show_date: true
 #author_profile: true
-classes: wide
+# PAGES SHOULD NOT HAVE WIDE 
+# classes: wide
 #layout: splash
 published: true
 toc: true

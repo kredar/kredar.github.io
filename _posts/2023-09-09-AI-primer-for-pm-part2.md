@@ -14,8 +14,8 @@ show_date: true
 #classes: wide
 #layout: splash
 published: true
-# toc: true
-# toc_sticky: true
+toc: true
+toc_sticky: true
 #toc_label: "Table of Contexts"
 #toc_icon: "python"  
 #future: false

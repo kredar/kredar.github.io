@@ -7,7 +7,7 @@ tags:
 #layout: splash
 show_date: true
 #author_profile: true
-classes: wide
+#classes: wide
 comments: true
 ---
 
