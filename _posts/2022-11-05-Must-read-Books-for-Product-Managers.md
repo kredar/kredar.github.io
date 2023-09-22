@@ -240,15 +240,15 @@ PMs not only motivate product team members, but also provide thought leadership 
 PMs need to have at least basic knowledge of the technical stack their product was build on and have a basic understanding on how internet works.  
 
 **"\"Swipe to Unlock\" by Neel Mehta, Aditya Agashe, Parth Detroja"**  
-  
-<figure style="width:30%" class="align-left">
+<div >
+<figure style="width:20%" class="align-left">
   <img src="/assets/images/swipe_to_unlock.png" alt="Swipe to unlock">
 </figure>
 
 It's a great primer on technology and business strategy. It has many references and an excellent glossary and is a must for more junior PMs.
 
 [Amazon](https://amzn.to/3uBNhJf){: .btn .btn--primary}   
-
+</div>
 
 <!-- {% include feature_row id="feature_row6" type="left" %}  -->
 
@@ -261,6 +261,6 @@ There are many approaches to product management, leadership and company culture.
 
 For more book recommendations check my other post [Book Recommendations](https://www.artkreimer.com/Books-I-recommend/).
 
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
 <iframe src="https://artkreimer.substack.com/embed" title="Newspaper sign up" height="320" width="400" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no" ></iframe>
-</div>
+</div> -->
