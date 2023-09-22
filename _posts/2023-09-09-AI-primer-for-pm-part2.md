@@ -20,7 +20,7 @@ toc_sticky: true
 #toc_icon: "python"  
 #future: false
 search: false
-comments: false
+comments: true
 ---
 
 _This is Part II of the AI for PMs series. See [AI for PMs series Part I](/AI-primer-for-pm/) on AI use cases and what to do before you even start working on AI product._

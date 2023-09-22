@@ -20,7 +20,7 @@ toc_sticky: true
 #toc_icon: "python"  
 #future: false
 search: true
-comments: false
+comments: true
 permalink: /AI-primer-for-pm/
 ---
 
