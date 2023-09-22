@@ -23,13 +23,13 @@ search: false
 comments: true
 ---
 
-_This is Part II of the AI for PMs series. See [Part I](/AI-primer-for-pm/) on AI use cases and what to do before you even start working on AI product._
+_This is Part II of the AI for PMs series. See [AI for PMs series Part I](/AI-primer-for-pm/) on AI use cases and what to do before you even start working on AI product._
 {: .notice--info}
 
 
 ## Introduction
 
-In [Part I](/AI-primer-for-pm/), I discussed the history of Artificial Intelligence, the diversity of applications and AI use cases, and highlighted key considerations to keep in mind before embarking on the development of an AI product. In this part, I will delve into crucial aspects to be mindful of during the development of an AI product. I will address the following topics, provide examples, and suggest potential mitigation strategies:
+In [AI for PMs series Part I](/AI-primer-for-pm/), I discussed the history of Artificial Intelligence, the diversity of applications and AI use cases, and highlighted key considerations to keep in mind before embarking on the development of an AI product. In this part, I will delve into crucial aspects to be mindful of during the development of an AI product. I will address the following topics, provide examples, and suggest potential mitigation strategies:
 
 - Bias and Unfairness
 - Explainability

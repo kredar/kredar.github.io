@@ -55,7 +55,7 @@ feature_row2: #DONE
     image_max_size: 10px
     alt: "The Mom Test"
     title: "\"The Mom Test\" by  Rob Fitzpatrick"
-    excerpt: "Talking to your customers about their experience with your product is important. But when [everybody lies](https://www.artkreimer.com/First-Book-2022/), how can you get the honest answer? This book is going to show you how customer conversations go wrong and how you can do better."
+    excerpt: "Talking to your customers about their experience with your product is important. But when [everybody lies](https://www.artkreimer.com/First-Book-2022/), how can you get the honest answer? This book is going to show you how customer conversations can go wrong and how you can do better."
     url: "https://amzn.to/3MrMAso"
     btn_label: "Amazon"
     btn_class: "btn--primary"

@@ -86,7 +86,7 @@ I recommend experimenting with prompts and parameters in the OpenAI [Playground]
 
 Let's delve into the Python code. We'll first extract Google Play app reviews using the Google Play Store scraper library, then call the OpenAI API using two prompts discussed earlier to analyze Android app reviews and auto-generate responses.
 
-Before we proceed, ensure you've [created an OpenAI account](https://auth0.openai.com/u/signup/identifier?state=hKFo2SBsNDg0R2pEUW1Ta2U4T1hxTmt2cjJsTGNZNTdDZk5USKFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIGFqVkVrR01qR3QteWlWcFphczVMSVFqZjJUMXhkaUZjo2NpZNkgRFJpdnNubTJNdTQyVDNLT3BxZHR3QjNOWXZpSFl6d0Q) and [added an API key](https://platform.openai.com/docs/quickstart/add-your-api-key) to execute the code below.
+Before we proceed, ensure you've created an [OpenAI account](https://auth0.openai.com/u/signup/identifier?state=hKFo2SBsNDg0R2pEUW1Ta2U4T1hxTmt2cjJsTGNZNTdDZk5USKFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIGFqVkVrR01qR3QteWlWcFphczVMSVFqZjJUMXhkaUZjo2NpZNkgRFJpdnNubTJNdTQyVDNLT3BxZHR3QjNOWXZpSFl6d0Q) and added OpenAI API Key to your OS variables to execute the code below. For more information check [adding an API key page](https://platform.openai.com/docs/quickstart/add-your-api-key) .
 
 Let's start by importing the necessary libraries. 
 
@@ -98,7 +98,7 @@ import openai
 openai.api_key = os.getenv("OPENAI_API_KEY")     
 ```
 
-Next, we'll retrieve Google App reviews. I'm [using]() the `google_play_scraper` library to fetch all reviews, but for our analysis, we'll limit ourselves to 100 reviews. You'll need the app package name, which can be found in the Google Play Store URL. For additional information, refer to the [Google-Play-Scraper documentation](https://pypi.org/project/google-play-scraper/).
+Next, we'll retrieve Google App reviews. I'm using the `google_play_scraper` python library to fetch all reviews, but for our analysis, we'll limit ourselves to 100 reviews. You'll need the app package name, which can be found in the Google Play Store URL. For additional information, refer to the [Google-Play-Scraper documentation](https://pypi.org/project/google-play-scraper/).
 
 ```python
 # First lets use the scraper to get all Google App reviews

@@ -28,7 +28,7 @@ permalink: /How-To-Build-Resume-Bot-powered-by-llm/
 
 ## Introduction
 
-In my previous post ["Exploring the Power of LLMs for NLP Tasks"](https://www.artkreimer.com/How-to-Analyze-App-Reviews-Using-GPT/) I explored how Language Learning Models (LLMs) can be utilized for a range of Natural Language Processing (NLP) tasks —sentiment analysis, topic extraction, content generation, summarization, and more. Building on that foundation, this post aims to guide you through my journey of crafting a personal/resume chatbot. This chatbot is powered by OpenAI's GPT-3.5, Langchain, and Streamlit. You can test drive my resume bot  [here](https://www.artkreimer.com/resume/) 
+In my previous post ["Exploring the Power of LLMs for NLP Tasks"](https://www.artkreimer.com/How-to-Analyze-App-Reviews-Using-GPT/) I explored how Language Learning Models (LLMs) can be utilized for a range of Natural Language Processing (NLP) tasks —sentiment analysis, topic extraction, content generation, summarization, and more. Building on that foundation, this post aims to guide you through my journey of crafting a personal/resume chatbot. This chatbot is powered by OpenAI's GPT-3.5, Langchain, and Streamlit. Check out my [Resume Bot](https://www.artkreimer.com/resume/) 
 
 ## The Motivation Behind the Chatbot
 
@@ -240,7 +240,7 @@ Developing this resume bot, which leverages Streamlit, Langchain, FAISS, and the
 
 ## Demo
 
-You can try my resume bot [here](https://www.artkreimer.com/resume/) or on [Streamlit Cloud](https://art-career-bot.streamlit.app/)
+Check out my [Resume ChatBot](https://www.artkreimer.com/resume/) or on [Streamlit Cloud](https://art-career-bot.streamlit.app/)
 
 
 

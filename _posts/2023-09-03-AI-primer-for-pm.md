@@ -24,7 +24,7 @@ comments: true
 permalink: /AI-primer-for-pm/
 ---
 
-_This is Part I of the AI for PMs series. See [Part II](/AI-primer-for-pm-part2/) on what to pay attention to when you start building an AI product._
+_This is Part I of the AI for PMs series. See [AI for PMs - Part II](/AI-primer-for-pm-part2/) on what to pay attention to when you start building an AI product._
 {: .notice--info}
 
 ## Introduction
@@ -40,11 +40,21 @@ The term "AI" is often used in various contexts—some even refer to it as Augme
 ![Relations between AI/ML/Deep Learning/Gen AI/AGI](/assets/images/ai_definitions.jpg){: .align-center}
 *Relations between AI/ML/Deep Learning/Gen AI/AGI*
 
-> **Artificial Intelligence (AI):** Computer systems capable of performing tasks that typically require human intelligence.
-> **Machine Learning (ML):** A subset of AI focused on developing algorithms that enable computers to make decisions or predictions.
+Artificial Intelligence (AI)
+: Computer systems capable of performing tasks that typically require human intelligence.
+Machine Learning (ML)
+: A subset of AI focused on developing algorithms that enable computers to make decisions or predictions.
+Deep Learning
+: Specialized area within ML that utilizes multi-layer artificial neural networks to learn from large data sets.
+Generative AI (GenAI)
+: Deep learning models capable of generating new data or content like images, music, video, or text.
+Artificial General Intelligence (AGI)
+: The ultimate goal in the AI spectrum—a fully autonomous system capable of human-level intelligence across various tasks, without requiring specialized programming.
+
+<!-- > **Machine Learning (ML):** A subset of AI focused on developing algorithms that enable computers to make decisions or predictions.
 > **Deep Learning:** A specialized area within ML that utilizes multi-layer artificial neural networks to learn from large data sets.
 > **Generative AI (GenAI):** Deep learning models capable of generating new data or content like images, music, video, or text.
-> **Artificial General Intelligence (AGI):** The ultimate goal in the AI spectrum—a fully autonomous system capable of human-level intelligence across various tasks, without requiring specialized programming.
+> **Artificial General Intelligence (AGI):** The ultimate goal in the AI spectrum—a fully autonomous system capable of human-level intelligence across various tasks, without requiring specialized programming. -->
 
 ## Exploring the History and Diverse Fields of AI
 
@@ -97,42 +107,35 @@ Artificial Intelligence (AI) and Machine Learning (ML) technologies are revoluti
 - **Traffic Management** - Apply AI in real-time data analysis for traffic regulation, signal timing adjustments, and route optimization to mitigate congestion.
 
 ## Key Considerations Before Embarking on an AI Product Journey
-
 Multiple critical factors have to be considered before you dive into developing an AI-powered product. Understanding these can be the difference between a successful launch and a missed opportunity. 
 
 Here are some pivotal elements to keep in mind:
 
 **Identifying AI Opportunities** - Make sure the AI solution addresses a genuine customer need rather than merely finding an excuse to use an advanced AI model.
-
 - Conduct market research to identify gaps or pain points that AI can solve.
 - Validate the idea with stakeholders and potential users.
 - **"Fall in love with the problem and not with the solution"** - Don't implement AI for the sake of adding AI to your product.
 
 **Finding the Right Partner** - Developing AI/ML applications requires specialized expertise. Finding the right partner is crucial whether you look inside your organization or seek an external vendor.
-
 - Evaluate potential partners based on their previous work, expertise in the domain, and customer reviews.
 - Ensure that the partner aligns with your organization's culture and goals.
 
 **Data Is Key** - If you have to build your model, data quality would be of the utmost importance. Data is the backbone of any AI project and is crucial for training models. In many cases, continuous training might also be necessary to adapt to new data patterns.
-
 - Ensure you have access to high-quality and relevant data.
 - Consider the ethical implications and legal requirements associated with data collection and usage.
 
 **AI-Application Fit** - Understanding the pros and cons of various AI and ML techniques is essential. Discuss with your partner to choose the most appropriate algorithm for your specific problem and use case.
-
 - Perform a feasibility analysis to identify the most effective AI or ML techniques.
 - Keep scalability, cost, and performance in mind when choosing algorithms.
 
 **Resource Allocation** - Be clear about the human and computational resources required to bring your AI project to life.
-
 - Create a detailed project timeline and budget.
 - Consider the long-term maintenance costs of the AI system.
 
 ## Conclusion
-
 AI offers numerous opportunities for innovation in product management. Awareness of its possibilities can significantly benefit your role as a Product Manager. Be curious, follow AI trends, learn and create products that solve customer pain points and delight customers with the help of AI/ML features and algorithms. 
 
-Check [Part 2](https://www.artkreimer.com/AI-primer-for-pm-part2/) for tips on what to pay attention to when building AI-based products. 
+Check [AI for PMs - Part 2](https://www.artkreimer.com/AI-primer-for-pm-part2/) for tips on what to pay attention to when building AI-based products. 
 
 ## Additional Resources
 
