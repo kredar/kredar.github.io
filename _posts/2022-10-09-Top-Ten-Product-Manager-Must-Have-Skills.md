@@ -66,7 +66,9 @@ PMs' level of technical knowledge depends on the domain and the product they are
 
 In summary, it's not easy to be a PM. It's a challenging role that requires various soft and hard skills, but it's also one of the most impactful and rewarding - there is nothing more rewarding than delivering value to your users and business. 
 
-
+<div style="text-align: center;">
+<iframe src="https://artkreimer.substack.com/embed" title="Newspaper sign up" height="320" width="400" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no" ></iframe>
+</div>
 
 [^1]: SMART goals are Specific, Measurable, Achievable, Relevant, and Time-Bound. For more information check our [Smart Goals on Mindtools](https://www.mindtools.com/pages/article/smart-goals.htm)
 

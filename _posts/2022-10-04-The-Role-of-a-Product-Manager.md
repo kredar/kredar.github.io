@@ -14,6 +14,7 @@ show_date: true
 #layout: splash
 published: true
 comments: true
+toc: true
 # comments:
 #   provider: "utterances"
 #   utterances:
@@ -101,7 +102,9 @@ Product managers in small startups are like the Ultimate Swiss Army knife – th
 
 To summarize, Great PMs are experts in their domain, they are top-class communicators and master storytellers, they are simultaneously empathetic and analytical, qualitative and quantitative, have excellent attention to detail and think big, and are both creative innovators and rigorous optimizers. And most of all, they do whatever it takes to deliver valuable outcomes for their users, team, and company - whatever it takes to deliver business impact.  
 
-
+<div style="text-align: center;">
+<iframe src="https://artkreimer.substack.com/embed" title="Newspaper sign up" height="320" width="400" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no" ></iframe>
+</div>
 
 
 [^1]: The focus here is on Product Managers and not Managers of Product Managers, ie Group Product Manager, Dir of Product, etc

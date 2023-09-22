@@ -20,7 +20,7 @@ toc_sticky: true
 #toc_icon: "python"  
 #future: false
 search: false
-comments: true
+comments: false
 ---
 
 _This is Part II of the AI for PMs series. See [AI for PMs series Part I](/AI-primer-for-pm/) on AI use cases and what to do before you even start working on AI product._
@@ -29,7 +29,7 @@ _This is Part II of the AI for PMs series. See [AI for PMs series Part I](/AI-pr
 
 ## Introduction
 
-In [AI for PMs series Part I](/AI-primer-for-pm/), I discussed the history of Artificial Intelligence, the diversity of applications and AI use cases, and highlighted key considerations to keep in mind before embarking on the development of an AI product. In this part, I will delve into crucial aspects to be mindful of during the development of an AI product. I will address the following topics, provide examples, and suggest potential mitigation strategies:
+In [AI for PMs Part I](/AI-primer-for-pm/), I discussed the history of Artificial Intelligence, the diversity of applications and AI use cases, and highlighted key considerations to keep in mind before embarking on the development of an AI product. In this part, I will delve into crucial aspects to be mindful of during the development of an AI product. I will address the following topics, provide examples, and suggest potential mitigation strategies:
 
 - Bias and Unfairness
 - Explainability
@@ -100,3 +100,7 @@ This article is just a primer to provide some knowledge and kick off your curios
 - [Becoming an AI-First Product Leader (LinkedIn Learning)](https://www.linkedin.com/learning/becoming-an-ai-first-product-leader/becoming-an-ai-first-product-leader?autoplay=true&u=2142274)
 - [Artificial Intelligence for Business Leaders (LinkedIn Learning)](https://www.linkedin.com/learning/artificial-intelligence-for-business-leaders/welcome-to-the-course?autoplay=true&u=2142274)
 - [AI Product Management Specialization (Coursera)](https://www.coursera.org/specializations/ai-product-management-duke)
+
+<div style="text-align: center;">
+<iframe src="https://artkreimer.substack.com/embed" title="Newspaper sign up" height="320" width="400" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no" ></iframe>
+</div>

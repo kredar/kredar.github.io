@@ -246,6 +246,8 @@ Check out my [Resume ChatBot](https://www.artkreimer.com/resume/) or on [Streaml
 
 
 
-
+<div style="text-align: center;">
+<iframe src="https://artkreimer.substack.com/embed" title="Newspaper sign up" height="320" width="400" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no" ></iframe>
+</div>
 
 

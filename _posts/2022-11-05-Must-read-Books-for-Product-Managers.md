@@ -249,3 +249,7 @@ There are many approaches to product management, leadership and company culture.
 
 
 For more book recommendations check my other post [Book Recommendations](https://www.artkreimer.com/Books-I-recommend/).
+
+<div style="text-align: center;">
+<iframe src="https://artkreimer.substack.com/embed" title="Newspaper sign up" height="320" width="400" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no" ></iframe>
+</div>

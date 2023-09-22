@@ -20,7 +20,7 @@ toc_sticky: true
 #toc_icon: "python"  
 #future: false
 search: true
-comments: true
+comments: false
 permalink: /AI-primer-for-pm/
 ---
 
@@ -154,7 +154,9 @@ This article is just a primer to provide some knowledge and kick off your curios
 - Prompt Engineering Guide: [Promptingguide.ai](http://Promptingguide.ai)
 - Keep up with the latest news in the AI space with [TLDR AI](https://tldr.tech/ai)
 
-
+<div style="text-align: center;">
+<iframe src="https://artkreimer.substack.com/embed" title="Newspaper sign up" height="320" width="400" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no" ></iframe>
+</div>
 
 [^1]: The field of [AI](https://en.wikipedia.org/wiki/Artificial_intelligenc research was founded at a [workshop](https://en.wikipedia.org/wiki/Dartmouth_workshop) held on the campus of [Dartmouth College](https://en.wikipedia.org/wiki/Dartmouth_College), USA during the summer of 1956.
 [^2]: [Wikipedia](https://en.wikipedia.org/wiki/Deep_learning): The term *Deep Learning* was introduced to the machine learning community by Rina Dechter in 1986
