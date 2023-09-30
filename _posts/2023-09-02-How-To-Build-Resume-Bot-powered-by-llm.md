@@ -11,6 +11,7 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.7 to a black background
   caption: "Image by: [**Midjourney**](https://www.midjourney.com/app/)"
   teaser: /assets/images/feature_row/resume_bot_f.jpg
+  og_image: /assets/images/header/resume_bot_h.jpg
 show_date: true
 #author_profile: true
 # PAGES SHOULD NOT HAVE WIDE 

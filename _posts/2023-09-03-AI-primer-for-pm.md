@@ -9,6 +9,7 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.7 to a black background
   # caption: "Photo by [Steve Johnson](https://unsplash.com/@steve_j?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com/photos/ZPOoDQc8yMw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
   teaser: /assets/images/feature_row/ai_primer_f.jpg
+  og_image: /assets/images/header/ai_primer_h.jpg
 show_date: true
 #author_profile: true
 #classes: wide
@@ -29,16 +30,20 @@ _This is Part I of the AI for PMs series. See [AI for PMs - Part II](/AI-primer-
 
 ## Introduction
 
-Since OpenAI released ChatGPT last November, LLMs, GPTs, and GenAI have become buzzwords, and everyone is talking about it. Every enterprise suddenly started investing money and talent into exploring LLMs and Gen AI models. In many cases, people are mixing AI with Gen AI and simplifying LLMs and their capabilities by just calling all of them AI (thank God they are not calling them AGIs). 
+Today, AI / ML is at the cutting edge of technological innovation, impacting various sectors from healthcare to finance. Since OpenAI launched ChatGPT late last year, terms like LLMs, GPT, and GenAI have become buzzwords. Product hunt is filled with GenAI-based products, and the AI product landscape is growing exponentially [^0]. This article aims to clarify some misconceptions about AI and ML and what Product Managers need to know about them. While AI isn't a cure-all, understanding its capabilities is key to competitive advantage.	
 
-In this article, I would like to demystify some misconceptions about Artificial intelligence, Machine Learning and their applications and my thoughts on what every PM needs to know regarding Artificial intelligence and Machine Learning. Spoiler Alert - AI is not a silver bullet that can magically solve all your product and customer problems and make your product a success story. Nevertheless, AI/ML has huge potential, and in the future, every product will have some AI algorithm, and eventually, every PM will become an AI Product Manager. And so understanding what and how to use AI is crucial to gaining a competitive edge through AI.
+It's worth noting that the concept of AI is not new; it has ancient origins and has been part of human imagination for centuries, appearing in myths like the Biblical Golem and ancient automatons. The term 'Artificial Intelligence' itself was coined in 1956[^1] and has been a subject of academic and cultural discussion ever since. With over 70 years of research history, AI and ML have been employed across various applications, but only in the last couple of decades, advancements in technology, including the explosion of internet usage and vast amounts of data, the availability of powerful cloud computing, as well as specialized GPUs and AI chipsets, have catalyzed the evolution and improvements of ML models. 
 
-## What is AI?
+<figure class="align-center">
+  <img src="/assets/images/aiml_google_ngrams.jpg" alt="AI and ML trend on Google Ngrams"/>
+  <figcaption>AI and ML trend on Google Ngrams</figcaption>
+</figure>
 
-The term "AI" is often used in various contexts—some even refer to it as Augmented Intelligence. Let's define our terms to ensure we're on the same page. Think of these concepts as nested Russian dolls: AI is the overarching term, under which falls ML, then Deep Learning, followed by GenAI, and finally, AGI.
 
-![Relations between AI/ML/Deep Learning/Gen AI/AGI](/assets/images/ai_definitions.jpg){: .align-center}
-*Relations between AI/ML/Deep Learning/Gen AI/AGI*
+
+## So, what is AI?
+
+AI is an umbrella term covering various subfields, including Machine Learning (ML), Deep Learning, Generative AI (GenAI), and the ultimate goal, Artificial General Intelligence (AGI). Let's go over the definitions:
 
 Artificial Intelligence (AI) 
 : Computer systems capable of performing tasks that typically require human intelligence. 
@@ -55,60 +60,38 @@ Generative AI (GenAI)
 Artificial General Intelligence (AGI) 
 : The ultimate goal in the AI spectrum—a fully autonomous system capable of human-level intelligence across various tasks, without requiring specialized programming. 
 
-<!-- > **Machine Learning (ML):** A subset of AI focused on developing algorithms that enable computers to make decisions or predictions.
-> **Deep Learning:** A specialized area within ML that utilizes multi-layer artificial neural networks to learn from large data sets.
-> **Generative AI (GenAI):** Deep learning models capable of generating new data or content like images, music, video, or text.
-> **Artificial General Intelligence (AGI):** The ultimate goal in the AI spectrum—a fully autonomous system capable of human-level intelligence across various tasks, without requiring specialized programming. -->
+## Types of ML
 
-## Exploring the History and Diverse Fields of AI
+There are four main types of ML models: 
 
-Now that we've established a common understanding of key terms let's dive into the history of Artificial Intelligence (AI). The idea of creating artificial beings with human-like capabilities has ancient roots, featuring prominently in myths and legends like the Golem in Biblical stories or automatons in ancient mythology.
+1. **Supervised Learning**: The model is trained on labelled data to make predictions or decisions.
 
-The term "Artificial Intelligence" entered the modern lexicon in 1956[^1]. Interestingly, the terms "Artificial Intelligence" and "Machine Learning" have been in the academic and cultural conversation since the late '50s, as evidenced by Google Ngram data. 
+    Applications: Credit score applications, email spam detection, news topic classifications, and image recognition. 
 
-<figure class="align-center">
-  <img src="/assets/images/aiml_google_ngrams.jpg" alt="AI and ML trend on Google Ngrams"/>
-  <figcaption>AI and ML trend on Google Ngrams</figcaption>
-</figure>
+2. **Unsupervised Learning**: The model uses unlabeled data to find patterns or groupings.
 
+   Applications: Document clustering, customer segmentation based on buying behaviour, anomaly detection. 
 
-With over 70 years of research history, AI and ML have been employed across various applications, but only in the last couple of decades, advancements in technology, including the explosion of internet usage and vast amounts of data, the availability of powerful cloud computing, and specialized GPUs and AI chipsets, have catalyzed the evolution of Machine Learning algorithms and their capabilities. Today, AI and Machine Learning are at the forefront of technological innovation, influencing diverse industries such as healthcare, finance, and autonomous vehicles.
+3. **Semi-supervised Learning**: The model uses both labelled and unlabeled data for training, often to improve performance.
 
-AI and ML comprise a broad landscape with numerous algorithms, approaches, and frameworks, including:
+   Applications: Image recognition and other supervised learning applications. 
 
-- **Computer Vision**: This area focuses on enabling machines to interpret visual data, such as images and videos.
-- **Natural Language Processing (NLP)**: NLP enables computers to understand human language. Applications abound, from analyzing documents and customer feedback to translating languages and running automated customer service chatbots.
-- **Reinforcement Learning**: This field enables machines to optimize their actions over time based on the consequences of past actions.
-- **Time Series Algorithms**: Specialized in analyzing data points collected over time, these algorithms are beneficial in fields like finance and healthcare.
-- **Anomaly Detection**: This involves identifying outliers or anomalies in data patterns, serving functions like fraud detection and network security.
-- **Generative AI Models**: These algorithms create new data similar to an existing dataset, useful for generating images, text, and voice as well as augmenting data.
-- **Optimization Algorithms**: These strive to find the most effective solution among a set of options and are often employed in tasks like resource allocation and scheduling.
-- **Multimodal AI**: This is a form of artificial intelligence that integrates multiple types of data inputs, such as images, text, and speech, and can produce various data outputs. It's often viewed as an initial step toward AGI (Artificial General Intelligence).
+4. **Reinforcement Learning**: The model learns to make decisions by interacting with an environment to achieve a goal or maximize some notion of cumulative reward.
+
+   Applications: Game playing, Autonomous vehicles.
 
 Now, let's dive into different AI/ML use cases.
-
-
-<!-- ![AI and ML trend on Google Ngrams](/assets/images/aiml_google_ngrams.jpg)
-*AI and ML trend on Google Ngrams* -->
 
 ## AI/ML Use Cases 
 
 Artificial Intelligence (AI) and Machine Learning (ML) technologies are revolutionizing diverse industries. Here are some notable use cases and applications where AI/ML algorithms are making a difference:
 
-- **Personalization** - Customize user experiences based on data analytics, applicable in healthcare for personalized treatment plans, in education for adaptive learning systems, and in marketing for targeted outreach.
-- **Anomaly Detection** - Flag abnormal patterns or outliers indicative of fraudulent activities, security threats, or pressing issues requiring immediate action.
-- **Recommendation Systems** - Generate individualized product, service, or content suggestions commonly employed in e-commerce, streaming services, and social media to boost user engagement.
-- **Image Recognition** - Utilize technology to recognize objects or anomalies in images or videos. Essential in healthcare for diagnostic imaging, in automotive industries for autonomous driving, and in security for surveillance systems.
-- **Customer Insights** - Mine valuable information from customer interactions and reviews to refine products and enhance customer satisfaction.
-- **Predictive Analytics** - Leverage historical data to predict future trends, behaviours, or sales, beneficial in retail, finance, and healthcare sectors.
-- **Content Generation** - Automatically produce text, images, videos, or voice recordings. It is beneficial in fields like journalism, marketing, and entertainment.
-- **Customer Support** - Implement chatbots for immediate, 24/7 customer assistance, enhancing service quality while cutting operational costs.
-- **Natural Language Understanding (NLU)** - Employ algorithms for sentiment analysis, language translation, and text summarization. Relevant in media monitoring, global communications, and customer support.
-- **Supply Chain Optimization** - Utilize AI to refine inventory management, distribution, and logistics, thereby cutting costs and elevating efficiency.
-- **Healthcare Diagnostics** - Apply AI for swift and precise medical diagnoses using either medical imaging or genetic profiling.
-- **Financial Risk Assessment** - Use AI algorithms to evaluate credit risks, analyze market conditions, and guide investment choices.
-- **Smart Homes** - Leverage AI to control household systems like lighting and temperature to optimize energy use and boost security.
-- **Traffic Management** - Apply AI in real-time data analysis for traffic regulation, signal timing adjustments, and route optimization to mitigate congestion.
+- **Credit Scoring & Anomaly Detection**: Often use Supervised and Unsupervised Learning models.
+- **Chatbots & Customer Service & Customer Insights**: Primarily rely on NLP, which can be built using Supervised Learning.
+- **Stock Trend Analysis**: Typically use Time Series Algorithms, a form of Supervised Learning.
+- **Content Generation**: Generative AI models to generate text, audio, code and video use  form of Deep Learning that uses both Supervized and Unsupervised ML models, 
+- **Supply Chain Optimization**: Utilizes Optimization Algorithms, often built using Reinforcement Learning.
+- **Recommendation Systems**: Generate individualized product, service, or content suggestions commonly employed in e-commerce, streaming services, and social media to boost user engagement. Both supervised and unsupervised models are being used. 
 
 ## Key Considerations Before Embarking on an AI Product Journey
 Multiple critical factors have to be considered before you dive into developing an AI-powered product. Understanding these can be the difference between a successful launch and a missed opportunity. 
@@ -121,14 +104,16 @@ Here are some pivotal elements to keep in mind:
 - **"Fall in love with the problem and not with the solution"** - Don't implement AI for the sake of adding AI to your product.
 
 **Finding the Right Partner** - Developing AI/ML applications requires specialized expertise. Finding the right partner is crucial whether you look inside your organization or seek an external vendor.
-- Evaluate potential partners based on their previous work, expertise in the domain, and customer reviews.
+- Evaluate potential partners based on their previous work and their expertise in the domain.
 - Ensure that the partner aligns with your organization's culture and goals.
 
-**Data Is Key** - If you have to build your model, data quality would be of the utmost importance. Data is the backbone of any AI project and is crucial for training models. In many cases, continuous training might also be necessary to adapt to new data patterns.
-- Ensure you have access to high-quality and relevant data.
-- Consider the ethical implications and legal requirements associated with data collection and usage.
+**Data Is Key** - If you have to build your model, the right data and its quality would be of the utmost importance. Data is the backbone of any AI project and is crucial for training models. In many cases, continuous training might also be necessary to adapt to new data patterns.
+
+- Ensure you have access to the right amount of a high-quality and relevant data.
+- Consider the ethical implications and legal requirements associated with data collection and usage, more about it in my next [post](/AI-primer-for-pm-part2). 
 
 **AI-Application Fit** - Understanding the pros and cons of various AI and ML techniques is essential. Discuss with your partner to choose the most appropriate algorithm for your specific problem and use case.
+
 - Perform a feasibility analysis to identify the most effective AI or ML techniques.
 - Keep scalability, cost, and performance in mind when choosing algorithms.
 
@@ -158,6 +143,7 @@ This article is just a primer to provide some knowledge and kick off your curios
 <iframe src="https://artkreimer.substack.com/embed" title="Newspaper sign up" height="320" width="400" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no" ></iframe>
 </div>
 
-[^1]: The field of [AI](https://en.wikipedia.org/wiki/Artificial_intelligenc research was founded at a [workshop](https://en.wikipedia.org/wiki/Dartmouth_workshop) held on the campus of [Dartmouth College](https://en.wikipedia.org/wiki/Dartmouth_College), USA during the summer of 1956.
-[^2]: [Wikipedia](https://en.wikipedia.org/wiki/Deep_learning): The term *Deep Learning* was introduced to the machine learning community by Rina Dechter in 1986
+[^0]: AI and GenAI landscape is enormous. Here are some examples: [Sequoia GenAI](https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/), [DataCamp](https://www.datacamp.com/cheat-sheet/the-generative-ai-tools-landscape)
+[^1]: The field of [AI research](https://en.wikipedia.org/wiki/Artificial_intelligence) was founded at a [workshop](https://en.wikipedia.org/wiki/Dartmouth_workshop) held on the campus of [Dartmouth College](https://en.wikipedia.org/wiki/Dartmouth_College), USA during the summer of 1956.
+[^2]: From [Wikipedia](https://en.wikipedia.org/wiki/Deep_learning): The term *Deep Learning* was introduced to the machine learning community by Rina Dechter in 1986
 [^3]: Transformer deep learning architecture that is a core of General Pretrain Models (GPT) that in turn a core of ChatGPT, was introduced in the paper ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762) by Vaswani et al. in 2017
