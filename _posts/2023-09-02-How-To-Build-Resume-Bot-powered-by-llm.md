@@ -1,6 +1,8 @@
 ---
 title: "How to build a resume chatbot using the power of LLMs"
 excerpt: "Unlock the potential of RAG architecture and foundational LLM in building an advanced resume chatbot."
+categories:
+  - AI/ML
 tags:
   - NLP
   - LLM

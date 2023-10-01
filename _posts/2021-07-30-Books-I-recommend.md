@@ -1,6 +1,8 @@
 ---
 title: "Reading for Growth: Books That Shaped My Life"
 excerpt: "Discover a reading list of carefully curated books on self-help,  leadership, inspiration, and understanding the past."
+categories:
+  - Books
 tags:
   - Books
 header:

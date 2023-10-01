@@ -1,6 +1,8 @@
 ---
 title: "Unlocking Better Decision-Making: Essential Mental Models for PMs"
 excerpt: "Get ahead in your role by adopting proven mental models. This guide unpacks the top mental frameworks that every Product Manager should know for making smarter decisions."
+categories:
+  - Product Management
 tags:
   - Mental Models
   - Product Management

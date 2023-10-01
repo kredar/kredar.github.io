@@ -1,6 +1,8 @@
 ---
 title: "The future-ready PM: Navigating AI and ML - Part 1"
 excerpt: "Learn the key insights every PM should know to leverage Artificial Intelligence and Machine Learning for gaining a competitive edge in product development."
+categories:
+  - Product Management
 tags:
   - AI
   - Product Management

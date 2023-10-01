@@ -1,6 +1,8 @@
 ---
 title: "5 Reasons You Can’t Use the Same Virtual Agent Design for Text and Voice Bots"
 excerpt: "What you should focus on when designing conversational bots for text and voice"
+categories:
+  - AI/ML
 tags:
   - Conversational AI
   - AI

@@ -1,6 +1,8 @@
 ---
 title: "Conversational AI and its future"
 excerpt: "What is conversational AI and how it would evolve"
+categories:
+  - AI/ML
 tags:
   - Conversational AI
   - AI
