@@ -3,6 +3,7 @@ title: "Best Books for Product Managers"
 excerpt: "From seasoned experts to aspiring PMs, this list of must-read books covers all the bases. Discover the reads that will sharpen your skills and mindset."
 categories:
   - Product Management
+  - Books Review
 tags:
   - Product Management
   - Books
