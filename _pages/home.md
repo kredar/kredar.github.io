@@ -100,8 +100,7 @@ I build products and solve problems using AI/ML. Currently serving as a Principa
 
 Beyond my primary role, I enjoy sharing my experience and assisting fellow product managers in expanding their knowledge and honing their skills.
 
-Follow me on [LinkedIn](https://www.linkedin.com/in/artkreimer/)
-
+Want to know more about me? Chat with my personal [Resume ChatBot](https://www.artkreimer.com/resume/) and follow me on [LinkedIn](https://www.linkedin.com/in/artkreimer/).  
 
 ## My Latest Post
 

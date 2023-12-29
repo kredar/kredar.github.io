@@ -6,8 +6,7 @@ last_modified_at: 2023-09-06T10:23:16-04:00
 author_profile: true
 toc: false
 ---
-Introducing my Resume Chatbot — a unique way to learn about my professional background. This isn't a traditional resume; it's more like a conversational AI Q&A tool, similar to ChatGPT. You can inquire about my experience, skills, education, and expertise in product management and AI. Feel free to start a chat and ask your questions. 
-Learn more about how I built it in this [post](https://www.artkreimer.com/How-To-Build-Resume-Bot-powered-by-llm/). 
+Introducing my Resume Chatbot – a cool way to check out my work history. It's not a regular resume; think of it like talking to a smart Virtual Assistant that knows about me. You can ask about my job experience, skills, education, and what I know about product management and AI. Just start a chat and fire away with your questions. Want to know how I made it? Check out this [post](https://www.artkreimer.com/How-To-Build-Resume-Bot-powered-by-llm/) to get the scoop!
 
 <iframe
   src="https://art-career-bot.streamlit.app/?embed=true"
