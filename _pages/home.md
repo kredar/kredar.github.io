@@ -90,7 +90,7 @@ author:
 ---
 
 <!-- {% include feature_row id="intro" type="center" %} -->
-<figure style="width: 10%" class="align-right">
+<figure style="width: 15%" class="align-right">
   <img src="/assets/images/intro_image.jpeg" alt="">
 </figure>
 
