@@ -101,7 +101,7 @@ author:
 </figure> -->
 
 
-{% include feature_row_intro id="feature_row_intro" type="right"  %}
+{% include feature_row id="feature_row_intro" type="right"  %}
 
 ## Latest Post
 
