@@ -9,12 +9,6 @@ header:
   overlay_filter: 0.7
   overlay_image: /assets/images/header/joshua-woroniecki-laptop.jpg
   caption: "Photo by [Joshua Woroniecki](https://unsplash.com/@joshua_j_woroniecki?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com/photos/lzh3hPtJz9c?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
-
-feature_row_intro:
-  - image_path: /assets/images/intro_image.jpeg
-    alt: "Art Kreimer"
-    title: "Hi there, I'm Art Kreimer 👋"
-    excerpt: "I build products and solve problems using AI/ML. Currently serving as a Principal Product Manager at Scotiabank in Canada, my focus lies in crafting AI-powered features for mobile applications. <br> Beyond my primary role, I enjoy sharing my experience and assisting fellow product managers in expanding their knowledge and honing their skills."
     
 
 feature_row0:
@@ -96,12 +90,18 @@ author:
 ---
 
 <!-- {% include feature_row id="intro" type="center" %} -->
-<!-- <figure style="width: 25%" class="align-right">
+<figure style="width: 10%" class="align-right">
   <img src="/assets/images/intro_image.jpeg" alt="">
-</figure> -->
+</figure>
 
+# Hi there, I'm Art Kreimer 👋  
 
-{% include feature_row id="feature_row_intro" type="right"  %}
+I build products and solve problems using AI/ML. Currently serving as a Principal Product Manager at Scotiabank in Canada, my focus lies in crafting AI-powered features for mobile applications.
+
+Beyond my primary role, I enjoy sharing my experience and assisting fellow product managers in expanding their knowledge and honing their skills.
+
+Follow me on [LinkedIn](https://www.linkedin.com/in/artkreimer/)
+
 
 ## Latest Post
 
