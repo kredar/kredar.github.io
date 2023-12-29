@@ -89,7 +89,7 @@ author:
 ---
 
 <!-- {% include feature_row id="intro" type="center" %} -->
-<figure style="width: 35%" class="align-right">
+<figure style="width: 25%" class="align-right">
   <img src="/assets/images/intro_image.jpeg" alt="">
 </figure>
 
@@ -99,8 +99,9 @@ I build products and solve problems using AI/ML. Currently serving as a Principa
 
 Beyond my primary role, I enjoy sharing my experience and assisting fellow product managers in expanding their knowledge and honing their skills.
 
-Follow me on [LinkedIn](https://www.linkedin.com/in/artkreimer/)
+Follow me on [LinkedIn](https://www.linkedin.com/in/artkreimer/)   
 
+<br>
 ## Latest Post
 
 {% include feature_row id="feature_row0" type="left"  %}
