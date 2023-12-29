@@ -90,20 +90,20 @@ author:
 ---
 
 <!-- {% include feature_row id="intro" type="center" %} -->
-<figure style="width: 15%" class="align-right">
+<!-- <figure style="width: 15%" class="align-right">
   <img src="/assets/images/intro_image.jpeg" alt="">
-</figure>
+</figure> -->
 
 # Hi there, I'm Art Kreimer 👋  
 
-I build products and solve problems using AI/ML. Currently serving as a Principal Product Manager at Scotiabank in Canada, my focus lies in crafting AI-powered features for mobile applications.
+I build products and solve problems using AI/ML. Currently serving as a Principal Product Manager at Scotiabank Canada, focusing on the development of AI-powered features for mobile applications.
 
 Beyond my primary role, I enjoy sharing my experience and assisting fellow product managers in expanding their knowledge and honing their skills.
 
 Follow me on [LinkedIn](https://www.linkedin.com/in/artkreimer/)
 
 
-## Latest Post
+## My Latest Post
 
 {% include feature_row id="feature_row0" type="left"  %}
 
