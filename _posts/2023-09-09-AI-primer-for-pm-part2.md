@@ -1,6 +1,6 @@
 ---
-title: "AI Product Management "
-excerpt: "Learn how to navigate critical issues like bias, black-box algorithms, and data security, while setting up for ongoing success through continuous evaluation."
+title: "AI Product Development: A Deep Dive into Key Considerations"
+excerpt: "Learn how to navigate critical issues like bias, black-box nature of some AI algorithms, data security, and why we need to contantly evaluate ML models in production."
 categories:
   - Product Management
 tags:

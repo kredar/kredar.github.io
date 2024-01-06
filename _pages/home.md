@@ -24,16 +24,16 @@ feature_row:
     # image 1
   - image_path: /assets/images/feature_row/ai_primer_2_f.jpg
     alt: "AI for PMs part 2"
-    title: "The future-ready PM: Navigating AI and ML - Part 2"
-    excerpt: "Learn how to navigate critical issues like bias, black-box algorithms, and data security, while setting up for ongoing success through continuous evaluation."
+    title: "AI Product Development: A Deep Dive into Key Considerations"
+    excerpt: "Learn how to navigate critical issues like bias, black-box nature of some AI algorithms, data security, and why we need to contantly evaluate ML models in production."
     url: "https://www.artkreimer.com/AI-primer-for-pm-part2/"
     btn_label: "Read More"
     btn_class: "btn--info"
     #image 2
   - image_path: /assets/images/feature_row/ai_primer_f.jpg
     alt: "AI for PMs part 1"
-    title: "The future-ready PM: Navigating AI and ML - Part 1"
-    excerpt: "Learn the key insights every PM should know to leverage Artificial Intelligence and Machine Learning for gaining a competitive edge in product development."
+    title: "Beyond the Buzz: AI primer for Product Managers"
+    excerpt: "Learn the key insights every PM should know to leverage Artificial Intelligence and Machine Learning."
     url: "https://www.artkreimer.com/AI-primer-for-pm/"
     btn_label: "Read More"
     btn_class: "btn--info"
@@ -90,9 +90,9 @@ author:
 ---
 
 <!-- {% include feature_row id="intro" type="center" %} style="width: 15%" -->  
-<figure style="width: 25%" class="align-right">
+<!-- <figure style="width: 25%" class="align-right">
   <img src="/assets/images/intro_image.jpeg" alt="Art Kreimer">
-</figure>
+</figure> -->
 
 # Hi there, I'm Art Kreimer 👋  
 
@@ -100,9 +100,8 @@ I build products and solve problems using AI/ML. Currently serving as a Principa
 
 Beyond my primary role, I enjoy sharing my experience and assisting fellow product managers in expanding their knowledge and honing their skills.
 
-Want to know more about me? Chat with my personal [Resume ChatBot](https://www.artkreimer.com/resume/) and follow me on [LinkedIn](https://www.linkedin.com/in/artkreimer/).   
-<br style="clear:both" />   
-
+Want to know more about me? Chat with my personal [Resume ChatBot](https://www.artkreimer.com/resume/) or reach out and follow me on [LinkedIn](https://www.linkedin.com/in/artkreimer/).   
+<!-- <br style="clear:both" />    -->
 ## Featured Post
 {% include feature_row id="feature_row0" type="left"  %}
 ## Posts on Product Management
