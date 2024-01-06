@@ -79,13 +79,13 @@ author:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://ca.linkedin.com/in/kreimer"
+      url: "https://www.linkedin.com/in/artkreimer/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kredar"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:artkreimer@gmail.com
+      url: mailto:art.kreimer@gmail.com
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/kredar"
@@ -106,7 +106,7 @@ footer:
     #   url: "https://instagram.com/kredar"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/kreimer/"
+      url: "https://www.linkedin.com/in/artkreimer/"
 
 defaults:
   # _posts
