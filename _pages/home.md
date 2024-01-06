@@ -93,6 +93,7 @@ author:
 <figure style="width: 20%" class="align-right">
   <img src="/assets/images/intro_image.jpeg" alt="Art Kreimer">
 </figure>
+<br style="clear:both" />  
 
 # Hi there, I'm Art Kreimer 👋  
 
@@ -101,8 +102,6 @@ I build products and solve problems using AI/ML. Currently serving as a Principa
 Beyond my primary role, I enjoy sharing my experience and assisting fellow product managers in expanding their knowledge and honing their skills.
 
 Want to know more about me? Chat with my personal [Resume ChatBot](https://www.artkreimer.com/resume/) and follow me on [LinkedIn](https://www.linkedin.com/in/artkreimer/).    
-<br style="clear:both" />  
-
 ## Featured Post
 
 {% include feature_row id="feature_row0" type="left"  %}
