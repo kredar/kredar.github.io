@@ -15,7 +15,7 @@ header:
   teaser: /assets/images/feature_row/resume_bot_f.jpg
   og_image: /assets/images/header/resume_bot_h.jpg
 show_date: true
-#author_profile: true
+author_profile: true
 # PAGES SHOULD NOT HAVE WIDE 
 # classes: wide
 #layout: splash
