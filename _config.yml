@@ -18,7 +18,7 @@ title_separator: "|"
 logo: "/assets/images/AK_masthead.png"
 masthead_title: "artkreimer.com"
 email: artiom.kreimer@gmail.com
-description: "Blogging about Product Management, Leadership, AI and Machine Learning" 
+description: "Product Leader writing about Artificial Intelligence, Machine Learning, Product Management, and Leadership." 
 url: "https://www.artkreimer.com"
 #>- # this means to ignore newlines until "baseurl:"
   # Write an awesome description for your new site here. You can edit this
