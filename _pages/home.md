@@ -6,7 +6,7 @@ permalink: /
 date: 2023-09-16T11:48:41-04:00
 header:
   overlay_color: "#000"
-  overlay_filter: 0.8
+  overlay_filter: 0.7
   overlay_image: /assets/images/header/joshua-woroniecki-laptop.jpg
   caption: "Photo by [Joshua Woroniecki](https://unsplash.com/@joshua_j_woroniecki?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com/photos/lzh3hPtJz9c?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
     
@@ -90,7 +90,7 @@ author:
 ---
 
 <!-- {% include feature_row id="intro" type="center" %} style="width: 15%" -->  
-<figure style="width: 25%" class="align-right">
+<figure style="height: 60%" class="align-right">
   <img src="/assets/images/intro_image.jpeg" alt="">
 </figure>
 
