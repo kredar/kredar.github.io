@@ -1,7 +1,7 @@
 ---
 title: "Humans and AI: Balancing AI Innovation with Human Skills"
 excerpt: "My thoughts on transformative power of AI and its impact on job dynamics and the balance between technological and human skills."
-date: 2023-01-07
+date: 2024-01-07
 categories:
   - AI/ML
 tags:
