@@ -9,7 +9,7 @@ tags:
   - AI
 #layout: splash
 show_date: true
-#author_profile: true
+author_profile: true
 #classes: wide
 published: true
 header:

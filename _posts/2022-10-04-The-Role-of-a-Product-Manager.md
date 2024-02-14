@@ -11,7 +11,7 @@ header:
   caption: "Photo credit: [**Campaign Creators**](https://unsplash.com/@campaign_creators?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/product-management?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
   teaser: /assets/images/campaign-creators-gMsnXqILjp4-unsplash.jpeg
 show_date: true
-#author_profile: true
+author_profile: true
 #classes: wide
 #layout: splash
 published: true

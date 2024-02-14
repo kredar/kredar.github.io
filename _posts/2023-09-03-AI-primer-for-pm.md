@@ -13,7 +13,7 @@ header:
   teaser: /assets/images/feature_row/ai_primer_f.jpg
   og_image: /assets/images/header/ai_primer_h.jpg
 show_date: true
-#author_profile: true
+author_profile: true
 #classes: wide
 #layout: splash
 published: true

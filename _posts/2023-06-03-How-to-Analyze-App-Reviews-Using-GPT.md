@@ -13,7 +13,7 @@ header:
   caption: "Photo by: [**Mariia Shalabaieva**](https://unsplash.com/it/@maria_shalabaieva?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com/photos/nYSdjVD2ayo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
   teaser: /assets/images/feature_row/openai_f.jpg
 show_date: true
-#author_profile: true
+author_profile: true
 #classes: wide
 #layout: splash
 published: true
