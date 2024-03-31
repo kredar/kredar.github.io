@@ -22,6 +22,14 @@ feature_row0:
 
 feature_row:
     # image 1
+  - image_path: /assets/images/feature_row/6_ways_pm_change_f.jpg
+    alt: "PM role in the next decade"
+    title: "6 ways the role of a product manager is going to change in the next decade"
+    excerpt: ""
+    url: "https://www.artkreimer.com/6_ways_pm_role_will_change/"
+    btn_label: "Read More"
+    btn_class: "btn--info"
+    # image 2
   - image_path: /assets/images/feature_row/ai_primer_2_f.jpg
     alt: "AI for PMs part 2"
     title: "AI Product Development: A Deep Dive into Key Considerations"
@@ -29,7 +37,7 @@ feature_row:
     url: "https://www.artkreimer.com/AI-primer-for-pm-part2/"
     btn_label: "Read More"
     btn_class: "btn--info"
-    #image 2
+    #image 3
   - image_path: /assets/images/feature_row/ai_primer_f.jpg
     alt: "AI for PMs part 1"
     title: "Beyond the Buzz: AI primer for Product Managers"
@@ -37,7 +45,10 @@ feature_row:
     url: "https://www.artkreimer.com/AI-primer-for-pm/"
     btn_label: "Read More"
     btn_class: "btn--info"
-    # image 3
+  
+
+feature_row3:
+  # image 1
   - image_path: /assets/images/feature_row/neuron_midjourney_f.jpg
     alt: "placeholder image 1"
     title: "Essential mental models for Product Managers"
@@ -45,9 +56,7 @@ feature_row:
     url: "https://www.artkreimer.com/Useful-Mental-Models-for-Product-Managers/"
     btn_label: "Read More"
     btn_class: "btn--info"
-
-feature_row3:
-# image 1
+# image 2
   - image_path: /assets/images/christin-hume-k2Kcwkandwg-unsplash.jpg
     alt: "placeholder image 2"
     title: "Essential reading list for Product Managers"
@@ -55,7 +64,7 @@ feature_row3:
     url: "https://www.artkreimer.com/Must-read-Books-for-Product-Managers/"
     btn_label: "Read More"
     btn_class: "btn--info"
-# image 2
+# image 3
   - image_path: /assets/images/nick-fewings-EkyuhD7uwSM-unsplash.jpeg
     alt: "placeholder image 2"
     title: "Top 10 must-have skills for a Product Manager"
@@ -63,14 +72,14 @@ feature_row3:
     url: "https://www.artkreimer.com/Top-Ten-Product-Manager-Must-Have-Skills/"
     btn_label: "Read More"
     btn_class: "btn--info"
-#image 3
-  - image_path: /assets/images/campaign-creators-gMsnXqILjp4-unsplash.jpeg
-    alt: "placeholder image 2"
-    title: "The role of a Product Manager"
-    excerpt: "What is Product Management and What is the Role of a Product Manager?"
-    url: "https://www.artkreimer.com/The-Role-of-a-Product-Manager/"
-    btn_label: "Read More"
-    btn_class: "btn--info"
+# #image 3
+#   - image_path: /assets/images/campaign-creators-gMsnXqILjp4-unsplash.jpeg
+#     alt: "placeholder image 2"
+#     title: "The role of a Product Manager"
+#     excerpt: "What is Product Management and What is the Role of a Product Manager?"
+#     url: "https://www.artkreimer.com/The-Role-of-a-Product-Manager/"
+#     btn_label: "Read More"
+#     btn_class: "btn--info"
 
 feature_row4:
   - image_path: /assets/images/feature_row/openai_f.jpg
