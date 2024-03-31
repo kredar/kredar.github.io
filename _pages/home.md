@@ -25,7 +25,7 @@ feature_row:
   - image_path: /assets/images/feature_row/6_ways_pm_change_f.jpg
     alt: "PM role in the next decade"
     title: "6 ways the role of a product manager is going to change in the next decade"
-    excerpt: ""
+    excerpt: "Discover the critical ways the product manager role is changing and how you can adapt to build the products of the future."
     url: "https://www.artkreimer.com/6_ways_pm_role_will_change/"
     btn_label: "Read More"
     btn_class: "btn--info"
