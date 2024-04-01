@@ -12,7 +12,7 @@ published: true
 header:
   overlay_image: /assets/images/header/6_ways_pm_change_h.jpg
   overlay_filter: 0.7 # same as adding an opacity of 0.7 to a black background
-  # caption: "Photo by [Scott Graham](https://unsplash.com/@homajob?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [**Unsplash**](https://unsplash.com/photos/person-holding-pencil-near-laptop-computer-5fNmWej4tAA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)"
+  caption: "Photo by [Scott Graham](https://unsplash.com/@homajob?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [**Unsplash**](https://unsplash.com/photos/person-holding-pencil-near-laptop-computer-5fNmWej4tAA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)"
   teaser: /assets/images/feature_row/6_ways_pm_change_f.jpg
   og_image: /assets/images/header/6_ways_pm_change_h.jpg
 comments: true
