@@ -25,8 +25,7 @@ permalink: /6_ways_pm_role_will_change/
 For the last several years, Scotia Digital's Product and Design Communities of Practice have hosted the annual Future Fest Craft festival, a two-day conference focused on craft and innovation. I've been honored to present and participate in panel discussions on "Crafting the Future with AI" for the past two years. Last year, I explored what it takes to build AI-powered features, while this year, my co-host and I led a workshop on leveraging GenAI, specifically Microsoft Copilot, to boost PM productivity during discovery, ideation, and communication.
 
 Beyond the festival itself, I'm thrilled to have contributed an article to the first edition of the printed Future Fest Craft Magazine, which I'm excited to share with you in full.
-
-------------------------------------------------------------------------------------------------
+---
 
 
 Product managers are the bridge between business goals, design vision, and technical feasibility. They define the product's purpose (the **"what"** and **"why"**) and collaborate with their team to determine the **"how"** to make it a reality. Customer champions at heart, they understand user needs and translate them into valuable solutions that benefit both users and the company.
