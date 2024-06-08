@@ -1,7 +1,7 @@
 ---
 title: "6 ways the role of a product manager is going to change in the next decade"
 excerpt: "My predictions on how the product manager role is changing and how you can adapt to build the products of the future."
-date: 2024-03-29
+date: 2024-04-10
 categories:
   - Product Management
 tags:
@@ -13,19 +13,20 @@ header:
   overlay_image: /assets/images/header/futurefest_article1.jpg
   overlay_filter: 0.7 # same as adding an opacity of 0.7 to a black background
   # caption: "Photo by [Scott Graham](https://unsplash.com/@homajob?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [**Unsplash**](https://unsplash.com/photos/person-holding-pencil-near-laptop-computer-5fNmWej4tAA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)"
-  teaser: /assets/images/feature_row/6_ways_pm_change_h.jpg
+  teaser: /assets/images/feature_row/6_ways_pm_change_f.jpg
   og_image: /assets/images/header/futurefest_article1.jpg
 comments: true
 permalink: /6_ways_pm_role_will_change/
 ---  
-For the last several years, Scotia Digital's Product and Design Communities of Practice have hosted the annual Future Fest Craft festival, a two-day conference focused on craft and innovation. I've been honored to present and participate in panel discussions on "Crafting the Future with AI" for the past two years. Last year, I explored what it takes to build AI-powered features, while this year, my co-host and I led a workshop on leveraging GenAI, specifically Microsoft Copilot, to boost PM productivity during discovery, ideation, and communication.
-
-Beyond the festival itself, I'm thrilled to have contributed an article to the first edition of the printed Future Fest Craft Magazine, which I'm excited to share with you in full.
-
 <figure style="width: 50%" class="align-right">
   <img src="/assets/images/feature_row/futurefest_mainpage.jpg" alt="ScotiaBank Digital - Future Fest Craft 2024 Magazine">
 </figure>
 
+For the last several years, Scotia Digital's Product and Design Communities of Practice have hosted the annual Future Fest Craft festival, a two-day conference focused on craft and innovation. I've been honored to present and participate in panel discussions on "Crafting the Future with AI" for the past two years. Last year, I explored what it takes to build AI-powered features, while this year, my co-host and I led a workshop on leveraging GenAI, specifically Microsoft Copilot, to boost PM productivity during discovery, ideation, and communication.
+
+Beyond the festival itself, I'm thrilled to have contributed an article to the first edition of the printed Future Fest Craft Magazine, which I'm excited to share with you in full.
+
+------------------------------------------------------------------------------------------------
 
 
 Product managers are the bridge between business goals, design vision, and technical feasibility. They define the product's purpose (the **"what"** and **"why"**) and collaborate with their team to determine the **"how"** to make it a reality. Customer champions at heart, they understand user needs and translate them into valuable solutions that benefit both users and the company.
