@@ -17,11 +17,11 @@ layout: single
 
 Hi there 👋! I am Art (Artiom) Kreimer, a product leader with over a decade of experience leading cross-functional teams to bring digital products to life. I have a Bachelor's degree in Communication Systems Engineering and have worked across various industries, including ASIC, Consumer Electronics, Telecom, web and mobile apps, Machine Learning and Conversational AI, and Finance.
 
-I'm passionate about Data Analytics, Machine Learning, and Artificial Intelligence and truly enjoy using these technologies to solve customer problems. As a Principal Product Manager at Scotiabank, I drive product strategy and development, working closely with my team to bring innovative products to market. Before joining [Scotiabank](https://www.scotiabank.com/ca/en/personal.html), I was a key player in the development of Conversational AI and Chatbot Analytics platforms at [Wysdom.AI](https://wysdom.ai/).
+I'm passionate about Data Analytics, Machine Learning, and Artificial Intelligence and truly enjoy using these technologies to solve customer problems. As a Product Lead, Data & AI at Scotia Digital, I drive product strategy and development, working closely with my team to bring innovative products to market. Before joining [Scotiabank](https://www.scotiabank.com/ca/en/personal.html), I was a key player in the development of Conversational AI and Chatbot Analytics platforms at [Wysdom.AI](https://wysdom.ai/).
 
 I live in Ontario, Canada, with my wife, two daughters, and Hungarian Vizsla. I love spending my free time with my family and enjoying outdoor activities like hiking, running, and exploring nature. I am also an avid reader and lifelong learner.
 
-If you want to know more about my experience, skills, certifications and aspirations, ask my personal **[Resume Chatbot](https://www.artkreimer.com/resume/)**.
+If you want to know more about my experience, skills, certifications and aspirations, ask my personal **[ResumeGPT Chatbot](https://www.artkreimer.com/resume/)**.
   
 ## Contact  
 

@@ -105,11 +105,11 @@ author:
 
 # Hi there, I'm Art Kreimer 👋  
 
-I build products and solve problems using AI/ML. Currently serving as a Principal Product Manager at Scotiabank Canada, focusing on the development of AI-powered features for mobile applications.
+I build products and solve problems using AI/ML. Currently serving as a Product Lead, Data & AI at Scotiabank Canada, focusing on the development of AI-powered features for Scotia digital applications.
 
 Beyond my primary role, I enjoy sharing my experience and assisting fellow product managers in expanding their knowledge and honing their skills.
 
-Want to know more about me? Chat with my personal [Resume ChatBot](https://www.artkreimer.com/resume/) or reach out and follow me on [LinkedIn](https://www.linkedin.com/in/artkreimer/).   
+Want to know more about me? Chat with my personal [ResumeGPT ChatBot](https://www.artkreimer.com/resume/) or reach out and follow me on [LinkedIn](https://www.linkedin.com/in/artkreimer/).   
 <!-- <br style="clear:both" />    -->
 ## Featured Post
 {% include feature_row id="feature_row0" type="left"  %}
