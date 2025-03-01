@@ -15,13 +15,16 @@ layout: single
   <img src="/assets/images/bio_image_il.jpeg" alt="">
 </figure>
 
-Hi there 👋! I am Art (Artiom) Kreimer, a product leader with over a decade of experience leading cross-functional teams to bring digital products to life. I have a Bachelor's degree in Communication Systems Engineering and have worked across various industries, including ASIC, Consumer Electronics, Telecom, web and mobile apps, Machine Learning and Conversational AI, and Finance.
+**Hi there!** 👋 I’m Art (Artiom) Kreimer, a product leader with over a decade of experience leading cross-functional teams to build AI-powered digital products. I hold a Bachelor’s degree in Communication Systems Engineering and have worked across diverse industries, including ASIC, consumer electronics, telecom, web and mobile apps, machine learning, conversational AI, and finance.
 
-I'm passionate about Data Analytics, Machine Learning, and Artificial Intelligence and truly enjoy using these technologies to solve customer problems. As a Product Lead, Data & AI at Scotia Digital, I drive product strategy and development, working closely with my team to bring innovative products to market. Before joining [Scotiabank](https://www.scotiabank.com/ca/en/personal.html), I was a key player in the development of Conversational AI and Chatbot Analytics platforms at [Wysdom.AI](https://wysdom.ai/).
+Currently, I’m the Director of Product Management at Guidepoint, where I lead the development of AI-powered products. I’m passionate about using data analytics, machine learning, and artificial intelligence to solve real-world customer challenges and create meaningful value.
 
-I live in Ontario, Canada, with my wife, two daughters, and Hungarian Vizsla. I love spending my free time with my family and enjoying outdoor activities like hiking, running, and exploring nature. I am also an avid reader and lifelong learner.
+Previously, I led product strategy and development for data and AI-driven initiatives at [Scotiabank](https://www.scotiabank.com/ca/en/personal.html). Before that, I played a key role in building conversational AI and chatbot analytics platforms at [Wysdom.AI](https://wysdom.ai/) (Aquired by Calabrio).
 
-If you want to know more about my experience, skills, certifications and aspirations, ask my personal **[ResumeGPT Chatbot](https://www.artkreimer.com/resume/)**.
+I live in Ontario, Canada, with my wife, two daughters, and a Hungarian Vizsla. In my free time, I enjoy being with my family and exploring the outdoors through hiking, running, and nature adventures. I’m also an avid reader and lifelong learner.
+
+Want to learn more about my experience, skills, certifications, and aspirations? Ask my personal **[ResumeGPT Chatbot](https://www.artkreimer.com/resume/)** or connect with me on [Linkedin](https://www.linkedin.com/in/artkreimer/).
+
   
 ## Contact  
 
