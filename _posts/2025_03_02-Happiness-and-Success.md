@@ -1,5 +1,5 @@
 ---
-title: "Success and Happiness: Two Sides of the Same Coin?"
+title: "Success and Happiness - Two Sides of the Same Coin?"
 excerpt: "Balancing external accomplishments with inner peace. If success doesn't bring happiness, is it really success?"
 date: 2025-03-02
 categories:
@@ -37,9 +37,9 @@ There are many ways to measure success: career, wealth, family, fame, impact. Bu
 
 Naval's perspective is particularly relevant because he challenges the traditional definitions of success and happiness. He argues that success is an external pursuit, while happiness is an internal state—one that can be cultivated regardless of external achievements. A few of his quotes stand out:
 
->  **"Happiness is what's there when you remove the sense that something is missing in your life."**
->  **"Happiness is being satisfied with what you have. Success comes from dissatisfaction. Choose."**
->  **"Happiness = Health, Wealth, and Good Relationships."**
+>  "Happiness is what's there when you remove the sense that something is missing in your life."
+>  "Happiness is being satisfied with what you have. Success comes from dissatisfaction. Choose."
+>  "Happiness = Health, Wealth, and Good Relationships."
 
 At this point in my life, I see success as multifaceted. A person can be successful in one domain but still be unhappy if they lack inner peace. However I like the idea of integrating both - measuring my personal success not just by wealth, career, or relationships, but also by my happiness and satisfaction in these areas.
 
