@@ -13,4 +13,4 @@ Introducing my Resume Chatbot – a cool way to check out my work history. It's 
   height="700"
   style="width:100%;border:none;"
 ></iframe> -->
-<iframe src="https://kredar-resumegpt-imp-s3m5.bolt.host/" width="100%" height="600px" frameborder="0"></iframe>
+<iframe src="https://kredar-resumegpt-imp-s3m5.bolt.host/" width="100%" height="800px" frameborder="0"></iframe>
