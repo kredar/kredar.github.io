@@ -12,13 +12,14 @@ tags:
   - AI era
 show_date: true
 author_profile: true
-published: false
+published: true
 header:
   overlay_image: /assets/images/header/ai_pm_era.jpg
   overlay_filter: 0.7
 toc: true
 toc_label: "The Evolving PM"
 toc_sticky: true
+permalink: /role_of_pm_in_ai_era/
 
 ---
 
