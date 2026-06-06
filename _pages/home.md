@@ -11,82 +11,81 @@ header:
   caption: "Photo by [Joshua Woroniecki](https://unsplash.com/@joshua_j_woroniecki?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com/photos/lzh3hPtJz9c?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
     
 
-feature_row0:
-  - image_path: /assets/images/feature_row/resume_bot_f.jpg
-    alt: "placeholder image 2"
-    title: "Building advanced informational chatbot using foundational LLM and Retrieval Augmented Generation (RAG)"
-    excerpt: "Follow this step-by-step guide to learn how to use Langchain, Vector DB, GPT-3.5, and Streamlit to create an advanced informational chatbot."
-    url: "https://www.artkreimer.com/How-To-Build-Resume-Bot-powered-by-llm/"
+feature_featured:
+  - image_path: /assets/images/header/ai_pm_era.jpg
+    alt: "The Role of a Product Manager in the AI Era"
+    title: "The Role of a Product Manager in the AI Era"
+    excerpt: "Two years ago I made six predictions about how the PM role would change. I got some right. But the one I missed completely might be the most important one of all."
+    url: "https://www.artkreimer.com/role_of_pm_in_ai_era/"
     btn_label: "Read More"
     btn_class: "btn--info"
 
-feature_row:
-    # image 1
+feature_recent:
+  - image_path: /assets/images/success_vs_happiness.jpg
+    alt: "Success and Happiness"
+    title: "Success and Happiness — Two Sides of the Same Coin?"
+    excerpt: "Balancing external accomplishments with inner peace. If success doesn't bring happiness, is it really success?"
+    url: "https://www.artkreimer.com/Happiness-and-Success/"
+    btn_label: "Read More"
+    btn_class: "btn--info"
   - image_path: /assets/images/feature_row/6_ways_pm_change_f.jpg
-    alt: "PM role in the next decade"
-    title: "6 ways the role of a product manager is going to change in the next decade"
-    excerpt: "Discover the critical ways the product manager role is changing and how you can adapt to build the products of the future."
+    alt: "6 ways the PM role will change"
+    title: "6 Ways the Role of a Product Manager Is Going to Change"
+    excerpt: "My predictions on how the product manager role is changing and how you can adapt to build the products of the future."
     url: "https://www.artkreimer.com/6_ways_pm_role_will_change/"
     btn_label: "Read More"
     btn_class: "btn--info"
-    # image 2
   - image_path: /assets/images/feature_row/ai_primer_2_f.jpg
-    alt: "AI for PMs part 2"
-    title: "AI Product Development: A Deep Dive into Key Considerations"
-    excerpt: "Learn how to navigate critical issues like bias, black-box nature of some AI algorithms, data security, and why we need to contantly evaluate ML models in production."
-    url: "https://www.artkreimer.com/AI-primer-for-pm-part2/"
+    alt: "Humans and AI"
+    title: "Humans and AI: Balancing AI Innovation with Human Skills"
+    excerpt: "My thoughts on the transformative power of AI and its impact on job dynamics and the balance between human and technological skills."
+    url: "https://www.artkreimer.com/humans_are_underrated/"
     btn_label: "Read More"
     btn_class: "btn--info"
-    #image 3
+
+feature_aiml:
+  - image_path: /assets/images/feature_row/resume_bot_f.jpg
+    alt: "Build a Resume Chatbot with LLMs"
+    title: "How to Build a Resume Chatbot Using the Power of LLMs"
+    excerpt: "Step-by-step guide to building an advanced chatbot using LangChain, Vector DB, GPT-3.5, and Streamlit."
+    url: "https://www.artkreimer.com/How-To-Build-Resume-Bot-powered-by-llm/"
+    btn_label: "Read More"
+    btn_class: "btn--info"
   - image_path: /assets/images/feature_row/ai_primer_f.jpg
-    alt: "AI for PMs part 1"
-    title: "Beyond the Buzz: AI primer for Product Managers"
-    excerpt: "Learn the key insights every PM should know to leverage Artificial Intelligence and Machine Learning."
+    alt: "AI primer for Product Managers"
+    title: "Beyond the Buzz: AI Primer for Product Managers"
+    excerpt: "Learn the key AI/ML concepts every PM should know — from supervised learning to GenAI use cases and what to consider before building your first AI product."
     url: "https://www.artkreimer.com/AI-primer-for-pm/"
     btn_label: "Read More"
     btn_class: "btn--info"
-  
+  - image_path: /assets/images/feature_row/openai_f.jpg
+    alt: "NLP and text analytics with LLMs"
+    title: "NLP and Text Analytics Using Foundational LLMs"
+    excerpt: "Learn how to leverage Large Language Models to simplify sentiment analysis, emotion detection, and topic extraction."
+    url: "https://www.artkreimer.com/How-to-Analyze-App-Reviews-Using-GPT/"
+    btn_label: "Read More"
+    btn_class: "btn--info"
 
-feature_row3:
-  # image 1
+feature_pm:
   - image_path: /assets/images/feature_row/neuron_midjourney_f.jpg
-    alt: "placeholder image 1"
-    title: "Essential mental models for Product Managers"
-    excerpt: "Unlocking better decision-making by adopting proven mental models. This guide unpacks the top mental frameworks that every Product Manager should know for making smarter decisions."
+    alt: "Mental models for Product Managers"
+    title: "Essential Mental Models for Product Managers"
+    excerpt: "Unlocking better decision-making by adopting proven mental models. The top mental frameworks every Product Manager should know."
     url: "https://www.artkreimer.com/Useful-Mental-Models-for-Product-Managers/"
     btn_label: "Read More"
     btn_class: "btn--info"
-# image 2
-  - image_path: /assets/images/christin-hume-k2Kcwkandwg-unsplash.jpg
-    alt: "placeholder image 2"
-    title: "Essential reading list for Product Managers"
-    excerpt: "From seasoned experts to aspiring PMs, this list of must-read books covers all the bases. Discover the reads that will sharpen your skills and mindset."
-    url: "https://www.artkreimer.com/Must-read-Books-for-Product-Managers/"
-    btn_label: "Read More"
-    btn_class: "btn--info"
-# image 3
   - image_path: /assets/images/nick-fewings-EkyuhD7uwSM-unsplash.jpeg
-    alt: "placeholder image 2"
-    title: "Top 10 must-have skills for a Product Manager"
+    alt: "Top 10 PM Skills"
+    title: "Top 10 Must-Have Skills for a Product Manager"
     excerpt: "Discover the essential skills required for excelling as a Product Manager across various organizations."
     url: "https://www.artkreimer.com/Top-Ten-Product-Manager-Must-Have-Skills/"
     btn_label: "Read More"
     btn_class: "btn--info"
-# #image 3
-#   - image_path: /assets/images/campaign-creators-gMsnXqILjp4-unsplash.jpeg
-#     alt: "placeholder image 2"
-#     title: "The role of a Product Manager"
-#     excerpt: "What is Product Management and What is the Role of a Product Manager?"
-#     url: "https://www.artkreimer.com/The-Role-of-a-Product-Manager/"
-#     btn_label: "Read More"
-#     btn_class: "btn--info"
-
-feature_row4:
-  - image_path: /assets/images/feature_row/openai_f.jpg
-    alt: "Text Analytics"
-    title: "NLP and text analytics using foundational LLMs"
-    excerpt: "Learn how you can leverage Large Language Models to simplify sentiment analysis, emotion detection, and topic extraction."
-    url: "https://www.artkreimer.com/How-to-Analyze-App-Reviews-Using-GPT/"
+  - image_path: /assets/images/christin-hume-k2Kcwkandwg-unsplash.jpg
+    alt: "Must-read books for Product Managers"
+    title: "Essential Reading List for Product Managers"
+    excerpt: "From seasoned experts to aspiring PMs, this curated list of must-read books will sharpen your skills and mindset."
+    url: "https://www.artkreimer.com/Must-read-Books-for-Product-Managers/"
     btn_label: "Read More"
     btn_class: "btn--info"
 
@@ -98,33 +97,26 @@ author:
     btn_class: "btn--primary"
 ---
 
-<!-- {% include feature_row id="intro" type="center" %} style="width: 15%" -->  
-<!-- <figure style="width: 25%" class="align-right">
-  <img src="/assets/images/intro_image.jpeg" alt="Art Kreimer">
-</figure> -->
+# Hi there, I'm Art Kreimer 👋  
 
-# Hi there, I'm Art Kreimer 👋  
-
-I build products and solve problems using AI/ML. Currently, I’m the Director of Product Management at Guidepoint, leading the development of AI-driven solutions for the expert network industry.
+I build products and solve problems using AI/ML. Currently, I'm the Director of Product Management at Guidepoint, leading the development of AI-driven solutions for the expert network industry.
 
 Beyond my primary role, I enjoy sharing my experience and helping fellow product managers expand their knowledge and refine their skills.
 
-Want to know more? Chat with my personal [ResumeGPT ChatBot](https://www.artkreimer.com/resume/) or connect with me on [LinkedIn](https://www.linkedin.com/in/artkreimer/).   
-<!-- <br style="clear:both" />    -->
-## Featured Post
-{% include feature_row id="feature_row0" type="left"  %}
-## Posts on Product Management
-{% include feature_row id="feature_row" %}
+Want to know more? Chat with my personal [ResumeGPT ChatBot](https://www.artkreimer.com/resume/) or connect with me on [LinkedIn](https://www.linkedin.com/in/artkreimer/).   
 
-{% include feature_row id="feature_row3" %}
+## Latest Post
+{% include feature_row id="feature_featured" type="left" %}
 
+## Recent Posts
+{% include feature_row id="feature_recent" %}
 
-## Posts on AI/ML
-{% include feature_row id="feature_row4" type="left" %}
+## AI/ML
+{% include feature_row id="feature_aiml" %}
 
+## Product Management
+{% include feature_row id="feature_pm" %}
 
-<!-- {% include feature_row id="author" type="center" %} -->
-<!-- width="480" height="320" -->
 <div style="text-align: center;">
 <iframe src="https://artkreimer.substack.com/embed" title="Newspaper sign up" height="320" width="400" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no" ></iframe>
 </div>
