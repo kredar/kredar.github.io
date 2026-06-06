@@ -1,6 +1,6 @@
 ---
 title: "Conversational AI and its future"
-excerpt: "What is conversational AI and how it would evolve"
+excerpt: "Explore what conversational AI is, key enterprise use cases, architecture components, build vs. buy decisions, and where the technology is headed."
 categories:
   - AI/ML
 tags:

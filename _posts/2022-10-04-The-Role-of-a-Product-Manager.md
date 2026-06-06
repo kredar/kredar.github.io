@@ -1,6 +1,6 @@
 ---
 title: "The Role of a Product Manager"
-excerpt: "What is Product Management and What is the Role of a Product Manager?"
+excerpt: "Understand what product management really means — from defining strategy and roadmaps to the PM's role as customer advocate, communicator, and decision-maker."
 categories:
   - Product Management
 tags:

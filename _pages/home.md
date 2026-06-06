@@ -1,9 +1,9 @@
 ---
 title: "The Art of Product and AI"
-excerpt: "Product Leader writing about AI, Machine Learning, Leadership and Product Management"
+excerpt: "Art Kreimer, Director of Product Management, shares insights on AI/ML, product leadership, and building intelligent products that deliver real value."
 layout: splash
 permalink: /
-date: 2023-09-16T11:48:41-04:00
+date: 2026-06-05T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: 0.7

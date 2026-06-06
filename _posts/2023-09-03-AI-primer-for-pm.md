@@ -1,6 +1,6 @@
 ---
 title: "Beyond the Buzz: AI primer for Product Managers"
-excerpt: "Learn the key AI/ML concepts every PM should know."
+excerpt: "Demystify AI and ML for Product Managers — from supervised learning to GenAI use cases and what to consider before building your first AI product."
 categories:
   - Product Management
 tags:

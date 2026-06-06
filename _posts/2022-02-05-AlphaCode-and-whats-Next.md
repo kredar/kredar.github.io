@@ -1,6 +1,6 @@
 ---
 title: "AlphaCode and what's next"
-excerpt: "Deepmind developed an AI system capable of writing computer programs at a competitive level."
+excerpt: "DeepMind's AlphaCode can write competitive-level code. Explore what it means for software developers and how AI will reshape programming in the future."
 date: 2022-02-05
 categories:
   - AI/ML

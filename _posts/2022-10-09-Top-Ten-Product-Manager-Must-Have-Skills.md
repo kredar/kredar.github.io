@@ -4,7 +4,7 @@ categories:
   - Product Management
 tags:
   - Product Management
-excerpt: "What are the Top Product Management skills to be a successful PM in any organization"
+excerpt: "Discover the 10 essential skills every Product Manager needs — from communication and leadership to data analytics, strategic thinking, and execution."
 header:
   overlay_image: /assets/images/nick-fewings-EkyuhD7uwSM-unsplash.jpeg
   overlay_filter: 0.7 # same as adding an opacity of 0.7 to a black background
