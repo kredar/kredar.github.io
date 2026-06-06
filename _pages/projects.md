@@ -15,7 +15,7 @@ A collection of side projects built at the intersection of AI, product managemen
 
 Instead of a static resume, I built a conversational AI assistant that answers questions about my professional background, skills, and expertise. Ask it about past roles, how I think about product strategy, which tools I've worked with, or anything else you'd find on a resume.
 
-Built with LangChain, Retrieval Augmented Generation (RAG), GPT-3.5, and Streamlit.
+Built with LangChain, Retrieval Augmented Generation (RAG), GPT-3.5, and Bolt. Originally built on Streamlit, migrated to Bolt for a better UX.
 
 [**Try ResumeGPT →**](/resume/){: .btn .btn--primary} &nbsp;&nbsp; [How I built it →](/How-To-Build-Resume-Bot-powered-by-llm/){: .btn .btn--info}
 

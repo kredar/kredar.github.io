@@ -32,8 +32,9 @@ permalink: /How-To-Build-Resume-Bot-powered-by-llm/
 
 ## Introduction
 
-In my previous post ["Exploring the Power of LLMs for NLP Tasks"](https://www.artkreimer.com/How-to-Analyze-App-Reviews-Using-GPT/) I explored how Language Learning Models (LLMs) can be utilized for a range of Natural Language Processing (NLP) tasks —sentiment analysis, topic extraction, content generation, summarization, and more. Building on that foundation, this post aims to guide you through my journey of crafting a resumeGPT chatbot. This chatbot is powered by OpenAI's GPT-3.5, Langchain, and Streamlit. 
-Check out my ResumeGPT Chatbot on [Streamlit](https://akresumegpt.streamlit.app/) or embedded here [ResumeGPT Bot](https://www.artkreimer.com/resume/) 
+In my previous post ["Exploring the Power of LLMs for NLP Tasks"](https://www.artkreimer.com/How-to-Analyze-App-Reviews-Using-GPT/) I explored how Language Learning Models (LLMs) can be utilized for a range of Natural Language Processing (NLP) tasks —sentiment analysis, topic extraction, content generation, summarization, and more. Building on that foundation, this post aims to guide you through my journey of crafting a resumeGPT chatbot. This chatbot is powered by OpenAI's GPT-3.5, Langchain, and originally Streamlit — I've since migrated it to [Bolt](https://bolt.new) for a significantly improved UX.
+
+Check out my ResumeGPT Chatbot at [kredar-resumegpt-imp-s3m5.bolt.host](https://kredar-resumegpt-imp-s3m5.bolt.host/) or embedded here [ResumeGPT Bot](https://www.artkreimer.com/resume/) 
 
 Feel free to fork my repo on [Github](https://github.com/kredar/resumeGPT)
 
@@ -246,9 +247,15 @@ Developing this resume bot, which leverages Streamlit, Langchain, FAISS, and the
 7. **Responsiveness**: The chain I've developed operates at a slower pace than desired. While functional, it requires further optimization for speed.
 8. **Not Production-Ready**: This project was an excellent learning experience, but it's not yet ready for production deployment. Additional steps such as testing, prompt refinement, logging, monitoring, and caching for better responsiveness, as well as input and response validation, are essential to make it production-grade.
 
+## Update: Migrated from Streamlit to Bolt
+
+Since the original post, I've rebuilt the frontend using [Bolt](https://bolt.new) to improve the user experience. The core RAG architecture remains the same, but Bolt provides a cleaner, more polished interface compared to the original Streamlit app.
+
+Try the live bot at [kredar-resumegpt-imp-s3m5.bolt.host](https://kredar-resumegpt-imp-s3m5.bolt.host/) or embedded on my [Resume page](https://www.artkreimer.com/resume/).
+
 ## Demo
 
-Check out my [Resume ChatBot](https://www.artkreimer.com/resume/) or on [Streamlit Cloud](https://akresumegpt.streamlit.app/)
+Check out my [Resume ChatBot](https://www.artkreimer.com/resume/) or directly at [Bolt](https://kredar-resumegpt-imp-s3m5.bolt.host/)
 
 
 
