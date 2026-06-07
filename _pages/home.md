@@ -25,7 +25,7 @@ feature_recent:
     alt: "Success and Happiness"
     title: "Success and Happiness — Two Sides of the Same Coin?"
     excerpt: "Balancing external accomplishments with inner peace. If success doesn't bring happiness, is it really success?"
-    url: "https://www.artkreimer.com/Happiness-and-Success/"
+    url: "https://www.artkreimer.com/Success-vs-Happiness/"
     btn_label: "Read More"
     btn_class: "btn--info"
   - image_path: /assets/images/feature_row/6_ways_pm_change_f.jpg

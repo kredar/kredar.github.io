@@ -83,7 +83,7 @@ I'm using three main tools for this chatbot:
 
 - Langchain to manage the RAG flow
 - FAISS to store embeddings and retrieve documents. Alternative vector stores/DBs are: Chroma, Pinecone, and many others. 
-- Streamlit for UI
+- Streamlit for UI (originally) — since migrated to Bolt for improved UX
 - OpenAI gpt-3.5-turbo for information retrieval
 
 Here's what the Python code looks like to bring these tools together:
